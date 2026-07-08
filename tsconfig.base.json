@@ -15,7 +15,8 @@
     "composite": true,
     "baseUrl": ".",
     "paths": {
-      "@boardgame/core": ["./packages/core/src/index.ts"]
+      "@boardgame/core": ["./packages/core/src/index.ts"],
+      "@boardgame/db": ["./packages/db/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

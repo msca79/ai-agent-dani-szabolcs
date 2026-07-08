@@ -13,6 +13,9 @@ tmp
 .nx/cache
 .nx/workspace-data
 
+# generated prisma client
+packages/db/generated
+
 # test coverage
 coverage
 
