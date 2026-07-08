@@ -1,0 +1,21 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-boardgame}
+      POSTGRES_USER: ${POSTGRES_USER:-boardgame}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-boardgame}
+    ports:
+      - '5432:5432'
+    volumes:
+      - boardgame_pgdata:/var/lib/postgresql/data
+      - ./packages/db/postgres-init:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U ${POSTGRES_USER:-boardgame}']
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  boardgame_pgdata:
