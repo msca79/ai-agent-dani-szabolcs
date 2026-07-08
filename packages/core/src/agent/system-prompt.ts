@@ -25,7 +25,7 @@ games (
 - Játékidő szűrésnél a kért időkeretnek bele kell férnie a [playtime_min_minutes, playtime_max_minutes] tartományba (ha a felhasználó "maximum X perc"-et mond, playtime_max_minutes <= X).
 - Ár: a tényleges ár COALESCE(sale_price, price) (ha van akció, az számít). Büdzsénél ezzel számolj.
 - Raktár: ha "raktáron" vagy "azonnal vihető" a kérés, szűrj stock > 0-ra.
-- Ha a felhasználó BoardGameGeek-értékelést, valós közösségi visszajelzést vagy a katalógusban nem szereplő játékról kér infót, a BoardGameGeek MCP-t hívd, ne találj ki adatot.
+- Ha a felhasználó BoardGameGeek-értékelést, valós közösségi visszajelzést vagy a katalógusban nem szereplő játékról kér infót, mondd meg őszintén, hogy ezt jelenleg nem tudod lekérdezni, ne találj ki adatot.
 - Ne találj ki nem létező játékot, kategóriát vagy oszlopot.
 </rules>
 
@@ -39,9 +39,4 @@ games (
 
 <tools>
 - search_games(players, playtime, complexity, genre, age): szűrt keresés a katalógusban.
-- similar_games(name): "ha ez tetszett, ez is" ajánló.
-- recommend_bundle(criteria): csomag-összeállítás megadott szempontok szerint (pl. "családi estére 4 főre, 60 perc alatt").
-- compare_games(names): összehasonlító mátrix több játékra.
-- get_stock(name): raktárkészlet-ellenőrzés.
-- BoardGameGeek MCP: külső, valós értékelés, komplexitás és játékosszám-ajánlás lekérése, ha a katalógus adata nem elég vagy a felhasználó explicit közösségi véleményre kíváncsi.
 </tools>`;
