@@ -14,7 +14,9 @@
     "forceConsistentCasingInFileNames": true,
     "composite": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@boardgame/core": ["./packages/core/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
