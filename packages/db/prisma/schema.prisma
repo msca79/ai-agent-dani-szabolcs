@@ -6,3 +6,24 @@ generator client {
 datasource db {
   provider = "postgresql"
 }
+
+model Game {
+  id                 Int      @id @default(autoincrement())
+  name               String?
+  bggId              Int?     @map("bgg_id")
+  category           String?
+  complexity         String?
+  playersMin         Int?     @map("players_min")
+  playersMax         Int?     @map("players_max")
+  playtimeMinMinutes Int?     @map("playtime_min_minutes")
+  playtimeMaxMinutes Int?     @map("playtime_max_minutes")
+  minAge             Int?     @map("min_age")
+  price              Decimal? @db.Decimal
+  salePrice          Decimal? @map("sale_price") @db.Decimal
+  stock              Int?
+  rating             Decimal? @db.Decimal
+  reviewsCount       Int?     @map("reviews_count")
+  description        String?
+
+  @@map("games")
+}

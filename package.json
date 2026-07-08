@@ -4,7 +4,8 @@
   "private": true,
   "packageManager": "pnpm@11.10.0",
   "scripts": {
-    "db:validate": "pnpm --filter @boardgame/db exec prisma validate"
+    "db:validate": "pnpm --filter @boardgame/db exec prisma validate",
+    "db:migrate": "pnpm --filter @boardgame/db exec prisma migrate dev --name init_games"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
