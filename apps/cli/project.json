@@ -9,7 +9,7 @@
     "serve": {
       "executor": "nx:run-commands",
       "options": {
-        "command": "tsx apps/cli/src/main.ts"
+        "command": "tsx --tsconfig apps/cli/tsconfig.json apps/cli/src/main.ts"
       }
     }
   }

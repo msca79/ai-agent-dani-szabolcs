@@ -26,5 +26,6 @@
         "testMode": "watch"
       }
     }
-  ]
+  ],
+  "analytics": true
 }
