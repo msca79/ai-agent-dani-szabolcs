@@ -1,3 +1,6 @@
+import type { AskHandler } from './ask-handler';
 import { createProgram } from './create-program';
 
-createProgram().parse(process.argv);
+const handler: AskHandler = async (question) => question;
+
+createProgram(handler).parse(process.argv);
