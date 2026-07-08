@@ -1,0 +1,16 @@
+{
+  "name": "cli",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/cli/src",
+  "projectType": "library",
+  "tags": ["type:app"],
+  "// targets": "to see all targets run: nx show project cli --web",
+  "targets": {
+    "serve": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "tsx apps/cli/src/main.ts"
+      }
+    }
+  }
+}

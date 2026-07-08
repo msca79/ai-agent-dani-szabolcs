@@ -1,0 +1,11 @@
+{
+  "name": "@boardgame/cli",
+  "version": "0.0.0",
+  "private": true,
+  "bin": {
+    "boardgame": "./src/main.ts"
+  },
+  "dependencies": {
+    "commander": "^15.0.0"
+  }
+}
