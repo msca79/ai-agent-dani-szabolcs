@@ -1,6 +1,8 @@
-import type { AskHandler } from './ask-handler';
+import { resolve } from 'node:path';
+import { askAgent } from '@boardgame/core';
+import { config } from 'dotenv';
 import { createProgram } from './create-program';
 
-const handler: AskHandler = async (question) => question;
+config({ path: resolve(__dirname, '../../../.env') });
 
-createProgram(handler).parse(process.argv);
+createProgram(askAgent).parse(process.argv);

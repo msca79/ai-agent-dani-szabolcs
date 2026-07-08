@@ -28,12 +28,16 @@ describe('createProgram', () => {
     logSpy.mockRestore();
   });
 
-  it('should start interactive mode when no subcommand is given', async () => {
-    const handler: AskHandler = async (question) => question;
+  it('should start interactive mode with a handler that forwards to the given handler when no subcommand is given', async () => {
+    const handler: AskHandler = vi.fn(async (question) => `echo:${question}`);
     const program = createProgram(handler);
 
     await program.parseAsync([], { from: 'user' });
 
-    expect(runInteractiveMode).toHaveBeenCalledWith(handler);
+    expect(runInteractiveMode).toHaveBeenCalledWith(expect.any(Function));
+    const passedHandler = vi.mocked(runInteractiveMode).mock.calls[0][0];
+
+    await expect(passedHandler('szia')).resolves.toEqual('echo:szia');
+    expect(handler).toHaveBeenCalledWith('szia');
   });
 });

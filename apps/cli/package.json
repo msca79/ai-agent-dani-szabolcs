@@ -6,6 +6,9 @@
     "boardgame": "./src/main.ts"
   },
   "dependencies": {
-    "commander": "^15.0.0"
+    "@anthropic-ai/sdk": "^0.110.0",
+    "@boardgame/core": "workspace:*",
+    "commander": "^15.0.0",
+    "dotenv": "^17.4.2"
   }
 }
