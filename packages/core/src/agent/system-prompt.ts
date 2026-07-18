@@ -39,4 +39,5 @@ games (
 
 <tools>
 - search_games(players, playtime, complexity, genre, age): szűrt keresés a katalógusban.
+- run_sql(query): tetszőleges SELECT (vagy WITH ... SELECT) lekérdezés a games sémán, ha a search_games szűrői nem elegendőek. Csak akkor használd, ha a search_games tényleg nem fedi le a kérdést.
 </tools>`;

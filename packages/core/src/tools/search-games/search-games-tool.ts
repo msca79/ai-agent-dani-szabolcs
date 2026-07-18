@@ -1,5 +1,6 @@
 import type Anthropic from '@anthropic-ai/sdk';
 import type { Pool } from 'pg';
+import type { ToolDefinition } from '../tool-definition';
 import { buildSearchGamesQuery } from './search-games-query';
 import { CATEGORIES, COMPLEXITIES, searchGamesInputSchema } from './search-games-input';
 
@@ -46,3 +47,8 @@ export async function executeSearchGames(rawInput: unknown, pool: Pick<Pool, 'qu
 
   return result.rows;
 }
+
+export const searchGamesToolDefinition: ToolDefinition = {
+  tool: searchGamesTool,
+  execute: executeSearchGames,
+};

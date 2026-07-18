@@ -1,7 +1,9 @@
 import Anthropic from '@anthropic-ai/sdk';
 import type { Pool } from 'pg';
 import { getReadOnlyPool } from '../db/read-only-pool';
-import { executeSearchGames, searchGamesTool } from '../tools/search-games/search-games-tool';
+import { runSqlToolDefinition } from '../tools/run-sql/run-sql-tool';
+import { searchGamesToolDefinition } from '../tools/search-games/search-games-tool';
+import type { ToolDefinition } from '../tools/tool-definition';
 import { getAnthropicClient } from './anthropic-client';
 import { SYSTEM_PROMPT } from './system-prompt';
 
@@ -9,6 +11,9 @@ const MODEL = process.env['ANTHROPIC_MODEL'] ?? 'claude-sonnet-5';
 const MAX_TOKENS = 1024;
 const MAX_TOOL_ITERATIONS = 5;
 const FALLBACK_ANSWER = 'Erre jelenleg nem tudok válaszolni.';
+
+// Új tool bekötése: egy sor ebben a listában, dispatch-et nem kell máshol karbantartani.
+const TOOL_DEFINITIONS: ToolDefinition[] = [searchGamesToolDefinition, runSqlToolDefinition];
 
 export interface AskAgentDeps {
   client?: Anthropic;
@@ -26,7 +31,7 @@ export async function askAgent(question: string, deps: AskAgentDeps = {}): Promi
       model: MODEL,
       max_tokens: MAX_TOKENS,
       system: SYSTEM_PROMPT,
-      tools: [searchGamesTool],
+      tools: TOOL_DEFINITIONS.map((definition) => definition.tool),
       messages,
     });
 
@@ -38,10 +43,17 @@ export async function askAgent(question: string, deps: AskAgentDeps = {}): Promi
 
     const toolResults: Anthropic.ToolResultBlockParam[] = [];
     for (const block of response.content) {
-      if (block.type === 'tool_use' && block.name === 'search_games') {
-        const rows = await executeSearchGames(block.input, pool);
-        toolResults.push({ type: 'tool_result', tool_use_id: block.id, content: JSON.stringify(rows) });
+      if (block.type !== 'tool_use') {
+        continue;
       }
+
+      const definition = TOOL_DEFINITIONS.find((candidate) => candidate.tool.name === block.name);
+      if (!definition) {
+        continue;
+      }
+
+      const result = await definition.execute(block.input, pool);
+      toolResults.push({ type: 'tool_result', tool_use_id: block.id, content: JSON.stringify(result) });
     }
     messages.push({ role: 'user', content: toolResults });
   }
