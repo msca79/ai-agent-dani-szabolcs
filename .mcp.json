@@ -1,0 +1,24 @@
+{
+  "mcpServers": {
+    "postgres": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-postgres",
+        "postgresql://boardgame_ro:boardgame_ro_dev_only@localhost:5433/boardgame"
+      ],
+      "env": {}
+    },
+    "prisma": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "prisma",
+        "mcp"
+      ],
+      "env": {}
+    }
+  }
+}
