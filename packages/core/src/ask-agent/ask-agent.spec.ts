@@ -48,6 +48,7 @@ describe('askAgent', () => {
           type: 'tool_use',
           id: 'toolu_1',
           name: 'run_sql',
+          caller: { type: 'direct' },
           input: { query: 'SELECT * FROM games WHERE players_min <= 3 AND players_max >= 3' },
         },
       ],
@@ -75,7 +76,9 @@ describe('askAgent', () => {
   it('should throw after exactly MAX_TOOL_ITERATIONS calls if the model keeps requesting tools', async () => {
     const alwaysToolUse: Partial<Anthropic.Message> = {
       stop_reason: 'tool_use',
-      content: [{ type: 'tool_use', id: 'toolu_x', name: 'run_sql', input: { query: 'SELECT 1' } }],
+      content: [
+        { type: 'tool_use', id: 'toolu_x', name: 'run_sql', caller: { type: 'direct' }, input: { query: 'SELECT 1' } },
+      ],
     };
     const { client, create } = makeFakeClient(alwaysToolUse);
     const pool = makeFakePool([]);
