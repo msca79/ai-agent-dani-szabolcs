@@ -4,6 +4,7 @@
   "private": true,
   "packageManager": "pnpm@11.10.0",
   "scripts": {
+    "cli": "tsx --tsconfig apps/cli/tsconfig.lib.json apps/cli/src/main.ts",
     "db:validate": "pnpm --filter @boardgame/db exec prisma validate",
     "db:migrate": "pnpm --filter @boardgame/db exec prisma migrate dev --name init_games",
     "db:seed": "pnpm --filter @boardgame/db exec prisma db seed"

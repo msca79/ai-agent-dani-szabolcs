@@ -40,7 +40,7 @@ működik (Windows PowerShell, vagy WSL Docker Desktop integrációval bekapcsol
 5. CLI indítása:
 
    ```
-   pnpm exec tsx apps/cli/src/main.ts --help
+   pnpm cli --help
    ```
 
 ### Ellenőrzés
