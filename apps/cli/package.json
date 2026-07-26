@@ -2,13 +2,21 @@
   "name": "@boardgame/cli",
   "version": "0.0.0",
   "private": true,
-  "bin": {
-    "boardgame": "./src/main.ts"
+  "scripts": {
+    "cli": "tsx src/main.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.110.0",
-    "@boardgame/core": "workspace:*",
+    "@boardgame/core": "*",
     "commander": "^15.0.0",
     "dotenv": "^17.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.23.0",
+    "typescript": "^6.0.3",
+    "vitest": "~4.1.0"
   }
 }

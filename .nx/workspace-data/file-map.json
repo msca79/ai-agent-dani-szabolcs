@@ -1,0 +1,550 @@
+{
+  "version": "6.0",
+  "nxVersion": "23.0.1",
+  "pathMappings": {
+    "@boardgame/core": [
+      "./packages/core/src/index.ts"
+    ],
+    "@boardgame/db": [
+      "./packages/db/src/index.ts"
+    ]
+  },
+  "nxJsonPlugins": [
+    {
+      "name": "@nx/eslint/plugin",
+      "options": {
+        "targetName": "lint"
+      }
+    },
+    {
+      "name": "@nx/vitest",
+      "version": "23.0.1",
+      "options": {
+        "testTargetName": "test",
+        "ciTargetName": "test-ci",
+        "testMode": "watch"
+      }
+    }
+  ],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": ".claude/settings.json",
+        "hash": "7311896539311378628"
+      },
+      {
+        "file": ".env.example",
+        "hash": "14166680263483523926"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "12641083178510746587"
+      },
+      {
+        "file": ".mcp.json",
+        "hash": "1026768580429549901"
+      },
+      {
+        "file": ".prettierignore",
+        "hash": "9695569518400597911"
+      },
+      {
+        "file": ".prettierrc",
+        "hash": "1496440189091821171"
+      },
+      {
+        "file": "CLAUDE.md",
+        "hash": "3693179293707062853"
+      },
+      {
+        "file": "README.md",
+        "hash": "4334867586457348503"
+      },
+      {
+        "file": "docker-compose.yml",
+        "hash": "6989270261366745050"
+      },
+      {
+        "file": "docs/architektura.md",
+        "hash": "12020977012436080173"
+      },
+      {
+        "file": "docs/boardgame-idea.md",
+        "hash": "17310724785656396119"
+      },
+      {
+        "file": "docs/brs-boardgame.md",
+        "hash": "15487045679057747063"
+      },
+      {
+        "file": "docs/dev-workflow.md",
+        "hash": "11575087017606680748"
+      },
+      {
+        "file": "docs/futas.png",
+        "hash": "7365619529661960178"
+      },
+      {
+        "file": "docs/konvenciok.md",
+        "hash": "15686945544898917576"
+      },
+      {
+        "file": "docs/roi.md",
+        "hash": "5076832648353260000"
+      },
+      {
+        "file": "docs/setup-instructions.md",
+        "hash": "5942143899778911051"
+      },
+      {
+        "file": "docs/stack.md",
+        "hash": "14378505000974478240"
+      },
+      {
+        "file": "docs/system-prompt.md",
+        "hash": "13284076851910962646"
+      },
+      {
+        "file": "eslint.config.mjs",
+        "hash": "17522900019854691272"
+      },
+      {
+        "file": "nx.json",
+        "hash": "5394762605153093234"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "1627170752227320871"
+      },
+      {
+        "file": "package.json",
+        "hash": "12048959261497464989"
+      },
+      {
+        "file": "pnpm-lock.yaml",
+        "hash": "7927430568158204352"
+      },
+      {
+        "file": "pnpm-workspace.yaml",
+        "hash": "14281020068422805299"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "3652876691906668703"
+      },
+      {
+        "file": "vitest.workspace.ts",
+        "hash": "4665328684042819579"
+      },
+      {
+        "file": "wsl/init-wsl-image.sh",
+        "hash": "7922970885115881738"
+      },
+      {
+        "file": "wsl/setup-wsl.sh",
+        "hash": "8980577071076567164"
+      }
+    ],
+    "projectFileMap": {
+      "cli": [
+        {
+          "file": "apps/cli/README.md",
+          "hash": "1111860162915613803"
+        },
+        {
+          "file": "apps/cli/eslint.config.mjs",
+          "hash": "2624537849564014525"
+        },
+        {
+          "file": "apps/cli/package.json",
+          "hash": "12456429428433214275",
+          "deps": [
+            "npm:@anthropic-ai/sdk",
+            "core",
+            "npm:commander",
+            "npm:dotenv@17.4.2"
+          ]
+        },
+        {
+          "file": "apps/cli/project.json",
+          "hash": "18300351878801365418"
+        },
+        {
+          "file": "apps/cli/src/ask-handler.ts",
+          "hash": "8209912059832802360"
+        },
+        {
+          "file": "apps/cli/src/create-program.spec.ts",
+          "hash": "2883364279201155896",
+          "deps": [
+            "npm:vitest"
+          ]
+        },
+        {
+          "file": "apps/cli/src/create-program.ts",
+          "hash": "3977296752538122569",
+          "deps": [
+            "npm:commander"
+          ]
+        },
+        {
+          "file": "apps/cli/src/error-handling.spec.ts",
+          "hash": "15821851172668936660",
+          "deps": [
+            "npm:@anthropic-ai/sdk",
+            "npm:vitest"
+          ]
+        },
+        {
+          "file": "apps/cli/src/error-handling.ts",
+          "hash": "10597879229550902929",
+          "deps": [
+            "npm:@anthropic-ai/sdk"
+          ]
+        },
+        {
+          "file": "apps/cli/src/interactive-mode.spec.ts",
+          "hash": "4947009528625903377",
+          "deps": [
+            "npm:vitest"
+          ]
+        },
+        {
+          "file": "apps/cli/src/interactive-mode.ts",
+          "hash": "2739828160324512899"
+        },
+        {
+          "file": "apps/cli/src/main.ts",
+          "hash": "709234974506765045",
+          "deps": [
+            "core",
+            "npm:dotenv@17.4.2"
+          ]
+        },
+        {
+          "file": "apps/cli/tsconfig.json",
+          "hash": "12975668481162286788"
+        },
+        {
+          "file": "apps/cli/tsconfig.lib.json",
+          "hash": "5717275705250896846"
+        },
+        {
+          "file": "apps/cli/tsconfig.spec.json",
+          "hash": "16829233919054324066"
+        },
+        {
+          "file": "apps/cli/vitest.config.mts",
+          "hash": "7882706385019098974",
+          "deps": [
+            "npm:vitest",
+            "npm:@nx/vite"
+          ]
+        }
+      ],
+      "db": [
+        {
+          "file": "packages/db/README.md",
+          "hash": "15064680343192652252"
+        },
+        {
+          "file": "packages/db/eslint.config.mjs",
+          "hash": "2624537849564014525"
+        },
+        {
+          "file": "packages/db/package.json",
+          "hash": "13158388514019403117",
+          "deps": [
+            "npm:@types/node",
+            "npm:@types/pg",
+            "npm:prisma",
+            "npm:@prisma/adapter-pg",
+            "npm:@prisma/client",
+            "npm:dotenv@17.4.2",
+            "npm:pg"
+          ]
+        },
+        {
+          "file": "packages/db/postgres-init/01-readonly-role.sql",
+          "hash": "12356241719974803019"
+        },
+        {
+          "file": "packages/db/prisma.config.ts",
+          "hash": "8405525190503311809",
+          "deps": [
+            "npm:dotenv@17.4.2",
+            "npm:prisma"
+          ]
+        },
+        {
+          "file": "packages/db/prisma/migrations/20260708141127_init_games/migration.sql",
+          "hash": "3329035795030459121"
+        },
+        {
+          "file": "packages/db/prisma/migrations/migration_lock.toml",
+          "hash": "872437952673290735"
+        },
+        {
+          "file": "packages/db/prisma/schema.prisma",
+          "hash": "3391605033207348511"
+        },
+        {
+          "file": "packages/db/prisma/seed.ts",
+          "hash": "6601076377151478671"
+        },
+        {
+          "file": "packages/db/project.json",
+          "hash": "2528097250024591724"
+        },
+        {
+          "file": "packages/db/src/client/prisma-client.spec.ts",
+          "hash": "1214309472930894710",
+          "deps": [
+            "npm:vitest"
+          ]
+        },
+        {
+          "file": "packages/db/src/client/prisma-client.ts",
+          "hash": "4788808344638928655",
+          "deps": [
+            "npm:@prisma/adapter-pg"
+          ]
+        },
+        {
+          "file": "packages/db/src/index.spec.ts",
+          "hash": "6972799488015636877",
+          "deps": [
+            "npm:vitest"
+          ]
+        },
+        {
+          "file": "packages/db/src/index.ts",
+          "hash": "15634096730596934005"
+        },
+        {
+          "file": "packages/db/src/seed/games-seed-data.ts",
+          "hash": "16301914416417692166"
+        },
+        {
+          "file": "packages/db/src/seed/seed-games.spec.ts",
+          "hash": "8259076149023165524",
+          "deps": [
+            "npm:vitest"
+          ]
+        },
+        {
+          "file": "packages/db/src/seed/seed-games.ts",
+          "hash": "4782723626465037206"
+        },
+        {
+          "file": "packages/db/tsconfig.json",
+          "hash": "12975668481162286788"
+        },
+        {
+          "file": "packages/db/tsconfig.lib.json",
+          "hash": "15219940302001408854"
+        },
+        {
+          "file": "packages/db/tsconfig.spec.json",
+          "hash": "16829233919054324066"
+        },
+        {
+          "file": "packages/db/vitest.config.mts",
+          "hash": "11373376158415068016",
+          "deps": [
+            "npm:vitest",
+            "npm:@nx/vite"
+          ]
+        }
+      ],
+      "core": [
+        {
+          "file": "packages/core/README.md",
+          "hash": "17205686786742445775"
+        },
+        {
+          "file": "packages/core/eslint.config.mjs",
+          "hash": "2624537849564014525"
+        },
+        {
+          "file": "packages/core/package.json",
+          "hash": "9825967237750964028",
+          "deps": [
+            "npm:@types/pg",
+            "npm:@anthropic-ai/sdk",
+            "npm:pg",
+            "npm:zod"
+          ]
+        },
+        {
+          "file": "packages/core/project.json",
+          "hash": "9750702859751225793"
+        },
+        {
+          "file": "packages/core/src/agent/anthropic-client.spec.ts",
+          "hash": "10282404017775325223",
+          "deps": [
+            "npm:vitest"
+          ]
+        },
+        {
+          "file": "packages/core/src/agent/anthropic-client.ts",
+          "hash": "5147333548794807125",
+          "deps": [
+            "npm:@anthropic-ai/sdk"
+          ]
+        },
+        {
+          "file": "packages/core/src/agent/ask-agent.spec.ts",
+          "hash": "16450205862462431200",
+          "deps": [
+            "npm:@anthropic-ai/sdk",
+            "npm:pg",
+            "npm:vitest"
+          ]
+        },
+        {
+          "file": "packages/core/src/agent/ask-agent.ts",
+          "hash": "4274332231974305506",
+          "deps": [
+            "npm:@anthropic-ai/sdk",
+            "npm:pg"
+          ]
+        },
+        {
+          "file": "packages/core/src/agent/system-prompt.spec.ts",
+          "hash": "5380377387122294844",
+          "deps": [
+            "npm:vitest"
+          ]
+        },
+        {
+          "file": "packages/core/src/agent/system-prompt.ts",
+          "hash": "1624176645921943490"
+        },
+        {
+          "file": "packages/core/src/db/read-only-pool.spec.ts",
+          "hash": "12447367602425717702",
+          "deps": [
+            "npm:vitest"
+          ]
+        },
+        {
+          "file": "packages/core/src/db/read-only-pool.ts",
+          "hash": "3177731960107337520",
+          "deps": [
+            "npm:pg"
+          ]
+        },
+        {
+          "file": "packages/core/src/index.spec.ts",
+          "hash": "15845256310378977303",
+          "deps": [
+            "npm:vitest"
+          ]
+        },
+        {
+          "file": "packages/core/src/index.ts",
+          "hash": "5026173293512780318"
+        },
+        {
+          "file": "packages/core/src/tools/run-sql/run-sql-guard.spec.ts",
+          "hash": "12216089883608264795",
+          "deps": [
+            "npm:vitest"
+          ]
+        },
+        {
+          "file": "packages/core/src/tools/run-sql/run-sql-guard.ts",
+          "hash": "7705597292188149677"
+        },
+        {
+          "file": "packages/core/src/tools/run-sql/run-sql-input.ts",
+          "hash": "16004259390799227340",
+          "deps": [
+            "npm:zod"
+          ]
+        },
+        {
+          "file": "packages/core/src/tools/run-sql/run-sql-tool.spec.ts",
+          "hash": "11952613487620332136",
+          "deps": [
+            "npm:pg",
+            "npm:vitest"
+          ]
+        },
+        {
+          "file": "packages/core/src/tools/run-sql/run-sql-tool.ts",
+          "hash": "972020372601546694",
+          "deps": [
+            "npm:@anthropic-ai/sdk",
+            "npm:pg"
+          ]
+        },
+        {
+          "file": "packages/core/src/tools/search-games/search-games-input.ts",
+          "hash": "13184427662045422671",
+          "deps": [
+            "npm:zod"
+          ]
+        },
+        {
+          "file": "packages/core/src/tools/search-games/search-games-query.spec.ts",
+          "hash": "12370770232395864973",
+          "deps": [
+            "npm:vitest"
+          ]
+        },
+        {
+          "file": "packages/core/src/tools/search-games/search-games-query.ts",
+          "hash": "7170921967820267352"
+        },
+        {
+          "file": "packages/core/src/tools/search-games/search-games-tool.spec.ts",
+          "hash": "12416132909671189073",
+          "deps": [
+            "npm:pg",
+            "npm:vitest"
+          ]
+        },
+        {
+          "file": "packages/core/src/tools/search-games/search-games-tool.ts",
+          "hash": "8885219606884914723",
+          "deps": [
+            "npm:@anthropic-ai/sdk",
+            "npm:pg"
+          ]
+        },
+        {
+          "file": "packages/core/src/tools/tool-definition.ts",
+          "hash": "7154637710120948278",
+          "deps": [
+            "npm:@anthropic-ai/sdk",
+            "npm:pg"
+          ]
+        },
+        {
+          "file": "packages/core/tsconfig.json",
+          "hash": "12975668481162286788"
+        },
+        {
+          "file": "packages/core/tsconfig.lib.json",
+          "hash": "5717275705250896846"
+        },
+        {
+          "file": "packages/core/tsconfig.spec.json",
+          "hash": "16829233919054324066"
+        },
+        {
+          "file": "packages/core/vitest.config.mts",
+          "hash": "7609239746897616548",
+          "deps": [
+            "npm:vitest",
+            "npm:@nx/vite"
+          ]
+        }
+      ]
+    }
+  },
+  "externalNodesHash": "11792578042855168318"
+}

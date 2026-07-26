@@ -1,0 +1,2444 @@
+{
+  "apps/cli": {
+    "root": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets": [
+      "apps/cli/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.inputs.0": [
+      "apps/cli/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.1": [
+      "apps/cli/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.2": [
+      "apps/cli/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.3": [
+      "apps/cli/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.4": [
+      "apps/cli/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.5": [
+      "apps/cli/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs": [
+      "apps/cli/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.outputs.0": [
+      "apps/cli/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.outputs": [
+      "apps/cli/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata": [
+      "apps/cli/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.executor": [
+      "apps/cli/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.cwd": [
+      "apps/cli/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.command": [
+      "apps/cli/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options": [
+      "apps/cli/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies": [
+      "apps/cli/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies.0": [
+      "apps/cli/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.description": [
+      "apps/cli/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help": [
+      "apps/cli/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.command": [
+      "apps/cli/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.example": [
+      "apps/cli/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "projectType": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI)": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).0": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).1": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).2": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).3": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.inputs.0": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.1": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.2": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.3": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.4": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.outputs.0": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.outputs": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.executor": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.options.cwd": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.options.command": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.options": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.technologies": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.technologies.0": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.description": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.help": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.help.command": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.help.example": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/create-program.spec.ts": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/create-program.spec.ts.cache": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/create-program.spec.ts.inputs.0": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/create-program.spec.ts.inputs.1": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/create-program.spec.ts.inputs.2": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/create-program.spec.ts.inputs.3": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/create-program.spec.ts.inputs.4": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/create-program.spec.ts.inputs": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/create-program.spec.ts.outputs.0": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/create-program.spec.ts.outputs": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/create-program.spec.ts.metadata": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/create-program.spec.ts.executor": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/create-program.spec.ts.options.cwd": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/create-program.spec.ts.options.command": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/create-program.spec.ts.options": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/create-program.spec.ts.metadata.technologies": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/create-program.spec.ts.metadata.technologies.0": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/create-program.spec.ts.metadata.description": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/create-program.spec.ts.metadata.help": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/create-program.spec.ts.metadata.help.command": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/create-program.spec.ts.metadata.help.example": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/error-handling.spec.ts": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/error-handling.spec.ts.cache": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/error-handling.spec.ts.inputs.0": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/error-handling.spec.ts.inputs.1": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/error-handling.spec.ts.inputs.2": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/error-handling.spec.ts.inputs.3": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/error-handling.spec.ts.inputs.4": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/error-handling.spec.ts.inputs": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/error-handling.spec.ts.outputs.0": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/error-handling.spec.ts.outputs": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/error-handling.spec.ts.metadata": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/error-handling.spec.ts.executor": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/error-handling.spec.ts.options.cwd": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/error-handling.spec.ts.options.command": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/error-handling.spec.ts.options": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/error-handling.spec.ts.metadata.technologies": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/error-handling.spec.ts.metadata.technologies.0": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/error-handling.spec.ts.metadata.description": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/error-handling.spec.ts.metadata.help": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/error-handling.spec.ts.metadata.help.command": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/error-handling.spec.ts.metadata.help.example": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/interactive-mode.spec.ts": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/interactive-mode.spec.ts.cache": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/interactive-mode.spec.ts.inputs.0": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/interactive-mode.spec.ts.inputs.1": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/interactive-mode.spec.ts.inputs.2": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/interactive-mode.spec.ts.inputs.3": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/interactive-mode.spec.ts.inputs.4": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/interactive-mode.spec.ts.inputs": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/interactive-mode.spec.ts.outputs.0": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/interactive-mode.spec.ts.outputs": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/interactive-mode.spec.ts.metadata": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/interactive-mode.spec.ts.executor": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/interactive-mode.spec.ts.options.cwd": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/interactive-mode.spec.ts.options.command": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/interactive-mode.spec.ts.options": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/interactive-mode.spec.ts.metadata.technologies": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/interactive-mode.spec.ts.metadata.technologies.0": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/interactive-mode.spec.ts.metadata.description": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/interactive-mode.spec.ts.metadata.help": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/interactive-mode.spec.ts.metadata.help.command": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/interactive-mode.spec.ts.metadata.help.example": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.executor": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.cache": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.0": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.1": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.2": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.3": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.4": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.outputs.0": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.outputs": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn.0": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn.1": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn.2": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.technologies": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.technologies.0": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.description": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.nonAtomizedTarget": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.help": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.help.command": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.help.example": [
+      "apps/cli/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "name": [
+      "apps/cli/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "apps/cli/package.json",
+      "nx/core/package-json"
+    ],
+    "tags.npm:private": [
+      "apps/cli/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js": [
+      "apps/cli/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageName": [
+      "apps/cli/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageVersion": [
+      "apps/cli/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.isInPackageManagerWorkspaces": [
+      "apps/cli/package.json",
+      "nx/core/package-json"
+    ],
+    "$schema": [
+      "apps/cli/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "apps/cli/project.json",
+      "nx/core/project-json"
+    ],
+    "// targets": [
+      "apps/cli/project.json",
+      "nx/core/project-json"
+    ],
+    "tags.type:app": [
+      "apps/cli/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "apps/cli/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "apps/cli/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.command": [
+      "apps/cli/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options": [
+      "apps/cli/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "packages/core": {
+    "root": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets": [
+      "packages/core/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.inputs.0": [
+      "packages/core/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.1": [
+      "packages/core/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.2": [
+      "packages/core/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.3": [
+      "packages/core/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.4": [
+      "packages/core/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.5": [
+      "packages/core/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs": [
+      "packages/core/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.outputs.0": [
+      "packages/core/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.outputs": [
+      "packages/core/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata": [
+      "packages/core/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.executor": [
+      "packages/core/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.cwd": [
+      "packages/core/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.command": [
+      "packages/core/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options": [
+      "packages/core/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies": [
+      "packages/core/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies.0": [
+      "packages/core/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.description": [
+      "packages/core/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help": [
+      "packages/core/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.command": [
+      "packages/core/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.example": [
+      "packages/core/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "projectType": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI)": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).1": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).2": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).3": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).4": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).5": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).6": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).7": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).8": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).9": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.inputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.1": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.2": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.3": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.4": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.outputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.outputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.executor": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.options.cwd": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.options.command": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.options": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.technologies": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.technologies.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.description": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.help": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.help.command": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.help.example": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/anthropic-client.spec.ts": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/anthropic-client.spec.ts.cache": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/anthropic-client.spec.ts.inputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/anthropic-client.spec.ts.inputs.1": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/anthropic-client.spec.ts.inputs.2": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/anthropic-client.spec.ts.inputs.3": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/anthropic-client.spec.ts.inputs.4": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/anthropic-client.spec.ts.inputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/anthropic-client.spec.ts.outputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/anthropic-client.spec.ts.outputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/anthropic-client.spec.ts.metadata": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/anthropic-client.spec.ts.executor": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/anthropic-client.spec.ts.options.cwd": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/anthropic-client.spec.ts.options.command": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/anthropic-client.spec.ts.options": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/anthropic-client.spec.ts.metadata.technologies": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/anthropic-client.spec.ts.metadata.technologies.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/anthropic-client.spec.ts.metadata.description": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/anthropic-client.spec.ts.metadata.help": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/anthropic-client.spec.ts.metadata.help.command": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/anthropic-client.spec.ts.metadata.help.example": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/ask-agent.spec.ts": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/ask-agent.spec.ts.cache": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/ask-agent.spec.ts.inputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/ask-agent.spec.ts.inputs.1": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/ask-agent.spec.ts.inputs.2": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/ask-agent.spec.ts.inputs.3": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/ask-agent.spec.ts.inputs.4": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/ask-agent.spec.ts.inputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/ask-agent.spec.ts.outputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/ask-agent.spec.ts.outputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/ask-agent.spec.ts.metadata": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/ask-agent.spec.ts.executor": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/ask-agent.spec.ts.options.cwd": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/ask-agent.spec.ts.options.command": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/ask-agent.spec.ts.options": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/ask-agent.spec.ts.metadata.technologies": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/ask-agent.spec.ts.metadata.technologies.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/ask-agent.spec.ts.metadata.description": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/ask-agent.spec.ts.metadata.help": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/ask-agent.spec.ts.metadata.help.command": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/ask-agent.spec.ts.metadata.help.example": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/system-prompt.spec.ts": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/system-prompt.spec.ts.cache": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/system-prompt.spec.ts.inputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/system-prompt.spec.ts.inputs.1": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/system-prompt.spec.ts.inputs.2": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/system-prompt.spec.ts.inputs.3": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/system-prompt.spec.ts.inputs.4": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/system-prompt.spec.ts.inputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/system-prompt.spec.ts.outputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/system-prompt.spec.ts.outputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/system-prompt.spec.ts.metadata": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/system-prompt.spec.ts.executor": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/system-prompt.spec.ts.options.cwd": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/system-prompt.spec.ts.options.command": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/system-prompt.spec.ts.options": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/system-prompt.spec.ts.metadata.technologies": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/system-prompt.spec.ts.metadata.technologies.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/system-prompt.spec.ts.metadata.description": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/system-prompt.spec.ts.metadata.help": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/system-prompt.spec.ts.metadata.help.command": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/agent/system-prompt.spec.ts.metadata.help.example": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/db/read-only-pool.spec.ts": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/db/read-only-pool.spec.ts.cache": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/db/read-only-pool.spec.ts.inputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/db/read-only-pool.spec.ts.inputs.1": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/db/read-only-pool.spec.ts.inputs.2": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/db/read-only-pool.spec.ts.inputs.3": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/db/read-only-pool.spec.ts.inputs.4": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/db/read-only-pool.spec.ts.inputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/db/read-only-pool.spec.ts.outputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/db/read-only-pool.spec.ts.outputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/db/read-only-pool.spec.ts.metadata": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/db/read-only-pool.spec.ts.executor": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/db/read-only-pool.spec.ts.options.cwd": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/db/read-only-pool.spec.ts.options.command": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/db/read-only-pool.spec.ts.options": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/db/read-only-pool.spec.ts.metadata.technologies": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/db/read-only-pool.spec.ts.metadata.technologies.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/db/read-only-pool.spec.ts.metadata.description": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/db/read-only-pool.spec.ts.metadata.help": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/db/read-only-pool.spec.ts.metadata.help.command": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/db/read-only-pool.spec.ts.metadata.help.example": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.cache": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.inputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.inputs.1": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.inputs.2": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.inputs.3": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.inputs.4": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.inputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.outputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.outputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.metadata": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.executor": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.options.cwd": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.options.command": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.options": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.metadata.technologies": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.metadata.technologies.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.metadata.description": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.metadata.help": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.metadata.help.command": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.metadata.help.example": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-guard.spec.ts": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-guard.spec.ts.cache": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-guard.spec.ts.inputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-guard.spec.ts.inputs.1": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-guard.spec.ts.inputs.2": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-guard.spec.ts.inputs.3": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-guard.spec.ts.inputs.4": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-guard.spec.ts.inputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-guard.spec.ts.outputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-guard.spec.ts.outputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-guard.spec.ts.metadata": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-guard.spec.ts.executor": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-guard.spec.ts.options.cwd": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-guard.spec.ts.options.command": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-guard.spec.ts.options": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-guard.spec.ts.metadata.technologies": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-guard.spec.ts.metadata.technologies.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-guard.spec.ts.metadata.description": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-guard.spec.ts.metadata.help": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-guard.spec.ts.metadata.help.command": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-guard.spec.ts.metadata.help.example": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-tool.spec.ts": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-tool.spec.ts.cache": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-tool.spec.ts.inputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-tool.spec.ts.inputs.1": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-tool.spec.ts.inputs.2": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-tool.spec.ts.inputs.3": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-tool.spec.ts.inputs.4": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-tool.spec.ts.inputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-tool.spec.ts.outputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-tool.spec.ts.outputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-tool.spec.ts.metadata": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-tool.spec.ts.executor": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-tool.spec.ts.options.cwd": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-tool.spec.ts.options.command": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-tool.spec.ts.options": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-tool.spec.ts.metadata.technologies": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-tool.spec.ts.metadata.technologies.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-tool.spec.ts.metadata.description": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-tool.spec.ts.metadata.help": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-tool.spec.ts.metadata.help.command": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/run-sql/run-sql-tool.spec.ts.metadata.help.example": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-query.spec.ts": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-query.spec.ts.cache": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-query.spec.ts.inputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-query.spec.ts.inputs.1": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-query.spec.ts.inputs.2": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-query.spec.ts.inputs.3": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-query.spec.ts.inputs.4": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-query.spec.ts.inputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-query.spec.ts.outputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-query.spec.ts.outputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-query.spec.ts.metadata": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-query.spec.ts.executor": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-query.spec.ts.options.cwd": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-query.spec.ts.options.command": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-query.spec.ts.options": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-query.spec.ts.metadata.technologies": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-query.spec.ts.metadata.technologies.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-query.spec.ts.metadata.description": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-query.spec.ts.metadata.help": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-query.spec.ts.metadata.help.command": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-query.spec.ts.metadata.help.example": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-tool.spec.ts": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-tool.spec.ts.cache": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-tool.spec.ts.inputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-tool.spec.ts.inputs.1": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-tool.spec.ts.inputs.2": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-tool.spec.ts.inputs.3": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-tool.spec.ts.inputs.4": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-tool.spec.ts.inputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-tool.spec.ts.outputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-tool.spec.ts.outputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-tool.spec.ts.metadata": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-tool.spec.ts.executor": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-tool.spec.ts.options.cwd": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-tool.spec.ts.options.command": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-tool.spec.ts.options": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-tool.spec.ts.metadata.technologies": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-tool.spec.ts.metadata.technologies.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-tool.spec.ts.metadata.description": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-tool.spec.ts.metadata.help": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-tool.spec.ts.metadata.help.command": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/tools/search-games/search-games-tool.spec.ts.metadata.help.example": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.executor": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.cache": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.1": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.2": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.3": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.4": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.outputs.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.outputs": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn.1": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn.2": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn.3": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn.4": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn.5": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn.6": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn.7": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn.8": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.technologies": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.technologies.0": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.description": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.nonAtomizedTarget": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.help": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.help.command": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.help.example": [
+      "packages/core/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "name": [
+      "packages/core/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "packages/core/package.json",
+      "nx/core/package-json"
+    ],
+    "tags.npm:private": [
+      "packages/core/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js": [
+      "packages/core/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageName": [
+      "packages/core/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageVersion": [
+      "packages/core/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.isInPackageManagerWorkspaces": [
+      "packages/core/package.json",
+      "nx/core/package-json"
+    ],
+    "$schema": [
+      "packages/core/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "packages/core/project.json",
+      "nx/core/project-json"
+    ],
+    "// targets": [
+      "packages/core/project.json",
+      "nx/core/project-json"
+    ],
+    "tags.type:feature": [
+      "packages/core/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "packages/db": {
+    "root": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets": [
+      "packages/db/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.inputs.0": [
+      "packages/db/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.1": [
+      "packages/db/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.2": [
+      "packages/db/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.3": [
+      "packages/db/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.4": [
+      "packages/db/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs.5": [
+      "packages/db/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs": [
+      "packages/db/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.outputs.0": [
+      "packages/db/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.outputs": [
+      "packages/db/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata": [
+      "packages/db/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.executor": [
+      "packages/db/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.cwd": [
+      "packages/db/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.command": [
+      "packages/db/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options": [
+      "packages/db/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies": [
+      "packages/db/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies.0": [
+      "packages/db/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.description": [
+      "packages/db/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help": [
+      "packages/db/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.command": [
+      "packages/db/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.example": [
+      "packages/db/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "projectType": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI)": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).0": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).1": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).2": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "metadata.targetGroups.TEST (CI).3": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.inputs.0": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.1": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.2": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.3": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs.4": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.inputs": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.outputs.0": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.outputs": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.executor": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.options.cwd": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.options.command": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.options": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.technologies": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.technologies.0": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.description": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.help": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.help.command": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test.metadata.help.example": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/client/prisma-client.spec.ts": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/client/prisma-client.spec.ts.cache": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/client/prisma-client.spec.ts.inputs.0": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/client/prisma-client.spec.ts.inputs.1": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/client/prisma-client.spec.ts.inputs.2": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/client/prisma-client.spec.ts.inputs.3": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/client/prisma-client.spec.ts.inputs.4": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/client/prisma-client.spec.ts.inputs": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/client/prisma-client.spec.ts.outputs.0": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/client/prisma-client.spec.ts.outputs": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/client/prisma-client.spec.ts.metadata": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/client/prisma-client.spec.ts.executor": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/client/prisma-client.spec.ts.options.cwd": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/client/prisma-client.spec.ts.options.command": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/client/prisma-client.spec.ts.options": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/client/prisma-client.spec.ts.metadata.technologies": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/client/prisma-client.spec.ts.metadata.technologies.0": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/client/prisma-client.spec.ts.metadata.description": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/client/prisma-client.spec.ts.metadata.help": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/client/prisma-client.spec.ts.metadata.help.command": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/client/prisma-client.spec.ts.metadata.help.example": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.cache": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.inputs.0": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.inputs.1": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.inputs.2": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.inputs.3": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.inputs.4": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.inputs": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.outputs.0": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.outputs": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.metadata": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.executor": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.options.cwd": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.options.command": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.options": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.metadata.technologies": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.metadata.technologies.0": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.metadata.description": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.metadata.help": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.metadata.help.command": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/index.spec.ts.metadata.help.example": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/seed/seed-games.spec.ts": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/seed/seed-games.spec.ts.cache": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/seed/seed-games.spec.ts.inputs.0": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/seed/seed-games.spec.ts.inputs.1": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/seed/seed-games.spec.ts.inputs.2": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/seed/seed-games.spec.ts.inputs.3": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/seed/seed-games.spec.ts.inputs.4": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/seed/seed-games.spec.ts.inputs": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/seed/seed-games.spec.ts.outputs.0": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/seed/seed-games.spec.ts.outputs": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/seed/seed-games.spec.ts.metadata": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/seed/seed-games.spec.ts.executor": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/seed/seed-games.spec.ts.options.cwd": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/seed/seed-games.spec.ts.options.command": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/seed/seed-games.spec.ts.options": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/seed/seed-games.spec.ts.metadata.technologies": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/seed/seed-games.spec.ts.metadata.technologies.0": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/seed/seed-games.spec.ts.metadata.description": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/seed/seed-games.spec.ts.metadata.help": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/seed/seed-games.spec.ts.metadata.help.command": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci--src/seed/seed-games.spec.ts.metadata.help.example": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.executor": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.cache": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.0": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.1": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.2": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.3": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs.4": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.inputs": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.outputs.0": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.outputs": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn.0": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn.1": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn.2": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.dependsOn": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.technologies": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.technologies.0": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.description": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.nonAtomizedTarget": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.help": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.help.command": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "targets.test-ci.metadata.help.example": [
+      "packages/db/vitest.config.mts",
+      "@nx/vitest"
+    ],
+    "name": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "packages/db/package.json",
+      "nx/core/package-json"
+    ],
+    "tags.npm:private": [
+      "packages/db/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js": [
+      "packages/db/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageName": [
+      "packages/db/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageVersion": [
+      "packages/db/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.isInPackageManagerWorkspaces": [
+      "packages/db/package.json",
+      "nx/core/package-json"
+    ],
+    "$schema": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "// targets": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "tags.type:data": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.validate": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.validate.executor": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.validate.options.command": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.validate.options.cwd": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.validate.options": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.migrate": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.migrate.executor": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.migrate.options.command": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.migrate.options.cwd": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.migrate.options": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.seed": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.seed.executor": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.seed.options.command": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.seed.options.cwd": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.seed.options": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.generate": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.generate.executor": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.generate.options.command": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.generate.options.cwd": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.generate.options": [
+      "packages/db/project.json",
+      "nx/core/project-json"
+    ]
+  }
+}
