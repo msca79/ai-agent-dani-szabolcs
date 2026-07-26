@@ -2,13 +2,13 @@
 
 ## Getting started
 
-Előfeltétel: Node LTS, pnpm (`corepack enable pnpm`), és egy olyan shell, ahol a `docker compose`
-működik (Windows PowerShell, vagy WSL Docker Desktop integrációval bekapcsolva — lásd lent).
+Előfeltétel: Node.js LTS (>=22), és egy olyan shell, ahol a `docker compose` működik
+(Windows PowerShell, vagy WSL Docker Desktop integrációval bekapcsolva — lásd lent).
 
 1. Függőségek telepítése:
 
    ```
-   pnpm install
+   npm install
    ```
 
 2. Környezeti változók:
@@ -17,10 +17,10 @@ működik (Windows PowerShell, vagy WSL Docker Desktop integrációval bekapcsol
    cp .env.example .env
    ```
 
-   Töltsd ki az `ANTHROPIC_API_KEY`-t; a `DATABASE_URL` / `DATABASE_URL_READONLY` alapértékei
-   a helyi docker-compose Postgres-hez illeszkednek, nem kell módosítani.
+   Töltsd ki az `ANTHROPIC_API_KEY`-t; a `DATABASE_URL_READONLY` alapértéke a helyi
+   docker-compose Postgres-hez illeszkedik, nem kell módosítani.
 
-3. Postgres indítása:
+3. Postgres indítása (a `games` séma és a seed-adat automatikusan betöltődik első indításkor):
 
    ```
    docker compose up -d
@@ -30,22 +30,17 @@ működik (Windows PowerShell, vagy WSL Docker Desktop integrációval bekapcsol
    > Docker Desktop WSL-integrációt erre a disztróra (Docker Desktop → Settings → Resources →
    > WSL Integration), majd indítsd újra a shellt.
 
-4. Séma migrálása és seed betöltése:
+4. CLI indítása:
 
    ```
-   pnpm run db:migrate
-   pnpm run db:seed
-   ```
-
-5. CLI indítása:
-
-   ```
-   pnpm cli --help
+   npm run cli -- --help
    ```
 
 ### Ellenőrzés
 
 ```
-pnpm exec nx run-many -t test lint
+npm test
+npm run lint
+npm run typecheck
 psql "$DATABASE_URL_READONLY" -c "select count(*) from games;"
 ```

@@ -7,7 +7,7 @@
     "node": ">=22"
   },
   "scripts": {
-    "cli": "npm run cli --workspace=@boardgame/cli",
+    "cli": "npm run cli --workspace=@boardgame/cli --",
     "test": "npm run test --workspaces --if-present",
     "lint": "eslint .",
     "typecheck": "npm run typecheck --workspaces --if-present"
