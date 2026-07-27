@@ -1,15 +1,16 @@
 import Anthropic from '@anthropic-ai/sdk';
+import { getAnthropicClient } from '@boardgame/client';
+import { executeRunSql, getReadOnlyPool, runSqlTool } from '@boardgame/run-sql';
+import { BOARDGAME_SYSTEM_PROMPT } from '@boardgame/system-prompts';
 import type { Pool } from 'pg';
-import { getReadOnlyPool } from '../run-sql/read-only-pool';
-import { runSqlToolDefinition } from '../run-sql/run-sql-tool';
-import { BOARDGAME_SYSTEM_PROMPT } from '../system-prompts/boardgame-system-prompt';
-import { getAnthropicClient } from '../client/anthropic-client';
 import type { ToolDefinition } from './tool-definition';
 
 const MODEL = process.env['ANTHROPIC_MODEL'] ?? 'claude-sonnet-5';
 const MAX_TOKENS = 1024;
 const MAX_TOOL_ITERATIONS = 5;
 const FALLBACK_ANSWER = 'Erre jelenleg nem tudok válaszolni.';
+
+const runSqlToolDefinition: ToolDefinition = { tool: runSqlTool, execute: executeRunSql };
 
 // Új tool bekötése: egy sor ebben a listában, dispatch-et nem kell máshol karbantartani.
 const TOOL_DEFINITIONS: ToolDefinition[] = [runSqlToolDefinition];

@@ -12,7 +12,7 @@ describe('getAnthropicClient', () => {
   it('should throw a clear error when ANTHROPIC_API_KEY is missing', async () => {
     vi.stubEnv('ANTHROPIC_API_KEY', '');
 
-    const { getAnthropicClient } = await import('./anthropic-client');
+    const { getAnthropicClient } = await import('./index');
 
     expect(() => getAnthropicClient()).toThrow('ANTHROPIC_API_KEY');
   });
@@ -20,7 +20,7 @@ describe('getAnthropicClient', () => {
   it('should return the same client instance on repeated calls', async () => {
     vi.stubEnv('ANTHROPIC_API_KEY', 'test-key');
 
-    const { getAnthropicClient } = await import('./anthropic-client');
+    const { getAnthropicClient } = await import('./index');
     const first = getAnthropicClient();
     const second = getAnthropicClient();
 

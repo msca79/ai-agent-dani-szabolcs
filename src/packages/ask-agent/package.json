@@ -1,0 +1,18 @@
+{
+  "name": "@boardgame/ask-agent",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.ts",
+  "types": "index.ts",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.110.0",
+    "@boardgame/client": "*",
+    "@boardgame/run-sql": "*",
+    "@boardgame/system-prompts": "*"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/pg": "^8.20.0",
+    "pg": "^8.22.0"
+  }
+}

@@ -1,6 +1,5 @@
 import type Anthropic from '@anthropic-ai/sdk';
 import type { Pool } from 'pg';
-import type { ToolDefinition } from '../ask-agent/tool-definition';
 import { assertReadOnlySelect } from './run-sql-guard';
 import { runSqlInputSchema } from './run-sql-input';
 
@@ -27,8 +26,3 @@ export async function executeRunSql(rawInput: unknown, pool: Pick<Pool, 'query'>
 
   return result.rows;
 }
-
-export const runSqlToolDefinition: ToolDefinition = {
-  tool: runSqlTool,
-  execute: executeRunSql,
-};
