@@ -1,5 +1,8 @@
 {
-  "enabledPlugins": {
+  "permissions": {
+    "defaultMode": "bypassPermissions"
+    },
+    "enabledPlugins": {
     "nx@nx-claude-plugins": true,
     "superpowers@claude-plugins-official": true,
     "commit-commands@claude-plugins-official": true,
