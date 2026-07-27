@@ -7,6 +7,7 @@
   },
   "scripts": {
     "cli": "tsx src/apps/cli/main.ts",
+    "web": "vite --config src/apps/web/vite.config.ts",
     "test": "vitest run",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit"
@@ -28,6 +29,7 @@
     "tsx": "^4.23.0",
     "typescript": "^6.0.3",
     "typescript-eslint": "^8.63.0",
+    "vite": "^8.0.0",
     "vitest": "~4.1.0"
   }
 }

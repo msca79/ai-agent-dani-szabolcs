@@ -30,10 +30,11 @@ Előfeltétel: Node.js LTS (>=22), és egy olyan shell, ahol a `docker compose` 
    > Docker Desktop WSL-integrációt erre a disztróra (Docker Desktop → Settings → Resources →
    > WSL Integration), majd indítsd újra a shellt.
 
-4. CLI indítása:
+4. Indítás — válassz, melyik felületet szeretnéd:
 
    ```
-   npm run cli -- --help
+   make cli   # interaktív parancssoros ügynök
+   make web   # Vite chat UI, http://localhost:5173
    ```
 
 ### Ellenőrzés

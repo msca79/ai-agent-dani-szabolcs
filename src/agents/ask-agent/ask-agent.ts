@@ -17,18 +17,33 @@ const runSqlToolDefinition: ToolDefinition = { tool: runSqlTool, execute: execut
 // Új tool bekötése: egy sor ebben a listában, dispatch-et nem kell máshol karbantartani.
 const TOOL_DEFINITIONS: ToolDefinition[] = [runSqlToolDefinition];
 
+export interface ConversationTurn {
+  role: 'user' | 'assistant';
+  content: string;
+}
+
 export interface AskAgentDeps {
   client?: Anthropic;
   pool?: Pick<Pool, 'query'>;
+  // Korábbi kérdés/válasz párok — a hívó (cli, web) tartja számon, az askAgent
+  // csak beleveszi ebből az adott hívás kontextusába, saját maga nem őrzi meg.
+  history?: ConversationTurn[];
+  // Ha adott, minden szöveg-deltát megkap streamelve, amint az LLM-től megérkezik
+  // (a tool-hívást igénylő köröknél is, ha a modell ad ilyenkor is szöveget).
+  onTextDelta?: (delta: string) => void;
 }
 
 export async function askAgent(question: string, deps: AskAgentDeps = {}): Promise<string> {
   const client = deps.client ?? getAnthropicClient();
   const pool = deps.pool ?? getReadOnlyPool();
+  const history = deps.history ?? [];
 
-  logAgentEvent('agent_start', { question });
+  logAgentEvent('agent_start', { question, historyLength: history.length });
 
-  const messages: Anthropic.MessageParam[] = [{ role: 'user', content: question }];
+  const messages: Anthropic.MessageParam[] = [
+    ...history.map((turn): Anthropic.MessageParam => ({ role: turn.role, content: turn.content })),
+    { role: 'user', content: question },
+  ];
 
   for (let iteration = 0; iteration < MAX_TOOL_ITERATIONS; iteration++) {
     logAgentEvent('llm_request', {
@@ -39,13 +54,19 @@ export async function askAgent(question: string, deps: AskAgentDeps = {}): Promi
       messages,
     });
 
-    const response = await client.messages.create({
+    const stream = client.messages.stream({
       model: MODEL,
       max_tokens: MAX_TOKENS,
       system: BOARDGAME_SYSTEM_PROMPT,
       tools: TOOL_DEFINITIONS.map((definition) => definition.tool),
       messages,
     });
+
+    if (deps.onTextDelta) {
+      stream.on('text', (delta) => deps.onTextDelta?.(delta));
+    }
+
+    const response = await stream.finalMessage();
 
     logAgentEvent('llm_response', {
       iteration,
