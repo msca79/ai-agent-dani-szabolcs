@@ -1,7 +1,7 @@
 import type Anthropic from '@anthropic-ai/sdk';
-import type { Pool } from 'pg';
 import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
-import { askAgent } from './ask-agent';
+import { runAgentLoop } from './agent-loop';
+import type { ToolDefinition } from './tool-definition';
 
 interface FakeStream {
   on: (event: string, listener: (delta: string) => void) => FakeStream;
@@ -45,11 +45,14 @@ function makeFakeClient(...responses: Partial<Anthropic.Message>[]): {
   return { client, stream };
 }
 
-function makeFakePool(rows: unknown[]): Pick<Pool, 'query'> {
-  return { query: vi.fn(async () => ({ rows })) } as unknown as Pick<Pool, 'query'>;
+function makeFakeTool(name: string, execute: (input: unknown) => Promise<unknown>): ToolDefinition {
+  return {
+    tool: { name, description: 'teszt tool', input_schema: { type: 'object', properties: {} } },
+    execute,
+  };
 }
 
-describe('askAgent', () => {
+describe('runAgentLoop', () => {
   beforeEach(() => {
     vi.spyOn(process.stderr, 'write').mockImplementation(() => true);
   });
@@ -64,17 +67,18 @@ describe('askAgent', () => {
       content: [{ type: 'text', text: 'Szia! Miben segíthetek?', citations: [] }],
     });
 
-    const answer = await askAgent('szia', { client, pool: makeFakePool([]) });
+    const answer = await runAgentLoop('szia', { systemPrompt: 'teszt prompt', tools: [] }, { client });
 
     expect(answer).toEqual('Szia! Miben segíthetek?');
     expect(stream).toHaveBeenCalledTimes(1);
     expect(stream.mock.calls[0][0].messages).toEqual([{ role: 'user', content: 'szia' }]);
+    expect(stream.mock.calls[0][0].system).toEqual('teszt prompt');
   });
 
   it('should return a fallback answer when the response has no text content', async () => {
     const { client } = makeFakeClient({ stop_reason: 'refusal', content: [] });
 
-    const answer = await askAgent('valami tiltott kérdés', { client, pool: makeFakePool([]) });
+    const answer = await runAgentLoop('valami tiltott kérdés', { systemPrompt: 'teszt prompt', tools: [] }, { client });
 
     expect(answer).toEqual('Erre jelenleg nem tudok válaszolni.');
   });
@@ -89,7 +93,7 @@ describe('askAgent', () => {
       { role: 'assistant' as const, content: 'Milyen létszámra?' },
     ];
 
-    await askAgent('Ketten leszünk.', { client, pool: makeFakePool([]), history });
+    await runAgentLoop('Ketten leszünk.', { systemPrompt: 'teszt prompt', tools: [] }, { client, history });
 
     expect(stream.mock.calls[0][0].messages).toEqual([
       { role: 'user', content: 'Szia, kártyajátékot keresek.' },
@@ -105,21 +109,25 @@ describe('askAgent', () => {
     });
     const deltas: string[] = [];
 
-    await askAgent('szia', { client, pool: makeFakePool([]), onTextDelta: (delta) => deltas.push(delta) });
+    await runAgentLoop(
+      'szia',
+      { systemPrompt: 'teszt prompt', tools: [] },
+      { client, onTextDelta: (delta) => deltas.push(delta) },
+    );
 
     expect(deltas).toEqual(['Ajánlom a Dobble-t.']);
   });
 
-  it('should execute run_sql and feed the result back as a tool_result, then return the final text', async () => {
+  it('should dispatch a tool_use block to the matching tool by name and feed the result back', async () => {
     const toolUseResponse: Partial<Anthropic.Message> = {
       stop_reason: 'tool_use',
       content: [
         {
           type: 'tool_use',
           id: 'toolu_1',
-          name: 'run_sql',
+          name: 'fake_tool',
           caller: { type: 'direct' },
-          input: { query: 'SELECT * FROM games WHERE players_min <= 3 AND players_max >= 3' },
+          input: { query: 'valami' },
         },
       ],
     };
@@ -128,11 +136,13 @@ describe('askAgent', () => {
       content: [{ type: 'text', text: 'Ajánlom a Dobble-t.', citations: [] }],
     };
     const { client, stream } = makeFakeClient(toolUseResponse, finalResponse);
-    const pool = makeFakePool([{ id: 1, name: 'Dobble' }]);
+    const execute = vi.fn(async () => [{ id: 1, name: 'Dobble' }]);
+    const tools = [makeFakeTool('fake_tool', execute)];
 
-    const answer = await askAgent('3-an, max 30 perc, parti', { client, pool });
+    const answer = await runAgentLoop('3-an, max 30 perc, parti', { systemPrompt: 'teszt prompt', tools }, { client });
 
     expect(answer).toEqual('Ajánlom a Dobble-t.');
+    expect(execute).toHaveBeenCalledWith({ query: 'valami' });
     expect(stream).toHaveBeenCalledTimes(2);
 
     const secondCallMessages = stream.mock.calls[1][0].messages;
@@ -147,15 +157,15 @@ describe('askAgent', () => {
     const alwaysToolUse: Partial<Anthropic.Message> = {
       stop_reason: 'tool_use',
       content: [
-        { type: 'tool_use', id: 'toolu_x', name: 'run_sql', caller: { type: 'direct' }, input: { query: 'SELECT 1' } },
+        { type: 'tool_use', id: 'toolu_x', name: 'fake_tool', caller: { type: 'direct' }, input: {} },
       ],
     };
     const { client, stream } = makeFakeClient(alwaysToolUse);
-    const pool = makeFakePool([]);
+    const tools = [makeFakeTool('fake_tool', async () => [])];
 
-    await expect(askAgent('sosem áll le', { client, pool })).rejects.toThrow(
-      'A tool-use loop túllépte a maximális iterációszámot.',
-    );
+    await expect(
+      runAgentLoop('sosem áll le', { systemPrompt: 'teszt prompt', tools }, { client }),
+    ).rejects.toThrow('A tool-use loop túllépte a maximális iterációszámot.');
     expect(stream).toHaveBeenCalledTimes(5);
   });
 });

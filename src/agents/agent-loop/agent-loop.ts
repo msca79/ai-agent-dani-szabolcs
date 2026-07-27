@@ -1,41 +1,35 @@
 import Anthropic from '@anthropic-ai/sdk';
 import { getAnthropicClient } from '../client/anthropic-client';
-import { getReadOnlyPool } from '../../tools/run-sql/read-only-pool';
-import { executeRunSql, runSqlTool } from '../../tools/run-sql/run-sql-tool';
-import { BOARDGAME_SYSTEM_PROMPT } from '../system-prompts/boardgame-system-prompt';
-import type { Pool } from 'pg';
 import { logAgentEvent } from './agent-logger';
-import type { ToolDefinition } from './tool-definition';
+import type { ConversationTurn, ToolDefinition } from './tool-definition';
 
 const MODEL = process.env['ANTHROPIC_MODEL'] ?? 'claude-sonnet-5';
 const MAX_TOKENS = 1024;
 const MAX_TOOL_ITERATIONS = 5;
 const FALLBACK_ANSWER = 'Erre jelenleg nem tudok válaszolni.';
 
-const runSqlToolDefinition: ToolDefinition = { tool: runSqlTool, execute: executeRunSql };
-
-// Új tool bekötése: egy sor ebben a listában, dispatch-et nem kell máshol karbantartani.
-const TOOL_DEFINITIONS: ToolDefinition[] = [runSqlToolDefinition];
-
-export interface ConversationTurn {
-  role: 'user' | 'assistant';
-  content: string;
+// Amit egy konkrét agent (query-agent, ingest-agent, ...) ad meg magáról: a
+// promptja és a tool-listája. A pool/DB-kapcsolat SZÁNDÉKOSAN nincs itt —
+// azt minden tool a saját execute closure-ébe zárva hozza magával, így egy
+// agenten belül különböző tool-ok különböző jogosultságú kapcsolatot
+// használhatnak (pl. ingest-agent: olvasás read-only, írás read-write pool-lal).
+export interface AgentLoopConfig {
+  systemPrompt: string;
+  tools: ToolDefinition[];
 }
 
-export interface AskAgentDeps {
+export interface AgentDeps {
   client?: Anthropic;
-  pool?: Pick<Pool, 'query'>;
-  // Korábbi kérdés/válasz párok — a hívó (cli, web) tartja számon, az askAgent
-  // csak beleveszi ebből az adott hívás kontextusába, saját maga nem őrzi meg.
   history?: ConversationTurn[];
-  // Ha adott, minden szöveg-deltát megkap streamelve, amint az LLM-től megérkezik
-  // (a tool-hívást igénylő köröknél is, ha a modell ad ilyenkor is szöveget).
   onTextDelta?: (delta: string) => void;
 }
 
-export async function askAgent(question: string, deps: AskAgentDeps = {}): Promise<string> {
+export async function runAgentLoop(
+  question: string,
+  config: AgentLoopConfig,
+  deps: AgentDeps = {},
+): Promise<string> {
   const client = deps.client ?? getAnthropicClient();
-  const pool = deps.pool ?? getReadOnlyPool();
   const history = deps.history ?? [];
 
   logAgentEvent('agent_start', { question, historyLength: history.length });
@@ -49,16 +43,16 @@ export async function askAgent(question: string, deps: AskAgentDeps = {}): Promi
     logAgentEvent('llm_request', {
       iteration,
       model: MODEL,
-      systemPrompt: BOARDGAME_SYSTEM_PROMPT,
-      tools: TOOL_DEFINITIONS.map((definition) => definition.tool.name),
+      systemPrompt: config.systemPrompt,
+      tools: config.tools.map((definition) => definition.tool.name),
       messages,
     });
 
     const stream = client.messages.stream({
       model: MODEL,
       max_tokens: MAX_TOKENS,
-      system: BOARDGAME_SYSTEM_PROMPT,
-      tools: TOOL_DEFINITIONS.map((definition) => definition.tool),
+      system: config.systemPrompt,
+      tools: config.tools.map((definition) => definition.tool),
       messages,
     });
 
@@ -88,14 +82,14 @@ export async function askAgent(question: string, deps: AskAgentDeps = {}): Promi
         continue;
       }
 
-      const definition = TOOL_DEFINITIONS.find((candidate) => candidate.tool.name === block.name);
+      const definition = config.tools.find((candidate) => candidate.tool.name === block.name);
       if (!definition) {
         continue;
       }
 
       logAgentEvent('tool_call', { iteration, tool: block.name, input: block.input });
 
-      const result = await definition.execute(block.input, pool);
+      const result = await definition.execute(block.input);
 
       logAgentEvent('tool_result', {
         iteration,

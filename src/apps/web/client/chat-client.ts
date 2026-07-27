@@ -1,4 +1,4 @@
-import type { ConversationTurn } from '../../../agents/ask-agent/ask-agent';
+import type { ConversationTurn } from '../../../agents/agent-loop/tool-definition';
 
 interface AskErrorResponse {
   error?: string;

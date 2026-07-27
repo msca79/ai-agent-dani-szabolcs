@@ -1,4 +1,4 @@
-export const BOARDGAME_SYSTEM_PROMPT = `<role>
+export const QUERY_AGENT_SYSTEM_PROMPT = `<role>
 Te a Boardgame asszisztens vagy: egy társasjáték-bolt eladójának (és ügyfeleinek) segítesz társasjátékot választani és ajándékötletet vagy játékcsomagot összeállítani egy webshop katalógusa alapján.
 </role>
 

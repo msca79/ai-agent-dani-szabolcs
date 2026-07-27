@@ -1,6 +1,6 @@
 import type { IncomingMessage, ServerResponse } from 'node:http';
 import type { Plugin } from 'vite';
-import { askAgent } from '../../../agents/ask-agent/ask-agent';
+import { queryAgent } from '../../../agents/query-agent/query-agent';
 import { parseAskRequestBody } from './ask-request';
 
 async function readRequestBody(req: IncomingMessage): Promise<string> {
@@ -36,9 +36,9 @@ async function handleAskRequest(req: IncomingMessage, res: ServerResponse): Prom
   res.setHeader('Content-Type', 'text/plain; charset=utf-8');
 
   try {
-    await askAgent(question, {
+    await queryAgent(question, {
       history,
-      onTextDelta: (delta) => {
+      onTextDelta: (delta: string) => {
         res.write(delta);
       },
     });
@@ -49,7 +49,7 @@ async function handleAskRequest(req: IncomingMessage, res: ServerResponse): Prom
   res.end();
 }
 
-// Az askAgent (Anthropic API-kulcs, DB-kapcsolat) csak a Vite dev-szerver Node
+// A queryAgent (Anthropic API-kulcs, DB-kapcsolat) csak a Vite dev-szerver Node
 // folyamatában fut — a böngészőbe soha nem kerül titok, a kliens csak ezt a
 // /api/ask végpontot hívja fetch-csel, és a törzset streamelve olvassa.
 export function chatApiPlugin(): Plugin {

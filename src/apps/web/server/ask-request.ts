@@ -1,5 +1,5 @@
 import { z } from 'zod';
-import type { ConversationTurn } from '../../../agents/ask-agent/ask-agent';
+import type { ConversationTurn } from '../../../agents/agent-loop/tool-definition';
 
 const conversationTurnSchema = z.object({
   role: z.enum(['user', 'assistant']),
