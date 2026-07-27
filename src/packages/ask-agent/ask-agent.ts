@@ -1,7 +1,8 @@
 import Anthropic from '@anthropic-ai/sdk';
-import { getAnthropicClient } from '@boardgame/client';
-import { executeRunSql, getReadOnlyPool, runSqlTool } from '@boardgame/run-sql';
-import { BOARDGAME_SYSTEM_PROMPT } from '@boardgame/system-prompts';
+import { getAnthropicClient } from '../client/anthropic-client';
+import { getReadOnlyPool } from '../run-sql/read-only-pool';
+import { executeRunSql, runSqlTool } from '../run-sql/run-sql-tool';
+import { BOARDGAME_SYSTEM_PROMPT } from '../system-prompts/boardgame-system-prompt';
 import type { Pool } from 'pg';
 import type { ToolDefinition } from './tool-definition';
 

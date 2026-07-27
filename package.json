@@ -2,19 +2,26 @@
   "name": "boardgame",
   "version": "0.0.0",
   "private": true,
-  "workspaces": ["src/apps/*", "src/packages/*"],
   "engines": {
     "node": ">=22"
   },
   "scripts": {
-    "cli": "npm run cli --workspace=@boardgame/cli --",
+    "cli": "tsx src/apps/cli/main.ts",
     "test": "vitest run",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit"
   },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.110.0",
+    "commander": "^15.0.0",
+    "dotenv": "^17.4.2",
+    "pg": "^8.22.0",
+    "zod": "^4.4.3"
+  },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
     "@types/node": "^22.0.0",
+    "@types/pg": "^8.20.0",
     "@vitest/coverage-v8": "~4.1.0",
     "eslint": "^10.6.0",
     "prettier": "^3.9.4",
