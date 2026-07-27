@@ -23,7 +23,7 @@ Előfeltétel: Node.js LTS (>=22), és egy olyan shell, ahol a `docker compose` 
 3. Postgres indítása (a `games` séma és a seed-adat automatikusan betöltődik első indításkor):
 
    ```
-   docker compose up -d
+   make pg
    ```
 
    > **WSL megjegyzés:** ha a `docker` parancs nem található a WSL disztródban, kapcsold be a

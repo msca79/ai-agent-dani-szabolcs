@@ -1,6 +1,6 @@
 import type Anthropic from '@anthropic-ai/sdk';
 import type { Pool } from 'pg';
-import { describe, expect, it, vi } from 'vitest';
+import { afterEach, beforeEach, describe, expect, it, vi } from 'vitest';
 import { askAgent } from './ask-agent';
 
 function makeFakeClient(...responses: Partial<Anthropic.Message>[]): {
@@ -19,6 +19,14 @@ function makeFakePool(rows: unknown[]): Pick<Pool, 'query'> {
 }
 
 describe('askAgent', () => {
+  beforeEach(() => {
+    vi.spyOn(process.stderr, 'write').mockImplementation(() => true);
+  });
+
+  afterEach(() => {
+    vi.restoreAllMocks();
+  });
+
   it('should extract and join text content blocks when no tool is used', async () => {
     const { client, create } = makeFakeClient({
       stop_reason: 'end_turn',

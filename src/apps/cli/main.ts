@@ -1,5 +1,5 @@
 import { resolve } from 'node:path';
-import { askAgent } from '../../packages/ask-agent/ask-agent';
+import { askAgent } from '../../agents/ask-agent/ask-agent';
 import { config } from 'dotenv';
 import { createProgram } from './create-program';
 
