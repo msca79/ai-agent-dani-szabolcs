@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { BOARDGAME_SYSTEM_PROMPT } from './index';
+import { BOARDGAME_SYSTEM_PROMPT } from './boardgame-system-prompt';
 
 describe('BOARDGAME_SYSTEM_PROMPT', () => {
   it('should contain the core XML tags', () => {
