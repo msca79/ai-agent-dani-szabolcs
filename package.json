@@ -9,6 +9,7 @@
     "cli": "tsx src/apps/cli/main.ts",
     "web": "vite --config src/apps/web/vite.config.ts",
     "convert-rulebooks": "tsx src/apps/rule-book-converter/main.ts",
+    "load-knowledge": "tsx src/rag/load-knowledge/main.ts",
     "test": "vitest run",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit"
@@ -17,6 +18,7 @@
     "@anthropic-ai/sdk": "^0.110.0",
     "commander": "^15.0.0",
     "dotenv": "^17.4.2",
+    "openai": "^7.0.0",
     "pg": "^8.22.0",
     "zod": "^4.4.3"
   },
