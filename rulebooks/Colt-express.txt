@@ -1,0 +1,565 @@
+# COLT EXPRESS
+
+**Játékosszám:** 2–6  
+**Ajánlott életkor:** 10+  
+**Játékidő:** 40 perc  
+**Szerzők:** Christophe Raimbault, Jordi Valbuena
+
+---
+
+## JÁTÉKTARTALOM
+
+### Fizikai komponensek:
+- 1 mozdony
+- 6 vasúti kocsi
+- 1 marsallfigura
+- 6 banditafigura (egy-egy minden játékosnak)
+- 17 fordulókártya
+- 3 vasútállomás-kártya
+- Tölténykártyák (egy játékosonként 6 db, az adott játékos színében)
+- 13 semleges tölténykártya
+- 60 akciókártya (karakterenként 10 db)
+- Zsákmányjelzők (pénzeszsákok és drágakövek):
+  - 18 pénzeszsák (250 $ és 500 $ közötti értékben)
+  - 6 drágakő (fejenként 500 $ értékű)
+- Pénzszállító táskák (2 db, fejenként 1000 $)
+- 10 tereptárgy/dekoratív elem
+- 1 kezdőjátékos-jelölő token
+
+---
+
+## A JÁTÉK SZÖVETSÉGE
+
+### Karakterek és képességeik
+
+**GHOST** (fehér)
+- Alattomos fajta. Képes képpel lefelé is kijátszani akciókártyákat az első körben, illetve ekkor három lap helyett nem húz, ha ezt a lehetőséget kihasználja. Abban a fordulóban azonban nem használhatja a különleges képességét.
+
+**BELLE** (rózsaszín)
+- Legjobb fegyvere a szépsége. Minden forduló elején 7 kártya helyett 7 lapot húz.
+
+**CHEYENNE** (zöld)
+- Kivételes képességű zsebmetsző. A tetőn keresztül rá tud lőni olyan banditára, aki vele egy kocsin tartózkodik, de másik szinten áll.
+
+**TUCO** (piros)
+- Lövését a kocsik teteje sem állíthatja meg. Amikor rálő egy banditára, annak a lövés irányában egy kocsival távolabbra kell mozognia, de soha nem hagyhatja el a vonatot.
+
+**DJANGO** (barna)
+- Lövései olyan erősek, hogy hátrálni kényszerítik az ellenfelet. Amikor rálő egy banditára és megüti, az azonnal egy kocsival hátrafele mozog.
+
+**DOC** (kék)
+- A legokosabb bandita mind közül. Amikor megüt egy banditát, azonnal elveheti az általa elvesztett pénzeszsákot (a sérült játékos választja meg, hogy pénzeszsákot, drágakövet vagy pénzszállító táskát veszít-e).
+
+---
+
+## ELŐKÉSZÜLETEK
+
+### 1. A vonat összeállítása
+- Helyezd az asztal közepére a mozdonyt.
+- Mögé tegyél annyi vasúti kocsit, ahányan játszotok (3–6 játékonként 3–6 kocsi).
+- A kocsik sorrendje és kiválasztása szabadon választható.
+
+### 2. Zsákmány elhelyezése
+- Minden kocsiba tedd az adott szinten lévő ábra szerinti zsákmányt (különböző értékű pénzeszsákok, drágakövek).
+- A pénzeszsákokat **véletlenszerűen** válaszd ki, számos oldalukkal lefelé, hogy értékük rejtve maradjon.
+- A marsallfigurát és az egyik pénzszállító táskát tedd a mozdonyba.
+- A második pénzszállító táskát a mozdony mellé helyezd (nem a vonatra).
+- A maradék zsákmányjelzőket tegyél vissza a dobozba.
+
+### 3. Fordulókártyák készítése
+- Válassz ki véletlenszerűen:
+  - 4 db fordulókártyát a játékosszámnak megfelelő csomagból (2–4 játékos vagy 5–6 játékos jelölésűek)
+  - 1 db vasútállomás-kártyát a 3 közül
+- Ezeket keverd össze, és képpel lefelé egy pakli legyen (vasútállomás-kártya legyen legalul).
+- Maradék kártyákat tegyél vissza a dobozba.
+
+### 4. Semleges tölténykártyák
+- Helyezd a mozdony mellé az összes 13 semleges tölténykártyát.
+
+### 5. Játékosok felkészítése
+Minden játékos:
+- Választ egy karaktert (Ghost, Belle, Cheyenne, Tuco, Django vagy Doc).
+- Magához veszi a kiválasztott karakterhez tartozó karakterkártyát (ezt maga elé teszi).
+- A karakterkártyája bal oldalára rakja a 6 tölténykártyát (számokkal felfelé, növekvő sorrendben).
+- Összekeveri a 10 akciókártyáját és képpel lefelé a karakterkártyája jobb oldalára teszi (ez lesz a saját húzópaklija).
+- Magához vesz egy 250 $ értékű pénzeszsákot és számos oldalával lefelé teszi a karakterkártyájára.
+
+### 6. Banditák elhelyezése
+- Páratlan sorszámú játékosok: banditájuk a leghátsó kocsiban helyezkedik el.
+- Páros sorszámú játékosok: banditájuk egy kocsival közelebb a mozdonyhoz kerül.
+
+### 7. Kezdőjátékos kijelölése
+- Játékosok színének megfelelő banditafigurákkal egy véletlenszerű sorsolást végezz.
+- Akié az első figura, az lesz az első fordulóban a kezdőjátékos.
+- Ő kapja meg az 5 fordulókártyából álló paklit.
+
+---
+
+## A JÁTÉK CÉLJA
+
+Az a játékos nyer, aki a játék végén a **leggazdagabb**, vagyis a legtöbb zsákmányt gyűjtötte össze.
+
+**A párbajhős cím:** Az a játékos kapja meg, aki a legtöbb lövésával találatot ért el (vagyis akinek a színében a legkevesebb tölténykártya marad a játék végén). Ez 1000 $ értékű és a játékosnak a karakterkártyáját átfordítva jelzi ezt.
+
+---
+
+## A JÁTÉK MENETE
+
+### Játékszerkezet
+- A játék **5 fordulóból** áll.
+- Minden forduló **2 fázisra** oszlik:
+  1. **Cselszövés! fázis** – Játékosok akciókártyákat játszanak ki.
+  2. **Rablás! fázis** – A kijátszott akciókat végrehajtják.
+
+---
+
+## EGY FORDULÓ KEZDETE
+
+1. Minden játékos **összekeveri** a kártyáit:
+   - 10 akciókártyája
+   - Az előző fordulóban ellene kijátszott tölténykártyák
+
+2. Ezt a paklit a **karakterkártyája jobb oldalára** teszi.
+
+3. A **kezdőjátékos felcsapja** a legfelső fordulókártyát és az asztal közepén jól látható helyre teszi.
+
+4. Minden játékos **6 lapot húz** a saját paklijából.
+
+---
+
+## 1. FÁZIS: CSELSZÖVÉS!
+
+Ez a fázis a fordulókártya szerinti számú körből áll.
+
+### Körök menete (kezdőjátékostól folytatva, sorban az óramutató járásával megegyezően):
+
+Amikor egy játékosra sorra kerül, az alábbi lehetőségek közül **választ egyet**:
+
+**A) Akciókártyát játszik ki:**
+- A kezéből egy akciókártyát képpel felfelé tesz a közös paklira (kivéve ha a fordulókártya másként utasítja).
+- Az akciók ekkor még **nem hajtódnak végre** – csak a pakliba kerülnek.
+
+**B) Lapokat húz:**
+- A kezéből 3 további lapot húz a saját paklijából a kezébe.
+- Ebben az esetben az a fordulóban **nem használhatja a karaktere különleges képességét** (ha a Ghost vagy Belle karaktert játssza).
+
+### A Cselszövés! fázis vége
+- A fordulókártyán látható körök után a fázis véget ér.
+- A kezében maradó, **ki nem játszott** kártyák a játékos húzópaklijának tetejére kerülnek vissza.
+
+---
+
+## 2. FÁZIS: RABLÁS!
+
+### Akciók végrehajtása
+
+1. A **kezdőjátékos** felveszi a Cselszövés! fázisban kijátszott összes kártyát.
+2. **Nem változtat a sorrendjén**, hanem átfordítja a paklit, hogy felfedhesse a lapokat.
+3. Az **első (felső)** lappal kezdve, sorban egyesével végrehajtják az akciókat – a kijátszás sorrendjében.
+
+### Az akciók után
+- Az akciókártyák visszakerülnek a tulajdonosukhoz, aki azokat visszateszi a saját paklijára.
+
+### Az egyetlen banditára vonatkozó szabály
+Minden játékos **csak egy banditát** irányít. Ezek az akciók csak erre az egy banditára vonatkoznak.
+
+---
+
+## AZ AKCIÓKÁRTYÁK
+
+### MOZGÁS (Move)
+Mozgasd a banditát az alábbiak szerint:
+
+- **Ha kocsi belsejében van:** Egy szomszédos kocsi belsejébe mozgatható (előre vagy hátrafelé).
+- **Ha a kocsi tetején van:** Legfeljebb 3 kocsinyi távolságra mozgatható (előre vagy hátrafelé).
+- **A mozdony** szintén kocsinak számít – a bandita lehet a belsejében vagy a tetején.
+- **Kötelező mozogni** – nem maradhat egy helyben.
+
+---
+
+### SZINTVÁLTÁS (Change Level)
+Változtasd meg a banditád elhelyezkedését:
+- Ha a **kocsi belsejében** van: felmegy a **kocsi tetejére**.
+- Ha a **kocsi tetején** van: leereszkedik a **kocsi belsejébe**.
+
+---
+
+### RABLÁS (Steal)
+Végy el egy zsákmányjelzőt:
+- Csak abból a kocsiból lehet lopni, amelyikben a banditád tartózkodik.
+- A zsákmányjelzőt helyezd a karakterkártyádra **számos oldalával lefelé** (értéke rejtve marad).
+- **Ha a tetőn állsz:** nem rabolhatsz a belsőből, és fordítva.
+- Ha nincs zsákmány az adott helyen, az akciónak nincs hatása.
+
+---
+
+### LÖVÉS (Shoot)
+Válassz egy **ellenfél banditáját** és adj neki egy tölténykártyádat.
+
+#### Lövési szabályok:
+
+**Azonos szinten lőni:**
+- Ha egy **kocsi belsejében** állsz: olyan banditára lőhetsz, aki egy szomszédos kocsi belsejében van (csak az előtti vagy mögötti kocsiban).
+- Ha a **kocsi tetején** állsz: bármelyik olyan tetőn álló banditára lőhetsz, akire rálátsz (nincs közöttetek más bandita).
+  - Az **ugyanazon tetőn álló banditák** nem takarják ki egymást – te döntöd el, melyik lesz célpont.
+
+**Keresztül a tetőn (csak Cheyenne képessége):**
+- Cheyenne rá tud lőni olyan banditára, aki vele egy kocsin tartózkodik, de másik szinten áll (tetőn lő a belsejébe vagy fordítva).
+
+#### Lövés hatása:
+- Az ellenfél játékos az adott tölténykártyát a paklijára teszi.
+- **Célpont hiánya:** Ha nincs érvényes célpont, tartsd meg a tölténykártyádat – az akciónak nincs hatása.
+- **Kifogyott tölténykártyák:** Ha már nincs több tölténykártyád, a további lövés akcióknak nincs hatása.
+
+---
+
+### ÜTÉS (Punch)
+Válassz egy olyan banditát, aki **veled egy kocsin és egy szinten** tartózkodik.
+
+#### Az ütés hatása:
+1. A megütött bandita **elveszít egy zsákmányjelzőt** (ha van nála).
+2. Az általa elveszített zsákmányjelzőt helyezd a **vonatra a banditád mellé** (számos oldalával lefelé, ha pénzeszsák).
+   - **Doc különleges szabálya:** Doc azonnal elveheti az általa elvesztett pénzeszsákot. Ha drágakövet vagy pénzszállító táskát veszít (Doc döntése alapján), az ugyanúgy a kocsi padlójára kerül.
+3. A megütött bandita egy **szomszédos kocsiba mozog** (az általad kiválasztott irányba – előre vagy hátra – ugyanazon a szinten maradva).
+   - Ha a mozdonyban állsz: csak hátrafelé mozhatsz.
+   - Ha az utolsó kocsiban állsz: csak előrefelé mozhatsz.
+
+#### Védelem:
+- **Nem lehetsz célpontja ütésnek vagy lövésnek**, ha van másik bandita is, aki érvényes célpontja lehet a támadásnak.
+
+---
+
+### MARSALL (Marshal)
+Mozgasd a marsallt egy kocsival **előre vagy hátra**.
+
+#### Marsall szabályok:
+- A **marsall soha nem megy fel a tetőre** – csak kocsi belsejében tartózkodik.
+- Ha a marsall belép egy kocsi belsejébe, ahol banditák vannak (vagy fordítva – banditák lépnek be a marsallal), a banditáknak **azonnal fel kell menekülniük a tetőre** (még akkor is, ha most érkeztek le onnan).
+- Egy **bandita soha nem állhat** abban a kocsi belsejében, ahol a marsall is van.
+- **Minden ezzel egy helyre kerülő bandita** kap egy **semleges tölténykártyát** a paklijába.
+
+---
+
+## FORDULÓKÁRTYÁK TÍPUSAI
+
+### Fordulókártyák jelei:
+
+**Képpel felfelé (Face Up) 📌**
+- Ebben a körben az akciókártyákat képpel felfelé kell kijátszani (normális).
+
+**Képpel lefelé (Face Down) 🔙**
+- Ebben a körben az akciókártyákat **képpel lefelé** kell kijátszani – másik játékosok nem látják, melyik akciót játszod ki.
+
+**Dupla sor (Double Turn) ⏹️**
+- Ebben a körben minden játékos **kétszer kerül sorra**:
+  - 6 lapot húz, **vagy**
+  - 2 lapot játszik ki egymás után, **vagy**
+  - 3 lapot húz és egyet játszik ki.
+
+**Visszafelé (Reverse) 🔄**
+- Ezt a kört az **óramutató járásával ellentétes irányban** kell lejátszani (a kezdőjátékostól indulva).
+
+### Speciális fordulókártyák (események):
+
+Ezek a kártyák a **forduló végén, a Rablás! fázis után** kerülnek sorra. Az eseményt **mindig végre kell hajtani**, ha lehetséges.
+
+---
+
+## AZ ESEMÉNYEK
+
+### Alagút (Tunnel)
+- Minden **kocsi belsejébe** helyezkedő bandita kap egy **semleges tölténykártyát**.
+
+### Utasok lázadása (Passengers Revolt)
+- Tegyétek a **második pénzszállító táskát** oda, ahol a **marsall** éppen áll.
+
+### Felfelé (Heading Up)
+- Szerezd meg **mind**! (Ezt az eseményt a játékosok teljesítik – szabad szöveges akció.)
+
+### Előrehaladás (Moving Forward)
+- Minden **tetőn álló** banditának **előre kell lépnie egyet** (a mozdony felé).
+
+### Fékezés (Brake)
+- Minden **tetőn álló** bandita átkerül a **leghátsó kocsi tetejére**.
+
+### Forgókar (Carousel)
+- A **marsall rálő** a **kocsija tetején álló** banditákra.
+  - Ezek a banditák mind kapnak egy **semleges tölténykártyát**.
+  - Ezután a **marsall lép egyet** a vonat hátulja felé.
+  - Ha már a **leghátsó kocsiban** van, nem mozog.
+
+### Dühös marsall (Angry Marshal)
+- Minden olyan bandita, aki **egyedül** áll egy kocsiban vagy annak tetején, felvehet egy **pénzeszsákot** a kocsijából (ha van ott olyan).
+
+### Zsebmetszők (Pickpockets)
+- *(Az esemény leírása hiányzik a forrásból, de a szabályok szerint:)*
+- Alkalmazott szabály a haladó szabályok alapján.
+
+### A marsall bosszúja (Marshal's Revenge)
+- Minden olyan bandita, aki a **marsall feletti tetőn** tartózkodik, **elveszíti a legkevésbé értékes pénzeszsákját** a karakterkártyájáról.
+- Ha egy banditának nincs pénzeszsákja, nem veszít semmit (még akkor sem, ha van nála drágakő vagy pénzszállító táska).
+
+### A mozdonyvezető túszul ejtése (Taking the Engine Driver Hostage)
+- Minden olyan bandita, aki a **mozdony belsejében vagy tetején** áll, kap **250 $ váltságdíjat**.
+- Ezt a készletben lévő **zsákmányjelzőkkel** tarthatjátok nyilván.
+
+---
+
+## A FORDULÓ VÉGE
+
+1. Az esetleges **eseményt** végezd el.
+2. A **bal oldali szomszédod** lesz az új kezdőjátékos a következő fordulóban.
+3. Ő magához veszi a megmaradt fordulókártyákat.
+4. Új forduló kezdődik.
+
+---
+
+## A JÁTÉK VÉGE
+
+A játék **5 forduló után** ér véget.
+
+### Végeredmény:
+1. Minden játékos **összeadja** az általa gyűjtött zsákmányjelzők értékét.
+
+2. **Párbajhős cím:**
+   - Az kapja meg, aki a **legtöbb töltényt lőtte ki** (vagyis akinek a színében a legkevesebb tölténykártya maradt).
+   - Ez **1000 $** értékű.
+   - Ha döntetlen alakul ki: minden döntetlenben álló játékos **1000 $-t** kap.
+   - A játékos ezt a karakterkártyájának átfordításával jelzi.
+
+3. **Végső helyezés:**
+   - A **leggazdagabb** játékos nyer.
+   - **Döntetlen esetén:** az nyer, aki a legkevesebb tölténykártyát kapta a játék során az ellenfelektől és az események miatt.
+
+---
+
+## A BANDITÁK SZABÁLYAI
+
+### Lövés szabályai (Shooting Rules)
+
+**Ghost (fehér) céljainak szempontjából:**
+- [ÁBRA MAGYARÁZAT: Ghost egy középső kocsiban tartózkodik. Rá tud lőni Tucóra (piros), aki egy szomszédos kocsin van, és Cheyenne-re (zöld), de nem tud lőni Docra (kék), mivel ő egy kocsin áll Ghosttal.]
+
+---
+
+### Ütés szabályai (Punch Rules)
+
+Az ütés során:
+1. Az ütést csak **ugyanazon kocsin, ugyanazon szinten** álló banditára lehet végrehajtani.
+2. A megütött bandita **egy szomszédos kocsiba mozog**.
+3. A bandita által elvesztett zsákmány **a kocsi padlójára kerül**.
+
+---
+
+### Mozgás szabályai (Movement Rules)
+
+**Tetőn mozgás (Roof Movement):**
+- A tetőn való mozgás lehetővé teszi az időmegtakarítást.
+- Az ajtók és az utasok nem állnak az utadba.
+
+**Belsőben mozgás (Interior Movement):**
+- A kocsi belsejében való mozgás szükséges a zsákmány lopagatásához.
+
+---
+
+### Mozdonyvezető védelem és szabályok
+
+A **mozdony** szintén kocsinak számít:
+- Banditák lehetnek a **belsejében** vagy a **tetején**.
+- A **marsall** lehet a mozdony belsejében.
+- Banditák szabadon mozoghatnak a mozdonyba és onnan.
+
+---
+
+## HALADÓ VÁLTOZAT (Advanced Rules)
+
+Ha szeretnétek nagyobb befolyással lenni a játékra, játsszatok a dobópaklival.
+
+### Szükséges módosítások:
+
+1. **Dobópakli felállítása:**
+   - Minden játékosnak legyen egy **dobópaklija** a húzópaklija jobb oldalán.
+
+2. **Cselszövés! fázis elején:**
+   - Ha akarjátok, **dobjatok el** minden felhúzott tölténykártyát – így nem lesz annyi fölösleges lap a kezetekben.
+
+3. **Cselszövés! fázis végén:**
+   - Megtarthattok a kezetekben **bármennyi lapot** a következő fordulóra.
+   - **Dobjátok el** az összes tölténykártyát és az összes olyan lapot, amit nem szeretnétek megtartani.
+
+4. **Rablás! fázis során:**
+   - A **kezdőjátékostól visszakapott** kártyákat helyezd a **dobópaklidra**.
+   - Az **ellenfeleidtől kapott** tölténykártyák azonban a **húzópaklid tetejére** kerülnek (képpel lefelé).
+
+5. **Minden forduló kezdetén:**
+   - Húzz annyi kártyát a húzópakliból, hogy ismét **6 lap legyen** a kezedben.
+
+6. **Pakli kimerülése:**
+   - Valahányszor **kifogy a húzópaklid** és új kártyákat kell húznod, keverd meg a **dobópaklidat**, hogy abból legyen az új **húzópakli**.
+   - A dobópaklidat **bármikor átnézheted**.
+
+---
+
+## KÜLÖNLEGES SZABÁLYOK KÉT JÁTÉKOS RÉSZÉRE
+
+### Előkészületek (Setup for 2 Players)
+
+#### Vonat összeállítása:
+- A vonatot a mozdonyból és **4 tetszés szerinti kocsibó**l állítsátok össze.
+
+#### Csapatok kiválasztása:
+Minden játékos választ egy **2 karakterből álló csapatot**:
+- **Javasolt első csapatok:**
+  - 1. csapat: Tuco és Cheyenne
+  - 2. csapat: Django és Doc
+
+#### Banditák elhelyezése:
+- **Mindkét csapatból egy-egy bandita** a **legutolsó** kocsin.
+- **Mindkét csapatból egy-egy bandita** az **utolsó előtti** kocsin.
+
+#### Karakterkártyák és tölténykártyák:
+- Mindkét játékos helyezze maga elé a **két karakterkártyáját**.
+- **Bal oldalukra:** a hozzájuk tartozó **6-6 tölténykártyát**.
+- **Rájuk:** egy-egy **250 $-os pénzeszsákot**.
+
+#### Akciókártyák előkészítése:
+- Minden karakter akciókártya-készletéből **távolítsátok el a duplikáltakat**.
+- Távolítsatok el **az egyik karakter egyik marsallkártyáját is**.
+
+**Végeredmény a kezedben:**
+- **11 kártya** marad egy játékosnál:
+  - 2 Lövés (1 mindkét karakternek)
+  - 2 Ütés (1 mindkét karakternek)
+  - 2 Mozgás (1 mindkét karakternek)
+  - 2 Szintváltás (1 mindkét karakternek)
+  - 1 Marsall
+- Ezt a 11 kártyát **kevert** húzópaklija lesz.
+
+#### Húzópaklija összeállítása:
+- Mindkét játékos a **két-két banditája kevert akciókártya-készletével** játszik.
+
+### Szabályváltozások 2 játékos esetén:
+
+#### Haladó szabályok:
+- A kétszemélyes játék az **Advanced Rules** (dobópakli) szerint zajlik.
+
+#### Játék célja:
+- Az a játékos nyer, akinek a **csapata** a játék végén a **leggazdagabb**.
+
+#### Párbajhős cím:
+- **Senki sem nyerheti el a párbajhősi címet** kétszemélyes játék esetén.
+
+#### Tölténykártyák:
+- Amikor egy banditát meglőnek, a kapott **tölténykártyát a húzópaklija tetejére** kell tenni.
+- **Fontos:** Az is előfordulhat, hogy egy bandita figyelmetlenségből a **saját csapattársát lövi le**!
+
+---
+
+## FONTOS MEGJEGYZÉSEK ÉS SPECIÁLIS SZABÁLYOK
+
+### Vonatot elhagyni tilos:
+- A **banditák soha nem hagyhatják el a vonatot**.
+- Ha Django lövése vagy egy esemény miatt a **mozdonyról előre** vagy a **leghátsó kocsiról hátra** kéne lépned, **nem mozogsz**.
+
+### Semleges tölténypakli kimerülése:
+- Ha **elfogy a semleges tölténypakli**, vagy nincs elég kártya benne ahhoz, hogy minden érintett bandita megkapja a magáét:
+  - A banditák nem kapnak semleges töltényt sem akkor, ha a marsallal találkoznak, sem pedig akkor, ha valamilyen esemény ezt mondaná.
+  - Ezt követően a **semleges tölténypakli kikerül a játékból**.
+
+---
+
+## KARAKTEREK KÉPESSÉGEI (BANDITA SZABÁLYOK)
+
+### GHOST (Alattomos)
+- Képes **képpel lefelé** kijátszani akciókártyákat az első körben.
+- Ha ezt megteszi, **nem húz három lapot** az első körben.
+- **Abban a fordulóban nem használhatja** a különleges képességét később.
+
+### BELLE (Szépség)
+- Minden forduló elején **hét kártyát** húz (hat helyett).
+
+### CHEYENNE (Tetőn lövés)
+- A **tetőn keresztül rá tud lőni** olyan banditára, aki vele egy kocsin tartózkodik, de másik szinten.
+
+### TUCO (Áthatoló lövés)
+- Lövését a **kocsik teteje nem állíthatja meg**.
+- Amikor rálő egy banditára, az a **lövés irányában egy kocsival távolabbra** mozog.
+
+### DJANGO (Erős lövés)
+- Lövései olyan erősek, hogy **hátrálni kényszerítik** az ellenfelet.
+- Az ütés után egy kocsival **hátrafele mozog**.
+
+### DOC (Okos)
+- Amikor **megüt egy banditát, azonnal elveheti** az általa elvesztett pénzeszsákot.
+- Ha drágakövet vagy pénzszállító táskát veszít (Doc döntése alapján), az ugyanúgy a kocsi padlójára kerül.
+
+---
+
+## JÁTÉKTÁBLÁZAT ÉS KOMPONENSEK ÁTTEKINTÉSE
+
+### Fordulókártyák jelei (Symbol Guide)
+
+[ÁBRA MAGYARÁZAT: A fordulókártyákon az alábbi szimbólumok találhatók:
+- **Képpel felfelé ikon:** Normális kör (Face Up)
+- **Képpel lefelé ikon:** Rejtett akciók (Face Down)
+- **Dupla nyíl ikon:** Dupla kör (Double Turn)
+- **Fordított nyíl ikon:** Visszafelé (Reverse)
+- **Szám az ikonnál:** Az adott forduló körszáma]
+
+### Tölténykártyák (Bullet Cards)
+- Minden játékosnak **6 db különböző tölténykártyája** van (1-6 számozás).
+- Ezek **sérüléseket szimbolizálnak**.
+- Ha egy játékos egy tölténykártyát kap, azt a paklijára teszi, és nem használható akciót játszik ki.
+
+### Zsákmányjelzők (Loot Tokens)
+- **Pénzeszsákok:** 250 $ vagy 500 $ értékű.
+- **Drágakövek:** 500 $ értékű (speciális érték).
+- **Pénzszállító táskák:** 1000 $ értékű (speciális zsákmány).
+
+---
+
+## JÁTÉKMENET GYORS ÖSSZEFOGLALÁSA
+
+### 1. forduló:
+- Kezdőjátékos kijelölése
+- Fordulókártya felcsapása
+- Játékosok 6-6 kártyát húznak
+
+### Cselszövés! fázis:
+- Játékosok akciókártyákat játszanak ki vagy lapokat húznak
+- Körök száma a fordulókártya szerint
+
+### Rablás! fázis:
+- Akciók végrehajtása a kirakás sorrendjében
+- Zsákmány szerzése, lövések, ütések
+- Szintváltások és mozgások
+
+### Forduló vége:
+- Esemény (ha van) végrehajtása
+- Bal oldali szomszéd lesz az új kezdőjátékos
+
+### 5 forduló után:
+- Játék vége
+- Pontok összeszámolása
+- Győztes megállapítása
+
+---
+
+## EXPORTÁLÓ INFORMÁCIÓK
+
+**Ludonaute**  
+11 A rue des pivettes  
+13800 Istres, Franciaország  
+contact@ludonaute.fr  
+www.ludonaute.fr
+
+**Magyar importőr: Gémker-Gémklub Kft.**  
+1092 Budapest, Ráday u. 30.  
+info@gemker.hu  
+www.gemker.hu
+
+© 2014 Ludonaute, All Rights Reserved.  
+© 2014 COLT EXPRESS, All Rights Reserved.
+
+**Fordítás:** Kohári Zsolt  
+**Korrektúra:** Molnár László (Lacxox)

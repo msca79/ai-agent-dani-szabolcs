@@ -1,0 +1,466 @@
+# CAMEL – Játékszabály
+
+## Tartalom
+
+- 1 játéktábla
+- 5 teve fából
+- 5 fakocka
+- 40 fogadáskártya (szereplőként 5)
+- 8 sivataglapka (szereplőként 1)
+- 15 szakasz fogadáslapka (a tevék színeiben, színenként 3)
+- 5 piramis lapka
+- 50 érme (egyiptomi font)
+- 20 pénzkártya (egyiptomi font)
+- 1 szakaszkezdő-játékos jelző
+- 1 piramis (4 elemből összeállítva)
+- 1 gumiszalag (színtelen)
+- 2 tartalék gumiszalag
+
+## A Piramis Összeállítása
+
+Az első játék megkezdése előtt óvatosan emeljétek ki a kartontáblákból a lapkákat, érméket és a 4 piramiselemet. A piramist a következőképpen állíthatjátok össze:
+
+### Piramis komponensei:
+- 1 külső piramis
+- 1 belső piramis
+- 1 rögzítő elem
+- 1 tolótető
+- 1 gumiszalag
+
+A piramist csak egyszer kell összeépíteni, az első játék megkezdése előtt, majd összeépítve megőrizhetitek a játék dobozában a későbbi partikra.
+
+[ÁBRA MAGYARÁZAT: A piramis összeállításának négy lépése: 1. A két piramisrész összeállítása a rögzítő elemmel; 2. Az összeállított piramis alulnézete; 3. A tolótetővel ellátott piramis felülnézetből; 4. A tolótető működésének bemutatása, amely lehetővé teszi a kockák kipottyantását.]
+
+## Előkészületek
+
+### 1. lépés: Játékosok és szereplők kiválasztása
+Válasszon ki minden játékos egy szereplőt és vegye magához a szereplőhöz tartozó 5 fogadáskártyát és a sivataglapkát. A lapokat mindenki vegye a kezébe, a sivataglapkákat pedig mindenki tegye maga elé.
+
+Kerüljenek vissza a játék dobozába azok a fogadáskártyák és sivataglapok, amelyeket egyik játékos sem választott.
+
+### 2. lépés: A játéktábla felállítása
+Fektessétek a játéktáblát az asztal közepére.
+
+[ÁBRA MAGYARÁZAT: A játéktábla felépítése: 
+- versenypálya mezők (a tevék mozgási útvonala az óramutató járásával megegyezően)
+- a piramis helye (a pálya közepén)
+- a fürge tevék fogadómezője (ahol a végső nyertes tevéről lehet fogadni)
+- a nyüzüge tevék fogadómezője (ahol a végső vesztes tevéről lehet fogadni)
+- a piramislapkák lerakó-mezője
+- célvonal (ahol a verseny végződik)]
+
+### 3. lépés: Piramislapkák előkészítése
+Az 5 piramislapkából alakítsatok ki egy lefordított paklit a játéktábla piramislapkák mezőjén.
+
+### 4. lépés: Tevék elhelyezése
+A tevéket állítsátok rá a szakasz-fogadáskártyák előtt álló sátrakra. Minden teve a saját színű sátrára kerüljön.
+
+### 5. lépés: Szakasz fogadáslapkák elrendezése
+A szakasz fogadáslapkákat válogassátok színenként külön, majd a következő sorrendben tegyétek rá a játéktáblára a színének megfelelő mezőre:
+- Alul: 2-es értékű lapka
+- Középen: 3-as értékű lapka
+- Felül: 5-ös értékű lapka
+
+### 6. lépés: Pénz kiosztása
+Válogassátok szét értékük szerint a pénzkártyákat és az érméket. Tegyétek őket a játéktábla mellé, ez lesz a játék folyamán a bank.
+
+Mindenki kapjon 3 egyiptomi font kezdőtőkét a bankból, amit jól láthatóan tegyen maga elé.
+
+### 7. lépés: Szakaszkezdő-játékos jelző
+A legfiatalabb játékos vegye magához a szakaszkezdő-játékos jelzőt.
+
+### 8. lépés: Piramisba kockák töltése
+Az öt kockát végül szórja bele az összeállított piramisba úgy, hogy a nyíllal jelzett irányba eltolja a piramis tolótetőjét és a kockákat egymás után beleszórja a nyílásba.
+
+Ezután a megtöltött piramis kerüljön a játéktáblán a versenypálya közepére.
+
+### 9. lépés: Kezdeti pozíciók
+A legfiatalabb játékos dobja ki a tevék kiinduló állását. Ehhez az öt kockát vegye a kezébe és egyszerre dobjon velük. Majd a dobásnak megfelelően állítsa a versenypálya mezőire a tevéket a következők szerint:
+
+- Az 1. szimbólumot mutató kockákhoz tartozó tevéket az 1. mezőre
+- A 2. szimbólumot mutató kockákhoz tartozó tevéket a 2. mezőre
+- A 3. szimbólumot mutató kockákhoz tartozó tevéket a 3. mezőre
+
+Végül az azonos mezőre került tevéket állítsa egymásra. (A játékos szabadon dönthet arról, hogy milyen sorrendbe állítja egymásra a tevéket.)
+
+[ÁBRA MAGYARÁZAT: Dobáspélda - A dobás eredménye: zöld, sárga és narancssárga teve az 1-es mezőre, kék és fehér teve a 3-as mezőre kerül. Az ábra a végeredményt mutatja, ahol a tevék a megfelelő mezőkre helyezkedtek.]
+
+## Pénz
+
+- A játékban egyiptomi fontot használunk (amit EP-nek rövidítünk).
+- A játékosok a pénzüket mindenki számára jól láthatóan maguk előtt tartják (kedvük szerint oszlopba rendezve, vagy kupacba halmozva).
+- Amíg a verseny tart senki sem köteles megmondani senkinek, hogy mennyi pénze van.
+- A játékosok 1:1 arányban válthatják a pénzüket a bankkal (például 5 db 1 EP-ért lehet 1 db 5 EP-t kérni).
+- Egy játékos sem eshet 0 alá. Ez azt jelenti, hogy ha egy játékosnak nincsen elegendő pénze egy hibás fogadás kifizetésére, akkor a szabályok őt ez alól felmentik.
+
+## A Játék Menete
+
+### Tevek, Tevecsapatok és Tevetoronyok
+
+**Tevecsapat:** Akkor beszélünk tevecsapatról, amikor tevét léptetünk. Függetlenül attól, hogy egy– vagy több tevével lépünk, az elnevezés lépéskor: tevecsapat. Egy tevecsapat egy, vagy több egymáson álló tevéből állhat. Ha egy tevecsapat olyan mezőn fejezi be lépését, amelyiken egy másik tevecsapat áll, akkor egy hatalmas ugrással a komplett tevecsapat az ott álló tevecsapat hátára ugrik.
+
+**Tevetorony:** Akkor beszélünk tevetoronyról, amikor több teve áll egymáson. Az a teve, amelyikkel lépünk, lépése során, a hátán álló összes tevét magával viszi, az alatta álló összes tevét pedig a helyén hagyja.
+
+A verseny helyezése szempontjából fontos, hogy az a teve, amelyik egy másik teve hátán áll, mindig jobb helyezettként értékelődik, mint a közvetlenül alatta álló teve.
+
+### A Tevék Mozgása
+
+A tevék a versenypályán az óramutató járásával megegyező irányban lépnek előre. Lépésüket a piramis befolyásolhatja úgy, hogy egy játékos fejjel lefelé fordítja a piramist, majd a tolótető eltolásával kipottyant egy kockát. A kipottyant kockával megegyező színű teve annyit lép előre, amennyit a kipottyant kocka mutat.
+
+### Az Első Szakasz Kezdete
+
+Az első szakaszt és ezzel a játékot az a játékos kezdi, akinél a szakaszkezdő-játékos jelző van. Lépése során a játékos pontosan 1 akciót visz véghez. Őt követően a bal oldalán ülő játékos visz véghez egy akciót, majd az ő bal oldali szomszédja és így tovább. Ez azt jelenti, hogy a játékosok az óramutató járásával megegyező irányban egyesével kerülnek sorra a játékban.
+
+### Lehetséges Akciók
+
+A soron lévő játékosnak lehetősége van 4 különböző akcióból 1 akciót kiválasztani, amit kötelezően véghez kell vinnie:
+
+1. **Vegyél 1 szakasz fogadáslapkát**
+2. **Tedd le a sivataglapkádat a versenypálya egy mezőjére**
+3. **Húzz 1 piramislapkát és használd a piramist arra, hogy az egyik tevét előreléptesd**
+4. **Fogadj a fürge tevére (végső nyertes) VAGY a nyüzüge tevére (végső vesztes)**
+
+---
+
+## 1. Akció: Vegyél 1 Szakasz Fogadáslapkát
+
+Vedd el a játéktáblán lévő egyik pakliról a legfelső szakasz fogadáslapkát és tedd magad elé. Ezzel fogadtál az ahhoz a színhez tartozó tevére és bízol abban, hogy a tevéd a szakasz végén vezető helyen lesz.
+
+**Megjegyzés:** Addig, amíg van még a játéktáblán szakasz fogadáslapka, ezzel az akcióval elvehetsz egyet, függetlenül attól, hogy van-e már előtted egy vagy több szakasz fogadáslapka.
+
+[ÁBRA MAGYARÁZAT: A szakasz fogadáslapkák értéke szerint vannak rendezve: felül az 5-ös érték, középen a 3-as érték, alul a 2-es érték. Az akció során a játékos a legfelső lapkát veszi el.]
+
+---
+
+## 2. Akció: Tedd le a Sivataglapkádat
+
+Tedd a sivataglapkádat a versenypálya egy üres mezőjére. Tehát olyan mezőre, ahol sem teve, sem pedig másik sivataglapka nincsen. Nem teheted a lapkádat olyan mezőre sem, amelyik melletti mezőn másik sivataglapka van. Továbbá nem teheted a versenypálya 1-es mezőjére.
+
+**Megjegyzés:** Ha a sivataglapkád már a versenypályán van, akkor ezzel az akcióval áthelyezheted egy másik mezőre (természetesen ezeknek a szabályoknak a betartásával).
+
+### Sivataglapkák Hatása
+
+A sivataglapkád lehelyezésekor dönthetsz arról, hogy a lapka melyik oldala legyen felül látható: az oázis oldal, vagy a délibáb oldal. Az oldalak különbözőképpen befolyásolják a tevék lépését.
+
+[ÁBRA MAGYARÁZAT: A sivataglapka elhelyezésének szabálya - az üres mezőre lehet tenni, ahol sem teve, sem másik sivataglapka nincsen, és a szomszéd mezőkön sem lehet sivataglapka. Az ábra egy helyes és egy helytelen elhelyezést mutat.]
+
+#### Ha a Tevecsapat egy Sivataglapkára Érkezik
+
+Ha a tevecsapat olyan mezőre érkezik, amelyiken sivataglapka fekszik, akkor a sivataglapka tulajdonosa azonnal kap a bankból 1 EP-t. Valamint attól függően, hogy a lapka melyik oldala mutat felfelé, a tevecsapat 1 mezőt előre, vagy hátra lép:
+
+**Oázis oldal:** Ha az oázis oldal van felfelé, a tevecsapatnak 1 mezőt előre kell lépnie. Ha a tevecsapat olyan mezőre érkezik, amelyiken egy másik tevecsapat áll, akkor a komplett tevecsapat felugrik a mezőn álló tevecsapat hátára.
+
+**Délibáb oldal:** Ha a délibáb oldal van felfelé, a tevecsapatnak 1 mezőt vissza kell lépnie. Ha a tevecsapat olyan mezőre érkezik, amelyiken egy másik tevecsapat áll, akkor a mezőn álló tevecsapat ráugrik a mezőre érkező tevecsapat hátára.
+
+[ÁBRA MAGYARÁZAT: A sivataglapka két oldala és azok hatása: az oázis oldal (zöld) 1 mezőt előre, a délibáb oldal (sárga) 1 mezőt hátra léptet. Az ábra a tevecsapat mozgásának irányát nyilakkal jelöli.]
+
+---
+
+## 3. Akció: Húzz 1 Piramislapkát és Használd a Piramist
+
+Húzz 1 piramislapkát a játéktáblán lévő pakliból és tedd magad elé. Majd fogd meg a piramist, rázd meg és végül pottyants ki belőle egy kockát.
+
+Tartsd magad előtt a piramislapkát, amit a dobás előtt elvettél. A következő szakaszértékeléskor minden olyan piramislapkáért, amit a szakasz során szereztél 1 EP-t kapsz.
+
+### Hogyan Használd a Piramist?
+
+A piramis használatának lépésenkénti folyamata:
+
+[ÁBRA MAGYARÁZAT: A piramis használatának 4 lépése:
+1. Fogd meg a piramist, rázd meg és végül pottyants ki belőle egy kockát - fejjel lefelé fordított helyzetben.
+2. Miután megráztad a piramist, állítsd fejtetőre (a csúcsa legyen lefelé) és tedd le magad elé az asztalra.
+3. Fogd meg a piramist, told el a tolótetőt a nyíl irányába, míg feltárul egy lyuk a piramis tetején és a lyukon keresztül az asztalra pottyan egy kocka.
+4. Várj egy pillanatig, majd engedd vissza a tolótetőt. Így a piramis nyílása bezáródik. Fontos, hogy eközben a piramis csúcsa folyamatosan az asztalon legyen.]
+
+**Lépések részletesen:**
+
+1. **Fogd meg a piramist és rázd meg** – fejjel lefelé fordított helyzetben.
+
+2. **Állítsd fejtetőre** – a csúcsa legyen lefelé, majd tedd le magad elé az asztalra.
+
+3. **Told el a tolótetőt** – a nyíl irányába, míg feltárul egy lyuk a piramis tetején és a lyukon keresztül az asztalra pottyan egy kocka.
+
+4. **Engedd vissza a tolótetőt** – így a piramis nyílása bezáródik. Fontos, hogy eközben a piramis csúcsa folyamatosan az asztalon legyen.
+
+5. **Fordítsd fel függőleges állásba** – a kirabarcázott kocka után fordítsd fel függőleges állásba a piramist és állítsd a játékfelületre a helyére.
+
+**Megjegyzés:** Ha nem pottyan ki kocka az alján, akkor engedd vissza a tolótetőt, fordítsd meg a piramist, rázd meg, majd fordítsd le és próbálj újra kipottyantani egy kockát.
+
+### Léptetés és Kocka Elhelyezése
+
+Miután kiejtetted a kockát, lépj a kocka színével azonos színű tevével annyit, amennyit a kocka mutat: 1, 2 vagy 3 mezőt.
+
+Miután léptél egy tevecsapattal, helyezd a kipottyantott kockát a színének megfelelő sátorra. Így mindenki láthatja, hogy még milyen színű kockák vannak a piramisban.
+
+**Megjegyzés:** Ha a teve egy tevetoronyban áll, akkor az összes olyan tevét, amelyik a hátán áll, magával viszi.
+
+[ÁBRA MAGYARÁZAT: Dobáspélda 1 - A fehér kocka pottyant ki 2-es számmal. A fehér teve 2 mezőt lép előre, miközben a hátán viszi a zöld tevét. A fehér teve a zöld tevével a hátán arra a mezőre érkezik, amelyiken a sárga teve áll. A fehér és a zöld teve felugrik a sárga teve hátára.
+
+Dobáspélda 2 - A narancssárga kocka pottyant ki 3-as számmal. A narancssárga teve 3 mezőt lép előre miközben a hátán viszi a sárga tevét.]
+
+---
+
+## 4. Akció: Fogadj a Fürge VAGY a Nyüzüge Tevére
+
+### A Fürge Teve (Végső Nyertes)
+
+Fogadhatsz egy fürge tevére. Ez azt jelenti, hogy titokban szavazhatsz arra a tevére, akiről úgy gondolod, hogy a játék végén első helyen áll majd és megnyeri a versenyt. A fogadás menete a következő:
+
+A kiválasztott tevéhez tartozó fogadáskártyát úgy, hogy más ne lássa, lefordítva ráteszed a fürge teve fogadómezőjére.
+
+### A Nyüzüge Teve (Végső Vesztes)
+
+Ha a nyüzüge tevére akarsz fogadni, akkor azt is megteheted. Ebben az esetben a nyüzüge tevék fogadómezőjére kell tenned annak a tevének a fogadáskártyáját amelyikről úgy gondolod, hogy a játék végén az utolsó helyen végez majd.
+
+### Általános Szabályok
+
+- Ha már van az érintett fogadómezőn fogadáskártya, akkor egyszerűen csak tedd rá lefordítva a kártyádat az ott fekvő lapra.
+- A fogadásmezőkre lerakott kártyáknak a játék végéig ott kell maradniuk. Akkor is, ha játék közben rád tör a felismerés, hogy rosszul tippeltél.
+- Egészen addig, míg van fogadáskártyád, választhatod ezt az akciót, ami során 1 kártyát valamelyik fogadásmezőre leteszel.
+
+---
+
+## Egy Szakasz Vége
+
+Egy szakasznak akkor van vége, amikor az ötödik kockát is kipottyantottuk a piramisból és a kockának megfelelő teve lépést tett. Amikor egy játékos az utolsó piramislapkát veszi le a játékfelületről, akkor a megszokottak szerint használja a piramist, hogy egy kockát kipottyantson és lépjen az érintett tevével.
+
+Mielőtt a következő játékos megkezdené lépését, **szakaszértékelés** következik:
+
+### Szakaszértékelés Menete
+
+1. **Szakaszkezdő-játékos jelző átadása**
+   
+   Először a szakaszkezdő-játékos jelző átkerül ahhoz a játékoshoz, aki a baloldali szomszédja az utolsó piramislapkát elvevő játékosnak.
+
+2. **Vezető teve megállapítása**
+   
+   A játékosok megállapítják melyik a versenyben vezető teve (az a teve, amelyik legelöl áll). Ha egy tevetorony áll az első helyen, akkor a tevetorony legfelső helyén álló teve számít vezetőnek.
+
+3. **Pontszámítás**
+   
+   A játékosok EP-t nyernek, vagy veszítenek az előttük fekvő szakasz fogadáslapkákért és piramislapkákért.
+
+### Szakasz Fogadáslapkák Értékelése
+
+A játékosok a szakaszértékelésnél összeszámolják az előttük fekvő lapkákat:
+
+- **Minden szakasz fogadáslapkáért, aminek a színe megegyezik a vezető teve színével:** a játékos a lapkán feltüntetett összeget kapja: 5, 3, vagy 2 EP-t.
+- **Minden szakasz fogadáslapkáért, aminek a színe megegyezik a második teve színével:** a játékos 1 EP-t kap.
+- **Minden szakasz fogadáslapkáért, aminek a színe megegyezik a 3., 4., 5. helyen álló teve színével:** a játékos elveszít 1 EP-t.
+- **Minden piramislapkáért:** a játékos 1 EP-t kap.
+
+### Pénzügyletek
+
+A végösszeget minden játékos kiszámolja magának és elveszi a bankból, vagy befizeti a bankba a szükséges EP-t.
+
+[ÁBRA MAGYARÁZAT: Szakaszértékelési példa - A szakaszértékelésnél a zöld teve vezet. A sárga teve a második. „A" játékos előtt a következő lapkák fekszenek:
+- 1 zöld 5-ös lapka = +5 EP
+- 1 zöld 2-es lapka = +2 EP
+- 1 zöld 1-es lapka = +1 EP
+- 1 narancssárga lapka = -1 EP
+- 1 sárga lapka = +1 EP
+- 1 kék lapka = +1 EP
+- 2 piramislapka = +2 EP
+Összes EP = +9 EP]
+
+### Új Szakasz Előkészítése
+
+Miután minden játékos megkapta, illetve befizette a szükséges pénzösszeget, a játékfelület megfelelő mezőire visszateszik a szakasz fogadáslapkákat és a piramislapkákat (abban a sorrendben, ahogyan a játék előkészítésekor tették). 
+
+Ezen kívül az eddig letett sivataglapkákat leveszik a játékfelületről és visszaadják a tulajdonosának. 
+
+Végül elveszik a zászlókról az 5 kockát és beleszórják a piramisba.
+
+A következő szakaszt az a játékos kezdi, akinél a szakaszkezdő-játékos jelző van.
+
+---
+
+## A Játék Vége
+
+### A Verseny Vége
+
+A verseny és ezzel a játék is akkor ér véget, amikor az első teve áthalad a célvonalon. 
+
+**Amint egy tevecsapat átlépi a célvonalat, a verseny véget ér.** 
+
+Ekkor végre kell hajtani az utolsó szakaszértékelést (ahogyan az „Egy szakasz vége" címszó alatt áll).
+
+### Az Utolsó Szakasz Értékelése és a Fürge/Nyüzüge Tevék Végső Értékelése
+
+Az utolsó szakaszértékelést a fürge és nyüzüge tevék végső értékelése követi. 
+
+Először a fürge tevék fogadómezőjén lefordítva fekvő paklit értékelik a játékosok. Csak emlékeztetőül: a legfelső lap került utoljára lehelyezésre. 
+
+A játékosok megfordítják az egész paklit úgy, hogy az elsőként lerakott lap előoldala legyen felül látható, az utolsóként lerakott lap pedig alul legyen.
+
+A fogadáskártyák felülről lefelé egyesével kerülnek értékelésre.
+
+### Fürge Teve Fogadáskártyák Értékelése
+
+A helyes tippekért pénzt kapnak a játékosok, méghozzá annál többet, minél pontosabb a tipp:
+
+- **Az a játékos, aki elsőként tippelt a nyertes tevére** (azaz elsőként ő tett le fogadáskártyát a nyertes teve színében): **8 EP-t kap** a bankból.
+- **Az a játékos, aki másodikként tette le a nyertes teve színében a fogadáskártyáját:** **5 EP-t kap**.
+- **A harmadikként lerakó játékos:** **3 EP-t kap**.
+- **A negyedikként lerakó játékos:** **2 EP-t kap**.
+- **Minden további helyes tippért:** **1 EP jár**.
+
+**Megjegyzés:** Az előbbiek csak azokra a letett fogadáskártyákra érvényesek, amelyek színe megegyezik a nyertes teve színével.
+
+Minden olyan letett fogadáskártya után, melynek színe bármelyik másik teve színével egyezik meg, tulajdonosaik fogadáskártyánként **1 EP-t fizetnek a banknak**.
+
+[ÁBRA MAGYARÁZAT: Fürge teve fogadáskártyák értékelésének sorrendje - a játékosok által sorban lerakott kártyák az 1st (8 EP), 2nd (5 EP), 3rd (3 EP), 4th (2 EP), 5th (1 EP) pozícióban értékelődnek, vagy minden más teve esetén -1 EP.]
+
+### Nyüzüge Teve Fogadáskártyák Értékelése
+
+A fürge tevék fogadáskártyáinak kiértékelése után ugyanilyen módon kerülnek kiértékelésre a nyüzüge tevék fogadásmezőjére letett fogadáskártyák. 
+
+A nyüzüge teve természetesen az, amelyik a leghátrébb végzett. Tevetorony esetén a legalsó teve.
+
+[ÁBRA MAGYARÁZAT: Nyüzüge teve fogadáskártyák értékelésének sorrendje - a játékosok által sorban lerakott kártyák az 1st (8 EP), 2nd (5 EP), 3rd (3 EP), 4th (2 EP), 5th (1 EP) pozícióban értékelődnek, vagy minden más teve esetén -1 EP.]
+
+### A Végső Nyertes Meghatározása
+
+A végső értékelés után a játékosok összeszámolják a pénzüket. **Az a játékos nyeri a játékot, akinek a legtöbb pénze gyűlt össze.** Egyezőség esetén a játéknak több nyertese van.
+
+---
+
+## Beispiele (Példák)
+
+### 1. Szakaszértékelés Példa
+
+A szakaszértékelésnél a zöld teve vezet. A sárga teve a második. „A" játékos előtt a következő lapkák fekszenek, amik összesen 9 EP-t adnak neki:
+
+- +5 (zöld 5-ös lapka)
+- +2 (zöld 2-es lapka)
+- +1 (zöld 1-es lapka)
+- -1 (narancssárga lapka)
+- +1 (sárga lapka – második teve)
+- +1 (kék lapka... nem, ez veszteség: -1)
+- +2 (két piramislapka)
+
+**Végösszeg: +5 +2 +1 -1 +1 +1 = 9 EP**
+
+[ÁBRA MAGYARÁZAT: A számított pontok vizuális megjelenítése a lapkákkal és a végösszeg (+9 EP) kiszámítása.]
+
+### 2. Dobáspélda 1 – Tevetorony Képződése
+
+A fehér kocka esik ki és 2-es számot mutat. A fehér teve 2 mezőt lép előre, miközben a hátán viszi a zöld tevét. A fehér teve a zöld tevével a hátán arra a mezőre érkezik, amelyiken a sárga teve áll. A fehér és a zöld teve felugrik a sárga teve hátára.
+
+[ÁBRA MAGYARÁZAT: A lépés folyamata: 1. A fehér teve a zöld tevét a hátán viszi. 2. A fehér teve 2 mezőt lép előre. 3. A fehér teve a sárga teve mezőjére érkezik. 4. A fehér és zöld teve felugrik a sárga teve hátára, létrehozva egy tevetornyot.]
+
+### 3. Dobáspélda 2 – Egyszerű Lépés
+
+A narancssárga kocka pottyant ki és 3-as számot mutat. A narancssárga teve 3 mezőt lép előre miközben a hátán viszi a sárga tevét.
+
+[ÁBRA MAGYARÁZAT: A lépés folyamata: A narancssárga teve a sárga tevét a hátán viszi és 3 mezőt lépnek előre.]
+
+### 4. Sivataglapka Elhelyezési Példa
+
+A sivataglapka egy olyan üres mezőre tehető, amelyiknek a szomszédjában nincsen másik lapka.
+
+[ÁBRA MAGYARÁZAT: A játéktábla egy része az elhelyezhető és nem elhelyezhető pozíciókat mutatja a sivataglapka számára.]
+
+### 5. Fogadáskártya Példa – Fürge Teve
+
+A zöld teve a verseny nyertese, a fehér teve lett az utolsó. A két pakli lapjaiért tulajdonosaik a következők szerint kapnak, vagy veszítenek EP-t:
+
+[ÁBRA MAGYARÁZAT: Fürge teve fogadáskártyák és azok értékelése az 1st, 2nd, 3rd, 4th, 5th pozíciók szerint.]
+
+[ÁBRA MAGYARÁZAT: Nyüzüge teve fogadáskártyák és azok értékelése az 1st, 2nd, 3rd, 4th, 5th pozíciók szerint.]
+
+---
+
+## Gyors Áttekintés az Akciókról
+
+**Az akciók összefoglalása:**
+
+1. **Vegyél 1 szakasz fogadáslapkát**
+   - Válassz egy teve színét
+   - Vedd el a legfelső lapkát az ő paklijából
+   - Bízz benne, hogy az adott teve a szakasz végén vezet majd
+
+2. **Tedd le a sivataglapkádat a versenypálya egy mezőjére**
+   - Üres mezőre kell tenni
+   - Szomszéd mezőkön nem lehet másik sivataglapka
+   - Dönts az oázis vagy délibáb oldal között
+   - Már lerakott lapkádat áthelyezheted
+
+3. **Húzz 1 piramislapkát és dobd el a piramist**
+   - Vegyél egy piramislapkát a pakliból
+   - Használd a piramist egy kocka kipottyantásához
+   - Lépj az azonos színű tevével a kocka száma szerint
+   - Helyezd a kockát a megfelelő sátrára
+
+4. **Fogadj a fürge VAGY a nyüzüge tevére**
+   - Rejtett fogadáskártyát tegyél a megfelelő mezőre
+   - A fürge teve a játék végén nyertes
+   - A nyüzüge teve a játék végén vesztes
+
+---
+
+## A Verseny Szakaszok
+
+A verseny több szakaszból áll. 
+
+Egy szakasznak akkor van vége, amikor az ötödik kockát is kipottyantottuk a piramisból és a kockának megfelelő tevét léptettük. 
+
+Minden szakaszt a szakasz értékelésével zárunk, ami során a játékosok pénzt nyernek, vagy veszítenek. Aszerint, hogy a szakaszverseny folyamán a szakasz fogadáslapka elvételével melyik tevére fogadtak. 
+
+Ezt követően a szakasz fogadáslapkákat visszatesszük a helyükre, az 5 kockát pedig beleszórjuk a piramisba.
+
+---
+
+## Megjegyzések a Játékmenetről
+
+- Csak emlékeztetőül: ha a teve egy tevetoronyban áll, akkor az összes olyan tevét, amelyik a hátán áll, magával viszi.
+- A tevecsapat olyan mezőn fejezi be lépését, amelyiken egy másik tevecsapat áll, akkor a komplett tevecsapat felugrik a mezőn álló tevecsapat hátára.
+- A tevetorony helyezése szempontjából fontos: az a teve, amelyik egy másik teve hátán áll, mindig jobb helyezettként értékelődik, mint a közvetlenül alatta álló teve.
+- A sivataglapka lehelyezésekor dönthetsz arról, hogy a lapka melyik oldala legyen felül: az oázis oldal (1 mezőt előre) vagy a délibáb oldal (1 mezőt hátra).
+
+---
+
+## Lehetetlen Helyzetek Megoldása
+
+Ha nem pottyan ki kocka a piramisból, akkor:
+
+1. Engedd vissza a tolótetőt
+2. Fordítsd meg a piramist
+3. Rázd meg
+4. Fordítsd le
+5. Próbálj újra kipottyantani egy kockát
+
+---
+
+## Közzétevő Adatok
+
+**Tervezte:** Steffen Bogen  
+**Illusztráció és grafika:** Dennis Lohausen  
+**Játékszabály és layout:** Alfred Viktor Schulz
+
+**Copyright:** © 2014 eggertspiele GmbH & Co. KG, Friedhofstr. 17, 21073 Hamburg, Germany
+
+**Minden jog fenntartva!**  
+**www.eggertspiele.de**
+
+---
+
+## Hazai Forgalmazó
+
+**Importálja és forgalmazza:** Piatnik Budapest Kft.  
+1034 Budapest, Bécsi út 100.  
+E-mail: piatnik@piatnik.hu  
+www.piatnikbp.hu  
+https://www.facebook.com/PiatnikBudapest
+
+**A játékhoz jó szórakozást és kellemes időtöltést kíván a Piatnik Budapest Kft!**
+
+---
+
+## A Játék Lényege
+
+Legyél részese minden idők legőrültebb tevefuttatásának! Itt fürge és nyüzüge tevék egymás nyakára hágnak, a piramisok fejre állnak!
+
+Az egyiptomi „felső tízezer" a sivatagba érkezik, hogy tanúja legyen ennek a fergeteges látványnak! Nem csak a verseny látványa, hanem a versenyen megköthető fogadások izgalma és a fogadásokkal megszerezhető pénz is csábítja a résztvevőket!
+
+Szerencsére és jó időzítésre, a verseny dinamikájának átlátására is szüksége lesz annak, aki a győztes tevét akarja kiválasztani, hogy megnyerje a játékot!

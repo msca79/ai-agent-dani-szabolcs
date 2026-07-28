@@ -1,0 +1,589 @@
+# FESZTÁV
+
+## Madárgyűjtő verseny 1–5 játékos részére
+
+**Tervezte:** Elizabeth Hargrave
+
+**Illusztrációval ellátta:** Natalia Rojas, Ana María Martínez Jaramillo és Beth Sobel
+
+---
+
+## JÁTÉKÁTTEKINTÉS
+
+Igazi madárrajongók vagylok – kutatók, madár megfigyelők, ornitológusok és gyűjtők, akik megpróbálják felkutatni és madárházukba csábítani a legszebb példányokat. Minden madár tovább bővít az előhellyeid egyikének hatalmát, kombinációs láncat. Minden előhely a madárháztatok növekedésének egyik kulcsfontosságú lehetőségére koncentrál:
+
+- A madárletek formáját kockatorony elődelkockáinak segítségével szerezhetek elődeljelzékket
+- Tojásokat rakhattok a változatos színű márványmiutás tojásfigurákát felhasználva
+- Gyarapíthatjatok madárgyűjteményeleteket a századnál is több egyedi madárkártyábúl húzva
+
+Az a játékos győz, aki a legtöbb pontot gyűjti a madárkartyakal, a bőnuszkártyakkal, a játék vegi célokkal, tojásokkal, elraktározott eledelekkel és madárrajjal alkoyott pelényokkal.
+
+---
+
+## JÁTÉKELEMENTE (Components / GAME COMPONENTS)
+
+| Eleme | Mennyiség | Leírás |
+|-------|-----------|--------|
+| 1 szabályzet | — | — |
+| 1 melléklet | — | — |
+| 1 céglábia | — | — |
+| 1 madárkínálat kártyatartó | — | — |
+| 5 játékostábla | — | — |
+| 1 madáretetó formájú kockatorony | — | — |
+| 1 pontozólaptomb | — | — |
+| 170 madárkártya | — | — |
+| 103 eledeljelző | — | — |
+| 26 bőnuszkártya | — | — |
+| 8 céglapka | — | — |
+| 75 tojásfigura | — | — |
+| 5 egyedi fa eledelkocka | — | — |
+| 40 fa akcióocka | — | Öt különböző szín |
+| 1 kezdőjátékos-jelző | — | — |
+
+---
+
+## ELŐKÉSZÜLETEK
+
+### ÁLTALÁNOS JÁTÉKELEMEK
+
+1. **MADÁRKÁRTYÁK:** Keverjétek meg a madárkártyák pakliját. Tegyet a madárkínálatban mellé, majd tegyek képpel felfelé 3 madárkártyát a madárkínálatba.
+
+2. **KÉSZLET:** Tegyet az összes edelet és tojáselzőt készletbe. Fesz a játékosok számára felhasználható játékelzőt.
+
+3. **MADÁRETETÓ:** Dobjátek az eledelkockákat a madáretetó formájú kockatoronyba.
+
+4. **CÉGLTÁBLA:** Válasszatok ki, hogy milyen típusú cégolakat szeretnétek játszani, és az ennek megfelelő oldallával felfelé tegyek le cégltáblák és az oldal célját jelölje.
+
+5. **CÉGLAPKÁK:** Keverjétek meg a céglapkákat, de ne nézzeték köz ben a ceglapkait elosztótóban, tegyek le 1 céglapkat az összes megươ szabad helyzetét (vétellenszerzén választve a mellette nyomtatta pályán). A többi céglapkat tegyek vissza a dobozba.
+
+6. **BŐNUSZKÁRTYÁK:** Keverjétek meg a bőnuszkártyákat, és a paklit tegyek az oldalra.
+
+### A JÁTÉKOSOK ELŐKÉSZÜLETEI
+
+**A. Minden játékos kap:**
+- 1 játékostáblát
+- 8 azonos szinű akcióockat
+- 2 találomra húzott bőnuszkártyát
+- 5 találomra húzott madárkártyát
+- 5 használomra húzott indmen tojását
+
+A készben levő kártyák lehetnek titkosak vagy nyilvándosak a játék során.
+
+**B. Minden játékos legliebb 5 madárkártyát tartson meg, a többi dobják! Minden megtartott madárkártyáét eli kell dobnia a játékosnak 1 eledeljelzőt. Választásuleg használatok az eledeljelzőket szerethé mindenki megtartani, amit a kiváadszott madárkártyái bal felső részén látható. Például meg 2 madárkártyát és 3 eledelji vagy megtar tahastz 4 madárkártyát és 1 eledelji.
+
+**C. Minden játékos válasszon 1 bőnuszkártyát, amit megtart, a másikat pedig dobja el. Megvehetik a bőnuszkártyáiokat, amilkor a madarak válássatják (és a bőnuszkártyák választáskor is megvédzeltik a madárationalt).
+
+**D. Véllenlenszerzён válassatok kezdőjátékost, és adjátok neki a kezdőjátékos-jelző.
+
+---
+
+## ELŐKÉSZÜLETEK (ÁBRA MAGYARÁZAT)
+
+A képen a teljes játéktábla elrendezése látható az összes játékelemmel:
+
+- **Felső sor:** Madárületési táblák, tojásfigurák, eledeljelzők
+- **Középső sor:** Pontozólaptomb, madárkártya-képviselő, bőnuszkártyák
+- **Alsó sor:** Eledelkocka, akcióocka, játékostábla-konfigurációk
+- **Kockatorony:** A madáretetó formájú kockatorony az eledelkockákat tartalmazva
+- **Mindentársított jelölések:** Az intézményi eldeljelzőket különböző szimbólumok azonosítják (különféle eladeletek)
+
+---
+
+## Á TTEKINTÉS
+
+### A FESZTÁV JÁTÉK 4 FORDULÓ ÁT TART
+
+A játékosok minden fordulóban addig hajítsk végre köreiket – az óramutató járása szerint haladva – amíg minden játékos fel nem hasznúlja az összes akcióokságit.
+
+### EGY KÖR MENETE
+
+A körödben a játékostáblád bal felén látható 4 akcióból hajtsasz végre 1-et:
+
+- ◆ Játssz ki egy madarat a kezdedbőll
+- ◇ Vegyl el eldelmet, és aktiváld az erdei madár képességeket
+- ◈ Raji tojást, aktiváld a réti madár képességeket
+- ◆ Húzz madárkártyákat, és aktiváld a lápi madár képességeket
+
+Ha egy madarat tennél a kezdedbőll egy előhelytre, akkor előszőr raji egy akcióockát ozon hely mellett lévő "Madárkjátszás" mezőre, ahova a madarat szeretnéd letenni. Fizessd ki a madár eledet és tojáskollségét, majd tedd a madarat a játékostáblára, és ha van] aktiváld a madár "AMIKOR KIJÁTSZÓD" képességét.
+
+Az eledelgyűjtés, a tojásitás és a madárkártyák húzása akcióik ugyanolyan a 3 lépéses folyamat szerint zajlanak (a számokkal a lent látható játékostábla-órában bejelölük):
+
+1. Válassz ki játékostáblád egyik előhelyét, és tegyal egy akcióockát a megfelelő sor bal szélső szabad helyére. Megkapod az eleme helyalmazisása" mezőre, ahova a madarat szeretnéd letenni. Fizessd ki a madár eledet és tojáskollségét, majd tedd a madarat a játékostáblára, és ha van] aktiváld a madár "AMIKOR KIJÁTSZÓD" képességét.
+
+2. Léptetd az akcióockádál **jobbrá balra**, aktiváld az adott sorban a barna "AMIKOR AKTIVÁLÓD" képességű madarakat. A képességek használata nem kötelezö.
+
+3. Amikor az akcióocka elérí a bal szélső mezőt, hagyd ott. A körd végét ért.
+
+---
+
+## JÁTÉKOSOK ELŐKÉSZÜLETEI - RÉSZLETES LEÍRÁS
+
+### EGY FORDULÓ MENETE
+
+Amikor minden játékos lerakta az összes akcióockagyűjt, a forduló végét ért. HajtStack végre sorban az alábbi lépéseket:
+
+1. Válassz ki játékostáblád egyik előhelyét, és tegyal egy akcióockát az adott sorban a barna "AMIKOR AKTIVÁLÓD" képességű madarakat. A képességek használata nem kötelezö.
+
+2. Léptetd az akcióockádál **jobbrá balra**, majd fizessd ki a madár eledet és tojáskollségét, majd tedd a madarat a játékostáblára, és ha van] aktiváld a madár "AMIKOR KIJÁTSZÓD" képességét.
+
+3. Amikor az akcióocka elérí a bal szélső mezőt, hagyd ott. A körd végét ért.
+
+Ha egy madarat tennél a kezdedbőll egy előhelytre, akkor előszőr raji egy akcióockát ozon hely mellett lévő "Madárkjátszás" mezőre, ahova a madarat szeretnéd letenni. Fizessd ki a madár eledet és tojáskollségét, majd tedd a madarat a játékostáblára, és ha van] aktiváld a madár "AMIKOR KIJÁTSZÓD" képességét.
+
+---
+
+## MADÁRKÁRTYA MAGYARÁZATA
+
+[ÁBRA MAGYARÁZAT: A sarkantyúsító kukorharkály (Sphyrapicus varius) madárkártya megmutatja a szimbolikus szimbólumokat. A kártya felső részén látható az 41cm-es méretjelölés. A kártya középső részén "AMIKOR AKTIVÁLÓD: Kapsz 1→1 a készletbőll" szöveg található. Az alsó rész az eledelkövetelmények és a hely felhasználhatósági információk részletei. A kártya tartalmaz: kapcsolódó szimbólumok az edel-típusok és tojás-szimbólumok tekintetében, valamint egy térkép-ikon, amely a madár elöfordulási területét mutatja.]
+
+### MADÁRKÁRTYA SZIMBÓLUMAINAK MAGYARÁZATA
+
+**MADÁRKÁRTYA FEJLÉC:**
+- **Madárnév:** A madár közhasználati neve
+- **Tudományos név:** A madár latinizált tudományos neve
+- **Ikon:** Szimbolizálja a madár típusát (erdő, rét, láp, vizenyős terület, stb.)
+
+**MADÁRKÁRTYA KÖZPONTI RÉSZ:**
+- **Méretjelölés:** A madár valódi mérete centiméterekben
+- **Kép:** A madár pontos illusztrációja
+
+**MADÁRKÁRTYA ALSÓ RÉSZ:**
+- **Eledelkövetelmények:** A madár takarmányigénye az eddel-szimbólumokkal jelezve
+- **Hely-szimbólumok:** A madárkártyának megfelelő elöhelytípusokat mutató szimbólumok
+- **"AMIKOR AKTIVÁLÓD":** A madár speciális képességei, amely aktiválódik, ha a madarat felhasználják
+
+**"AMIKOR KIJÁTSZÓD" KÉPESSÉG:**
+- Az akció után azonnal és egyből aktiválódik
+- A képesség: eddel szerez, tojást szerzez, madárkártyákat húzhat, vagy más speciális akciók
+
+---
+
+## A NÉGY AKCIÓ
+
+Minden körben 1 akciót hajtasz végre. Ebben a részben az egyes akciók lejátszása szerint zajlanak.
+
+### 1. LEHETŐSÉG: MADÁRKIJÁTSZÁS KÉZBŐL
+
+Mielőtt madarat játszanál ki a kezdedbőll, vedd figyelembe annak előhelyét, eledeljelzésletét és tájságársaságetét. Minden madárnál van előhelyét, ami a kártya bal felső sarkában látható. Továbbá lehet tojáskollsége is, ami annak az oszlopnak a teljétől látható, ahova a madarat kijátszod (az első oszlopnak nincs tojáskollsége). Ha nem tudod a teljes költséget kifizetni, akkor nem játszhatod ki a madarat.
+
+**Ha így döntesz, hogy madarat játszol ki, a következőket tedd:**
+
+1. Válassz egyet a kezdedbőll levő madárkártyábőll, és tegyal egy akcióockát ozon helyen lévő madárkártyábőll, majd gyakorlati csoportokként csoportosítsd meg a madárkártyákat (nem játszhatod ki a madarat).
+
+2. Fizessd be a madár eledelkollségét. Tedd vissza az eledeljelzőket a készletbe (ezeket a jelzőkét a játékostáblád mellé kell elvenned, nem lehetnek a madárkártyákon raktározott eledeljelzők, ezt még később helyességel elmagarázuk).
+
+3. Amikor az akcióocka elérí a bal szélső mezőt, hagyd ott. A körd végét ért.
+
+---
+
+## JÁTÉKOSOK MŰKÖDÉSI ÚTMUTATÓJA - MADÁRKÁRTYÁK
+
+### MADÁRKÁRTYÁK TÍPUSAI
+
+**[ÁBRA MAGYARÁZAT: A kártya felső rész különféle szimbólumokat mutat: egy ikon a madár előhelyét jelző ikon; egy ikon az eledelkövetelményt mutatva; egy ikon a tojáskövetelményt mutatva; valamint a madár méretét centiméterekben.]**
+
+**HELY-SZIMBÓLUMOK:**
+- **ERDŐ (zöld négyzet fa szimbólummal):** Az erdős élőhelyeken előforduló madarak
+- **RÉT (sárga négyzet búzaszemek szimbólummal):** A réteken és nyílt terepeken élő madarak  
+- **LÁP (kék négyzet hullámok szimbólummal):** A mocsaras és vizes élőhelyeken élő madarak
+
+---
+
+## JÁTÉKOSOK MŰKÖDÉSI ÚTMUTATÓJA - EGY KÖRREL
+
+Az alábbi bemutatás egy teljes körnek a lezajlása során megmutat különbség a négy lehetséges akció között.
+
+### MADÁRKÁRTYÁK KIVÁLOGATÁSA
+
+A körödben a játékostáblád bal felén látható 4 akcióból hajtsasz végre 1-et, azonban ez a helyzet csak akkor működik, ha van még nyitott helyed az előhelyedön.
+
+---
+
+## MADÁRKÁRTYÁK HÚZÁSA ÉS ERDEI MADÁR KÉPESSÉGEK AKTIVÁLÁSA
+
+### EGY FORDULÓ MENETE
+
+Amikor minden játékos lerakta az összes akcióockagyűjt, a forduló végét ért. HajtStack végre sorban az alábbi lépéseket:
+
+1. Vegyél vissza az összes akcióockátokat a játékostáblátóról.
+
+2. Pontozztatok le a forduló végi célokat az éppen befejezeit fordulóhöz.
+
+3. Dobjátok el a madárkínálatbat az összes képpel felfelé néző madárkártyát, és töltsétek újra a madárkínálatot a paklíból húzott kartákkal.
+
+4. Az óramutatós járása szerint adjátok tovább a kezdőjátékos-jelzőt.
+
+**1 akcióockát használva jelölj a fordulóvégi céloknál járó pontozatot,**
+
+1 akcióockát használva játssz egy madarat játékostáblád egyik előhelyére járó pontozatot.
+
+1 akcióockát használva aktiváld a készletebből az összes képpel felfelé nézet edelet, hogy megtartott tojást képességeket
+
+Ha egy madarat tennél a kezdedbőll egy előhelytre, akkor előszőr raji egy akcióockát ozon hely mellett lévő "Madárkjátszás" mezőre, ahova a madarat szeretnéd letenni. Fizessd ki a madár eledet és tojáskollségét, majd tedd a madarat a játékostáblára, és ha van] aktiváld a madár "AMIKOR KIJÁTSZÓD" képességét.
+
+---
+
+## RÉSZLETESEN: MADÁRKÁRTYÁK VÉGIG A JÁTÉKON
+
+Az alábbi ábrázolás egy kiválasztott madárkártya szakaszait mutatja be részletesen:
+
+**[ÁBRA MAGYARÁZAT: Az ábra egy teljes madárkártyát mutat a következő részekkel:
+- Felső rész: Madár neve, tudományos neve, elöhelyikon
+- Középső rész: A madár nagy, részletes illusztrációja
+- Alsó rész: Szimbólumok az eledelkövetelményekhez, tojáskövetelményekhez
+- Jobb oldal: "AMIKOR AKTIVÁLÓD" szöveges leírás a speciális képességről]**
+
+---
+
+## MADÁRKÁRTYÁK VÉGIG A JÁTÉKON - FOLYTATÁS
+
+Az alábbi információ azt magyarázza el, hogy miként működnek az egyes madárkártyák az egész játék során:
+
+### MADÁRKÁRTYÁK HÚZÁSA ÉS ALKALMAZÁSA
+
+A játékosok madárkártyákat húzhatnak a madárkínálatból vagy a pakliból. A madárkártyák játékban való felhasználásához szükséges az eledeljelzőket és tojásjelzőket a megfelelő szimbólumok szerint összevetni.
+
+**MADÁRKÁRTYÁK AKTIVÁLÓDÁSA:**
+- A madárkártyák aktiválódhatnak, amikor a játékos egy akcióockát az adott sorra helyez
+- Aktiválódhatnak akkor is, amikor egy másik játékos egy madárkártyát kijátszik
+
+---
+
+## A NÉGY AKCIÓ RÉSZLETESEN
+
+### 1. LEHETŐSÉG: MADÁRKIJÁTSZÁS KÉZBŐL
+
+Mielőtt madarat játszanál ki a kezdedbőll, vedd figyelembe annak előhelyét, eledeljelzésletét és tojáskollségét. Minden madárnál van előhelyét, ami a kártya bal felső sarkában látható. Továbbá lehet tojáskollsége is.
+
+**Ha így döntesz, hogy madarat játszol ki, a következőket tedd:**
+
+1. Válassz egyet a kezdedbőll levő madárkártyábőll, és tegyal egy akcióockát az adott sor bal szélső szabad helyére. Megkapod az eleme helyalmazisása" mezőre, ahova a madarat szeretnéd letenni.
+
+2. Fizessd be a madár eledelkollségét. Tedd vissza az eledeljelzőket a készletbe.
+
+3. Tegyal a madárkártyát megfelelő előhelyét a játékostábládra. Az eledeljelzőket nem lehet a madárkártyákon raktározott eledeljelzők, ezt még később helyességel elmagarázuk.
+
+---
+
+## 2. LEHETŐSÉG: ELEDELGYŰJTÉS ÉS ERDEI MADÁR KÉPESSÉGEK AKTIVÁLÁSA
+
+Az eledelji először madárkártyák kijátszásához hasznúl. A madáretetőben lévő kockák jelzik, milyen eddel van lehetőséged begyűjteni. A madáretetőben a játék során újra meg újra kiürül, és újra feltöltésre kerül.
+
+**Ha így döntesz, hogy eddelt szerzel, a következőket tedd:**
+
+1. Tegyal egy akcióockát játékostáblád egyik előhelyére járó pontozatot.
+
+2. Ha azon a helyen, amire az akcióockádat letted, kártya értékmálasztá bőnusz látható, akkor legfeljebb 1 madárkártyát eldobhatsz egy kezdedbőll, hogy kapj még egy eledelji. Ez nem kötelezö.
+
+3. Ha azonban az akcióocka elérí a bal szélső mezőt, hagyd ott. A körd végét ért.
+
+---
+
+## A MADÁRETETÓ KEZELÉSE
+
+A madáretetó tálkájában van az 5 eledelkocka. Amikor a játékos eddelt szerez, akkor az már a kőzzét lett madáretetó ellogy a játék során először visszadobhatód mind az 5 kockát a madáretetőbe. Ha a tálkában lévő összkockák száma azonban már 2 vagy több, akkor ez már nem működik (csak 1 kocka maradt).
+
+**Zöld: Többség a cél terülten**
+
+Ez a pontozás a táblának azt az oldalt használja, amin milyen típusú célokat szeretnétek játszani, és az ennek megfelelő oldallyal felfelé tegyek le cégltáblák és az oldal célját jelölje.
+
+A forduló végén az adott kockák arra a helyezésre kerülnek, amin az 1., 2. és 3. helyezésnek kialakultt mezők vannak.
+
+A forduló végén az adott helyzésében 1 réti madár, és ezét kevesebbe adatok egy adott akcióockát az oldalon nyomtatta pályán.
+
+---
+
+## KÉK: EGY PONT A CÉGTERÜLETEN LÉVŐ MINDEN EGYES JÁTÉKELEMENT
+
+Ez a pontozás a táblának azt az oldalt használja, amin milyen típusú célokat szeretnétek játszani. Az egyedi madárkártyák pontja pedig a cégterületen lévő játékelementek száma szerint értelmezendő. Ez nem kötelezö az eledeljelzőkre nézve vonatkozásában - ilyet játékosnak azt kell tennie, hogy első 5 játékelemnél maximum pontot kapjon.
+
+Akkor is le kell tenni egy akcióockát, ha 4. vagy 5. helyezést érsze el. Ilyenkor a kocka a 0 pontosaz mérőire kerül.
+
+---
+
+## FORDULÓPONTOK ÉS JÁTÉKVÉG
+
+A fordulók végén a játékosok megkapják a fordulóvégi célokhoz tartozó pontokat. Az összes fordulónak a végén összeadódnak a teljes pontszámok.
+
+**FORDULÓVÉGI CÉLOK PONTOZÁSA:**
+- Az egyes madárkártyák pontszámait a játékostáblán jegyzi fel a játékos
+- Az eledeljelzőket az összes eledeljelzőket a készletbe vissza kell tenni
+- Az összeadódó pontok alapján határozódik meg a végső sorrend
+
+---
+
+## 3. LEHETŐSÉG: TOJÁSRAKÁS ÉS RÉTI MADÁR KÉPESSÉGEK AKTIVÁLÁSA
+
+A 2-5. oszlopba kijátszott madárkártyának van tojáskollsége. A játékostáblára lett madárkártyákon lévő minden tojás 1 pontot ér. Azonban az oszlopok között az egyes számok külön jelölik meg, hogy mely helyre hány tojás helyezhető.
+
+**Ha így döntesz, hogy tojást raksz, a követőzékét tedd:**
+
+1. Tegyal egy akcióockát játékostáblád egyik előhelyére járó pontozatot.
+
+2. Léptetd az akcióockádál **jobbrá balra**, majd fizessd ki a madár eledet és tojáskollségét, majd tedd a madarat a játékostábládra, és ha van] aktiváld a madár "AMIKOR KIJÁTSZÓD" képességét. Ez nem kötelezö.
+
+3. Jobb három tojást rakhatsz az összes képpen felfelé nézet oldalra.
+
+---
+
+## A TOJÁSOK KEZELÉSE
+
+A tojások a játékostáblán helyezkednek el, és minden tojás 1 pontot ér. A tojások elhelyezésére vonatkozó szabályok:
+
+**TOJÁS-ELHELYEZÉSI SZABÁLYOK:**
+
+A fordulóban az adott helyzésében 1 réti madár, és ezét kevesebbe adatok egy adott akcióockát az oldalon nyomtatta pályán nyomtattan 1 tojást rakhatsz fel egy másik helyre.
+
+A tojások a madárkártyák között helyezkednek el. A játékostáblán feltüntetett számok mutatják meg, hogy maximum hány tojás helyezhető az adott helyre.
+
+**TOJÁS-PONTOZÁS:**
+- Minden egyes tojás: 1 pont
+- A teljes tojásszám a játék végén összeadódik és a végső pontszámhoz hozzáadódik
+
+---
+
+## A JÁTÉK VÉGE ÉS A PONTOZÁS
+
+### A JÁTÉK VÉGÉNEK MEGHATÁROZÁSA
+
+**Az első játékos, aki 5 forrás vázlatlan zárja le a célja játékos 4. fordulóban indul. A játékosok bejelentettik érkezik le az 5. oldalan.**
+
+---
+
+## BONUS KÁRTYÁK
+
+Ahogy azt az előkészületekben lírtuk, minden játékos 1 bőnuszkártyával kezdi a játékot (2 vétellenszerzén kapott kártyából választva). A paklikban vannak olyan madarak, melyekkel továbi bőnuszkártyák szerezhetők.
+
+A bőnuszkártyákat a játék végén pontozztatok. Lásd részletesen a mellékletben az egyes bőnuszkártyatípusok pontozását.
+
+---
+
+## MADARAK KÉPESSÉGEI
+
+### A MADÁRKÁRTYÁK KÉPESSÉGEI 3 KATEGÓRIÁBA SOROLHATÓK:
+
+#### AMIKOR AKTIVÁLÓD (BARNA):
+Ezeket a képességeket jobbrá balra aktiválhatod a megfelelő elöhely husála által szereztheted egy másik madárraj, ami egy madárraj létrehozást jelképezi.
+
+Mivel egy madárraj képességei a nátáliaróhajasdi általában haladt világánálban általában haladt világánálban, alatta megjelölik egy másik madárraj képességét, mely szerencsés lesz az adott madárraj lépésének végén.
+
+A madárkártyák kiváltózishadasáinál gondold végid, melyik sort többali kányákat vagy eletelji szerezni a játékosábúl a támadt játékos körén. A barna képességeket költönnén használnod lehetnek.
+
+#### TIPP:
+A madárkártyák kiváltózishádasainál gondold végid, melyik sort többali kányákat vagy eletelji szerezni a játékosábúl. A barna képességeket költönnén használnod lehetnék. A barna képességek különösen hasznosan felhasználhatók, amikor képességeid költség között szeretnél választani.
+
+---
+
+## MADARAK KÉPESSÉGEI - RÉSZLETESEN
+
+Az összes madárképesség bemutatása:
+
+### ÁLTALÁNOS SZABÁLYOK
+
+1. Amikor egy akcióockát játékostáblád egyik helyere helyezel, az adott sor összes madárkártyájáó keresni kell a barna szimbólumú (AMIKOR AKTIVÁLÓD) képességet. Ha találsz ilyent, általában lehetőséged van azt alkalmazni.
+
+2. A képességeket nem kell használnod, azonban többségük előnyös. Olvass el minden képességet, és válaszd meg, hogy melyek azok, amelyek segíteni fognak a stratégiádban.
+
+3. Az összes képesség szimbolikusan jelenik meg. Olvasd el a mellékletben az egyes szimbólumok jelentéseit.
+
+---
+
+## A NÉG AKCIÓ - RÉSZLETESEN (ÁBRA MAGYARÁZAT)
+
+[ÁBRA MAGYARÁZAT: Az ábra egy teljes játéktáblát mutat, amelyen az alábbiak láthatók:
+
+**FELSŐ RÉS:Z**
+- Madárkártyák elrendezése (1-4. sor) az akcióockákkal
+- "AMIKOR AKTIVÁLÓD" szöveg és szimbólumok az egyes sorokban
+- Az akciók típusa az egyes sorok mellett
+
+**ALSÓ RÉSZ:**
+- Pontszámok és végterületek az egyes forduló végére
+- Madárkártyák elöhelye az egyes sorok mellett
+- Tojás-elhelyezési lehetőségek
+
+**JOBB OLDAL:**
+- Madárkártyák részletes megjelenítése
+- Az eledelkövetelményes szimbólumok
+- A tojáskövetelményes szimbólumok]
+
+---
+
+## 4. LEHETŐSÉG: MADÁRKÁRTYÁK HÚZÁSA ÉS LÁPI MADÁR KÉPESSÉGEK AKTIVÁLÁSA
+
+A 2-5. oszlopba kijátszott madárkártyának van tojáskollsége. A játékostáblára lett madárkártyákon lévő minden tojás 1 pontot ér.
+
+**Ha így döntesz, hogy húzol, a következőket tedd:**
+
+1. Tegyal egy akcióockát játékostáblád egyik előhelyére járó pontozatot.
+
+2. Léptetd az akcióockádál **jobbrá balra**, majd fizessd ki a madár eledet és tojáskollségét, majd tedd a madarat a játékostábládra, és ha van] aktiváld a madár "AMIKOR KIJÁTSZÓD" képességét.
+
+3. Jobbról balra haladva aktiváld a lápi madaraid barmegyik képességét. Egy képesség aktiválása sem kötelezö. A körd befejezésekor kiváló minden jogodott madárkártyádat felülvizsgálnod, és az eledeljelzőkkel kapcsolatos információkat felfrissítened.
+
+---
+
+## MADÁRKÁRTYÁK HÚZÁSA
+
+A játékosok madárkártyákat húzhatnak a madárkínálatból vagy a pakliból. A madárkártyák játékban való felhasználásához szükséges az eledeljelzőket és tojásjelzőket a megfelelő szimbólumok szerint összevetni.
+
+Az összes madárkártyákat húzhatod a kézből vagy a pakliból, azonban a pakliból húzott kártyák nem mutathatók meg a másik játékosnak. Húz megbízhatóan az a játékos, akié a sor.
+
+**MADÁRKÁRTYÁK HÚZÁSA:**
+
+1. **Madárkínálatból:** Húzz egy madárkártyát a madárkínálatból, és tedd a kezedbe (3 nyilvandos kártya közül választasz)
+2. **Pakliból:** Húzz egy madárkártyát a paklitól, és nézd meg titkon
+
+---
+
+## A FORDULÓVÉG MECHANIZMUSA
+
+### A FORDULÓVÉGÉT MUTATÓ ÁBRA
+
+[ÁBRA MAGYARÁZAT: Az ábra azt mutatja, hogyan zajlanak a fordulóvégi pontozások és a következő forduló előkészítése.
+
+**FELSŐ RÉS:Z**
+- Madárkártyák és tojások a játékostáblákon
+- Pontozástábla a forduló végére
+- Bőnuszkártyák a játékosok mellé
+
+**ALSÓ RÉS:**
+- Eledeljelzők összszámlálása
+- Tojások összszámlálása
+- Végső pontszámok az egyes játékosoknak
+
+**JOBB OLDAL:**
+- A következő forduló kezdetét mutató nyilak
+- Az akciók újra elvégzésére utaló szimbólumok]
+
+---
+
+## MADÁRKÁRTYÁK VÉGIG A JÁTÉKON - VÉGSŐ ÚTMUTATÓ
+
+Az alábbi információ azt magyarázza el, hogy miként működnek az egyes madárkártyák az egész játék során:
+
+### JÁTÉKOSOK MŰKÖDÉSI ÚTMUTATÓJA
+
+**MADÁRKÁRTYÁK KIVÁLOGATÁSA A KEZDETKOR:**
+1. Minden játékos 5 madárkártyát vesz fel a pakliból
+2. Szabad választás, hogy mely 5 kártyáról szeretnéd megtartani
+3. A maradék kártyákat vissza kell tenni a paklib
+
+**MADÁRKÁRTYÁK HASZNÁLATA A JÁTÉK SORÁN:**
+1. Madárkártyákat játszhatsz ki a kezdedbőll az eledeljelzőkkel és tojásjelzőkkel
+2. Madárkártyákat húzhatsz a madárkínálatból vagy a pakliból az akcióockák segítségével
+3. Minden madárkártya aktiválódik, amikor az akcióocka az adott sorra kerül
+
+**MADÁRKÁRTYÁK PONTOZÁSA:**
+1. Minden madárkártyának vannak pontjagit, amely az összes fordulóban összeadódik
+2. A végső pontszám meghatározza a játékosok sorrendjét
+
+---
+
+## MADÁRKÁRTYÁK - VÉGSŐ MEGJEGYZÉS
+
+Az összes madárképesség és a madárkártyák használata közösen alakítja ki a játék stratégiáját. Az eledeljelzőket, a tojásjelzőket és az akcióockákat ügyesen kombinálva érheted el a maximális pontszámot.
+
+---
+
+## A FORDULÓ VÉGE
+
+Amikor a körödben minden játékos fel nem hasznúlja az összes akcióokságit, a forduló végét ért. Hajtstack végre sorban az alábbi lépéseket:
+
+1. **Vegyél vissza az összes akcióockátokat a játékostáblátóról.**
+
+2. **Pontozztatok le a forduló végi célokat az éppen befejezeit fordulóhöz.** Lásd a spielplatzbett fel megjelölt célokat és azok pontozási módját.
+
+3. **Dobjátok el a madárkínálatbat az összes képpel felfelé néző madárkártyát, és töltsétek újra a madárkínálatot a paklíból húzott kartákkal.**
+
+4. **Az óramutatós járása szerint adjátok tovább a kezdőjátékos-jelzőt.**
+
+---
+
+## BONUS KÁRTYÁK
+
+Ahogy azt az előkészületekben lírtuk, minden játékos 1 bőnuszkártyával kezdi a játékot (2 vétellenszerzén kapott kártyából választva). A paklikban vannak olyan madarak, melyekkel továti bőnuszkártyák szerezhetők.
+
+A bőnuszkártyákat a játék végén pontozztatok. Lásd részletesen a mellékletben az egyes bőnuszkártyatípusok pontozását.
+
+---
+
+## KÉPESSÉGEK
+
+Az összes madárképesség bemutatása részletesen:
+
+### A MADÁRKÉPESSÉGEK SZIMBÓLUMAI
+
+**PLATFORM:** Hatásfokú szimbólum, amely egy tetőt jelöl
+
+**CSÉSZÉ:** Szimbólum, amely egy csészét jelöl (vizet vagy evést)
+
+**ÖDÜ:** Szimbólum, amely egy öd (nyitott terület) jelöl
+
+**TALAJ:** Szimbólum, amely a talajt jelöl
+
+**CSILLAG:** Az összes madárképesség zásóker. (Ezek a madárkártyák szakálban leseillenek az addott madárraj képességét.)
+
+Ezek igen hasznosan felhasználhatók, amikor képességeid költség között szeretnél választani.
+
+---
+
+## A TÁJÉKOZTATÓ MEGJEGYZÉSÉ
+
+**Az első játékos, aki 5 forrás vázlatlan zárja le a célja játékos 4. fordulóban indul. A játékosok bejelentettik érkezik le az 5. oldalan.**
+
+---
+
+## A FORDULÓVÉG MECHANIZMUSA
+
+### A FORDULÓ VÉGÉBEN A FORDULÓBAN MŰKÖDŐ PONTOZÁSOK
+
+A fordulók végén a játékosok megkapják a fordulóvégi célokhoz tartozó pontokat. Az összes fordulónak a végén összeadódnak a teljes pontszámok.
+
+**A JÁTÉKOSOK MŰKÖDÉSI ÚTMUTATÓJA A FORDULÓVÉGRE:**
+
+A fordulóban a játékosok azt teszik meg, hogy gyarapítanak a madárkártyakkal, tojásokkal, és bőnuszkártyákkal, illetve az előhelyekhez kapcsolódó célokat teljesítik. A forduló végén a megvalósított célok alapján adódnak össze a pontok.
+
+---
+
+## KÉSZÍTŐK
+
+- A madarak adatait a Cornell Lab of Ornithology All About Birds (allaboutbirds.org), Audubon Guide to North American Birds (www.audubon.org/bird-guide) weboldaláról és Sibley Field Guides to Birds of Eastern North America and Western North America David Allen Sibleyől nézük meg.
+- A madáretetó kockatoronyát a Tower Rex (lowerrex.com) tervezte.
+- A madarak fotóit Glenn Bartley, Alan Murphy, Roman T. Brewka, Rob Palmer és Peter Green bocskótotta a nyomtatásunkre
+- A madarak illusztrációi és egyéb illusztrációk megtalálhatók a nataliarojas.com és az annamartinezjaramillo.com weboldalakón.
+
+---
+
+## TOVÁBBI INFORMÁCIÓK
+
+### SZERETNÉL MEGVIZNI EGY SZABÁLYBEMUTATÓT VIDEÓT?
+
+Látogass el a stonemaeriergames.com/games/wingspan/videos weboldalra.
+
+### MÁS NYELVŰ SZABÁLYRA LENNE SZÜKSÉGED?
+
+Számos nyelven letöltheted a szabályt és az összeglóját a stonemaeriergames.com/games/wingspan/rules weboldalról.
+
+### KÉRDÉS MERÜL FEL A JÁTÉK KÖZBEN VAGY MEGOSZTANÁL VELÜNK VALAMIT?
+
+Írás nekünk: Wingspan Facebook csopourt, vagy ledd fel a BoardGameGeek oldalára, vagy küldl el @stonegeekgamesnek twitterren
+
+### HIÁNYZIK EGY TARTOZÉK?
+
+Igényelel meg innen: boll@dellavision.hu
+
+### MINDENRŐL TUDNI SZERETNÉL?
+
+Házi frissítések: stonemalergames.com/e-newsletter
+
+---
+
+## KIADÓ INFORMÁCIÓ
+
+© 2019 Stonemaier LLC. Wingspan is a trademark of Stonemaier LLC. Minden jog fenntartva.
+
+Magyarországon kiadja és forgalmaza: Delta Vision Kft. • Felelet: Terenyi Róbert
+Kézzeítette: Giczi Gyula • Fordító: Trew és Dunda
+
+Delta Vision Kiadó, 1092 Budapest, Ferenc krt. 40. www.deltavision.hu

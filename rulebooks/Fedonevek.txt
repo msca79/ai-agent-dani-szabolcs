@@ -1,0 +1,306 @@
+# FEDŐNEVEK - Teljes Szabálykönyv
+
+## Fedőnevek
+
+**Szerző:** Vlaada Chvátil
+
+### Előkészületek
+
+A játékosokat két, hasonló méretű és képességű csoportra osztjuk. Legalább négy játékosra (kettő kétszemélyes csapatra) van szükség egy alapjátékhoz, olyanhoz, amilyennek a szabályait a következőkben ismertetjük. A két- és háromszemélyes játékváltozatok szabályai a hátlapon találhatók.
+
+Mindkét csapat tagjai választanak maguk közül egy kémfőnököt. A két kémfőnök az asztalnak egyazon oldalára üljön le. A többi játékos az asztal túloldalán foglaljon helyet, ők lesznek a kémfőnökök csapataiba tartozó kémek.
+
+Válasszatok véletlenszerűen 25 fedőnévkártyát, és helyezzétek ezeket a táblára 5×5-ös elrendezésben.
+
+**Figyelem!** Miközben keveritek a fedőnévkártyákat, néha fordítsátok fel a pakli felét, ez alaposabban összekeveri majd a szavakat.
+
+### A Kulcs
+
+A kulcs az asztalon látható 5×5 kártyát jelképezi. A kék négyzetek a Kék csapat által kitalálandó szavakra (kék ügynökökre) mutatnak. A piros négyzetek a Piros csapat által kitalálandó szavakat jelölik. A fakó színű négyzetek ártatlan járókelők, a fekete négyzet pedig bérgyilkos, akivel egyáltalán nem szabad kapcsolatba kerülni!
+
+Minden játszmához tartozik egy kulcs, amely felfedi az asztalon fekvő kártyákon látható fedőnevekhez tartozó titkos személyazonosságokat. A kémfőnökök véletlenszerűen válasszanak ehhez egy közös kulcskártyát, és csúsztassák azt a kis tartóba maguk elé, középre. A lap bármelyik fele állhat fölfelé. Ne gondolkodjatok rajta egy pillanatig sem. Csak csúsztassátok be a kártyát a tartóba. És ne hagyjátok, hogy a többi kém láthassa.
+
+[ÁBRA MAGYARÁZAT: A kémfőnökök és kémek elhelyezkedése az asztalnál. Az egyik oldalon a kékre és pirosra öltözött kémfőnökök ülnek egymás mellett a kulcskártya-tartó előtt, amely a kártyaelrendezés középén helyezkedik el. A másik oldalon a kémek helyezkednek el. A 5×5-ös kártyaelrendezésben különböző szavak látszódnak, amelyeket egy szögletes tartóban elhelyezett kulcskártya ír le, amely kék, piros, fehér (ártatlan járókelő) és fekete (bérgyilkos) négyzetek kombinációját mutatja.]
+
+---
+
+## A Kezdőcsapat
+
+A kulcskártya szélein látható négy fény határozza meg, hogy melyik csapatnak kell kezdenie. A kezdőcsapatnak 9 szót kell kitalálnia. A másiknak 8-at. A kezdőcsapat adja meg a játék első kulcsszavát.
+
+### Ügynökkártyák
+
+A piros kártyákat a Piros kémfőnök kapja meg, és ezeket egy pakliban maga elé helyezi. A kék ügynökkártyák paklijának a Kék kémfőnök előtt kell lennie. Ennek segítségével mindenki emlékezhet arra, hogy melyik csapattal van.
+
+**A csapatonként elosztásra kerülő ügynökkártyák:**
+
+- **8 piros ügynök** – ezek a Piros csapat ügynökeire utalnak
+- **8 kék ügynök** – ezek a Kék csapat ügynökeire utalnak
+- **1 kettős ügynök** – ahhoz a csapathoz tartozik, amelyik a játékot kezdi. Fordítsátok ennek a csapatnak a színére. Az adott játszma során ennek a csapatnak az ügynökkártyái közé fog tartozni.
+- **7 ártatlan járókelő** – ezek semleges elemek, melyekkel kapcsolatba lépés véget ér a kör folyamán
+- **1 bérgyilkos** – a játékot végérvényesen lezáró veszélyes elem
+
+Az ártatlan járókelő kártyák és a bérgyilkos olyan helyre kerüljenek, ahol mindkét kémmester könnyen eléri őket.
+
+[ÁBRA MAGYARÁZAT: Ügynökkártyák szemléltetése. Megjelenik 8 piros ügynök portré (vöröses tónusú képek), 8 kék ügynök portré (kékesített képek), egy kettős ügynök kártya amely piros és kék félből áll elválasztó vonallal, 7 ártatlan járókelő kártya (szürke tónusú figurák) és 1 bérgyilkos kártya (fekete sziluett kalap alatt).]
+
+---
+
+## A Játék Áttekintése
+
+A kémfőnökök ismerik mind a 25 ügynök valódi személyazonosságát. Csapattársaik csak az ügynökök fedőnevét ismerik.
+
+A kémfőnökök felváltva utalnak egyszavas célzásokkal az ügynökeikre. Egy célzás (kulcsszó) több szóra is utalhat egyszerre az asztalon. A kémek megpróbálják kitalálni, hogy a főnökük melyik szóra utalt. Amikor egy kém hozzáér egy szóhoz, a kémfőnök felfedi annak titkos személyazonosságát. Ha ez az illető az adott csapat ügynökei közül való, a kémek tovább tippelhetnek. Máskülönben a másik csapat következik. Az első csapat, amelyiknek sikerül kapcsolatba lépnie az összes ügynökével, megnyeri a játékot.
+
+---
+
+## A Játék Menete
+
+A csapatok felváltva követik egymást. Az a csapat kezdi a játékot, amelynek színét a kulcskártya szélein a 4 fény jelzi.
+
+### Kulcsszó Megadása
+
+Ha te vagy a kémfőnök, megpróbálsz kitalálni egy olyan kulcsszót, utalást, amely kapcsolódik néhány olyan szóhoz (fedőnévhez), amelyet a te csapatod próbál kitalálni. Ha úgy gondolod, megfelelő kulcsszót találtál, ezt kimondod. Mondasz egy számot is, amely azt jelzi a csapattagjaidnak, hogy hány fedőnév kapcsolódik a kulcsszavadhoz.
+
+**Példa:** A szavaid között megtalálható a DIÓ és a LEVÉL. Mindkettő fán nő, ezért azt mondod: **fa: 2**.
+
+Nyugodtan megadhatsz olyan kulcsszót is, amely csak egyetlen szóra céloz (pl. kesu: 1), de nagyobb az élmény, ha megpróbálsz 2-t vagy többet meghatározni vele. Egyetlen utalással négy szót sikeresen felfedetni hatalmas teljesítmény.
+
+#### Egyetlen szó
+
+A kulcsszavad egyetlen szó lehet. Nem adhatsz meg semmi további segítséget. Például ne mondd azt, hogy "Ez talán határeset, de…"! A Fedőnevek című játékkal játszol. Minden kulcsszó, amit mondasz, egy kicsit határeset.
+
+A kulcsszavad nem lehet olyan fedőnév, ami az asztalon látható. A későbbi körökben azonban némelyik fedőnevet már eltakarjátok, így egy olyan kulcsszó, amely jelenleg nem szabályos, később szabályossá válhat.
+
+### Kapcsolatba Lépés
+
+Amikor a kémfőnök megad egy utalást, a kémei megpróbálják kitalálni, ez mit jelent. Megvitathatják egymás között, de a kémfőnöknek ezt rezzenéstelen arccal kell hallgatnia. A kémek azzal jelzik a hivatalos tippjüket, hogy az egyikük megérinti az egyik fedőnevet az asztalon.
+
+- **Ha a kém a saját csapatához tartozó kártyát érint meg:** a kémfőnök lefedi ezt a kártyát egy ügynökkártyával a csapat színében. **A csapat megpróbálhat megtalálni egy újabb szót (de nem kap újabb kulcsszót).**
+
+- **Ha a kém egy ártatlan járókelőt érint meg:** a kémfőnök lefedi azt egy ártatlan járókelő kártyával. **Ezzel a csapat köre véget ért.**
+
+- **Ha a kém a másik csapathoz tartozó kártyát érint meg:** erre a kártyára a másik csapat egyik ügynökkártyája kerül. **Ezzel a csapat köre véget ért (és sikerült a másik csapatnak segíteniük).**
+
+- **Ha a kém a bérgyilkost érinti meg:** a szóra rákerül a bérgyilkoskártya. **Ezzel a játék véget ért! A bérgyilkossal kapcsolatot létesítő csapat lett a vesztes.**
+
+**Tipp:** Mielőtt kimondanád a kulcsszót, győződj meg róla, hogy nem kapcsolható a bérgyilkoshoz!
+
+### A Tippek Száma
+
+A kémcsapatnak mindig legalább egyet kell tippelnie. Rossz tippek esetén azonnal véget ér a kémek köre (vagyis a másik csapaton a sor), de ha a saját csapatuk színéhez tartozó szót sikerül találniuk, folytathatják a tippelgetést.
+
+Bármikor abbahagyhatjátok a tippelgetést, de általában igyekeztek annyi szót megtalálni, amennyit a kémfőnök mondott. Néha pedig vágyat érezhetek rá, hogy eggyel többel is megpróbálkozzatok:
+
+**Példa:** A Piros csapat első kulcsszava **fa: 2** volt. A Piros kém a GYŰRŰ és a LEVÉL szavakra szeretett volna tippelni (előbbire a fák évgyűrűi, utóbbira a levelei miatt). Elsőként a GYŰRŰ szóra szavazott. Ez azonban egy ártatlan járókelőre utalt, így már nem tehetett próbát a LEVÉL szóval.
+
+A Kék csapat következett, és ki is találtak két szót. Újra a Piros csapat következik.
+
+#### Részletesebb példa a tippek számáról
+
+A Piros kémfőnök azt mondja: **folyó: 3**. A Piros kém biztos benne, hogy a DUNA egy folyó, ezért ezt a kártyát érinti meg. A kémfőnök ezt lefedi egy piros ügynökkártyával, így a Piros kém tovább próbálkozhat. A folyó VÍZből van, ezért most ezt a fedőnevet érinti meg. Ez is piros, tehát újra jöhet.
+
+A Piros kém nem biztos benne, hogy mi lehet a harmadik szó a folyóval kapcsolatban. A LEVÉL kártyát választja. Ennek semmi köze a folyóhoz. Ezt az előző kulcsszó miatt tippelte.
+
+A LEVÉL piros szó. A kém három jó tippet adott le a **folyó: 3** kulcsszó megadása után. Lehet még egy utolsó tippje. Megpróbálhatja megtalálni a harmadik szót a folyóra, vagy a másik szót a fára. Vagy itt meg is állhat, és hagyhatja, hogy a Kék csapat következzen.
+
+**Csak egy extra tipp leadására van lehetőséged.**
+
+A fenti példában a Piros kémnek 4 próbálkozása lehet, mert a kémfőnök 3-at mondott. Amikor a kémek azt mondják, befejezték a tippelgetést (vagy amikor rosszul tippelnek), a másik csapaton van a sor.
+
+### A Játék További Menete
+
+A kémmesterek felváltva adnak meg kulcsszavakat. A kémmester kulcsának hallatán a kémmesterek elkezdenek tippelni. A körük véget ér, amikor rosszul tippelnek, megállnak, vagy elérik a tippelhető maximumot. Ekkor a másik csapat köre következik.
+
+### A Játszma Befejezése
+
+A játék akkor ér véget, amikor az egyik csapat összes szavát sikerült lefedni. Ez a csapat megnyeri a játékot.
+
+Lehetséges a másik csapat körében nyerni, ha ők tippelik meg a mi utolsó szavunkat.
+
+A játék korábban is véget érhet, ha egy kém kapcsolatba lép a bérgyilkossal. Ennek a kémnek a csapata elveszti a játékot.
+
+### A Következő Játék Előkészítése
+
+Mások is akarnak kémfőnökök lenni? A második játszma előkészítése igen egyszerű. A fedőneveket eltakaró kártyákat vegyétek vissza, külön paklikat alkotva belőlük. Fordítsátok fel a 25 fedőnévkártyát, az új kémfőnökök húzzanak új kulcslapot, és már mehet is a játék!
+
+---
+
+## Tanácsok a Játék Jó Vezetéséhez
+
+### Pókerarc, Pókerarc!
+
+A kémfőnöktől elvárás, hogy pókerarcot vágjon. Ne nyúlj semelyik ügynökkártyapakli felé, miközben a csapatod még csak hangosan gondolkodik a szavakon. Amikor egy csapattagod megérint egy szót, ellenőrizd le a kulcskártyádon, és takard le a szót a megfelelő színű kártyával. Amikor a csapattagod megfelelő színű szót választ, tegyél úgy, mintha pontosan erre a szóra gondoltál volna. Akkor is, ha nem.
+
+Ha kém vagy, az asztalt nézd, miközben tippelni próbálsz. Ne nézz bele a kémfőnök szemébe találgatás közben. Ezzel elkerülhetők a nonverbális segítségek.
+
+Ha az információd kizárólag arról szól, amit egyetlen szó és egy szám meghatározhat, akkor játszol a játék szellemének megfelelően.
+
+### Büntetés a Nem Szabályos Kulcsszavakért
+
+Ha egy kémfőnök nem szabályos utalást ad meg, a csapat köre azonnal véget ér (a másik csapat kémfőnökén van a sor). További büntetésként a másik csapat kémfőnöke letakarhatja a saját csapatához tartozó egyik szót egy ügynökkártyával, mielőtt megadná a következő kulcsszót. De ha senki nem veszi észre vagy jelzi, hogy a kulcsszó nem szabályos, akkor szabályosnak számít.
+
+### Mire Való a Homokóra?
+
+Bocsánat. Majdnem elfelejtettük. Tudod, nem gyakran használjuk a homokórát.
+
+Ha egy játékos túl sokáig gondolkodik, bármelyik játékos megfordíthatja a homokórát és megkérheti a lassú játékost, hogy hozza meg a döntését, mielőtt lejár az idő.
+
+Ha nem tudsz dönteni, akár magadra is használhatod a homokórát. Ha az idő lejárta előtt nem találsz jó kulcsszót, adj meg egy olyat, amely csak egyetlen szóra, a legnehezebben célozható szavadra utal, és gondolkodj tovább, amíg a másik csapaton van a sor.
+
+Ha szigorú időkorlátokkal szeretnétek játszani, letölthetitek a stoppert is kínáló alkalmazásunkat a codenamesgame.com oldalról.
+
+---
+
+## Szabályos Kulcsszavak - Részletes Útmutató
+
+### Alapvető Szabályok
+
+Bizonyos kulcsszavak azért nem szabályosak, mert a játék szellemiségével ellentétesek.
+
+**A kulcsszavadnak a szavak jelentéséről kell szólnia.** Nem használhatod a kulcsszavadat a szóban szereplő betűknek vagy a szavak pozíciójának leírására. A **só** nem megfelelő kulcsszó a **KOPORSÓ**ra. A **DÉL** és **DIÓ** szavakat nem kötheted össze egy olyan kulcsszó megadásával, hogy **d: 2** vagy **három: 2**. Azonban…
+
+**A betűk és számok elfogadható kulcsszavak, ha a jelentésre utalnak.** Használhatod például az **Ó: 2** utalást a **KOR** és **LÁB** szavakra. A **nyolc: 2** megfelelő lehet például a **PÓK** és **POLIP** szavakhoz.
+
+**A kulcsszó után mondott szám nem használható utalásra.** A **citrus: 8** szabálytalan utalás arra, hogy **NARANCS** és **POLIP**.
+
+**Magyarul kell játszani.** Más nyelven mondott szó csak akkor elfogadható, ha azt a társaság egyébként is használná magyar mondatban (főként a magyar nyelvben használt idegen szavakról van szó). Például a **police: 2** nem elfogadható utalás a **RENDŐR** és **LONDON** szavakra, de ha az együttesre gondolunk, a **GITÁR** és **LONDON** szavakra megfelelhet a szabályoknak.
+
+**Semmilyen formában nem mondhatsz ki olyan szót, ami a táblán látszik.** Amíg a **VOLT** szót le nem fedi egy kártya, nem mondhatsz olyanokat, mint **van, voltak, elvoltunk, kivoltál**.
+
+**Nem mondhatod ki egy asztalon látható összetett szó egyik szórészét sem.** Amíg a **HÓEMBER** nincs lefedve, nem mondhatod azt, hogy **hó, ember, hókotró** vagy **Esőember**.
+
+---
+
+### Hasonló Szavak és Toldalékok
+
+A magyar nyelvben ritkán, de előfordulnak azonosan ejtett, ám máshogy írott és mást jelentő szavak. Ilyen például a **só** és a **show**.
+
+**Az egyformán hangzó, de mást jelentő és máshogy írott szavak különböző szavaknak számítanak.** Így például nem használhatjuk a **só** kulcsszót egyszerre a **LEVES**re és a **KONCERT**re, a **blúz**t a **RUHA**ra és **KONCERT**re stb.
+
+**Az azonos alakú, de többjelentésű szavak egy szónak számítanak.** Például a **fűz** igeként és főnévként is értelmes, tehát például a **fűz: 2** megfelelő utalás a **GYÖNGY** és **FA** szavakra.
+
+**Szabad betűzni.** Ha bármikor félreérthető lenne vagy félreérést okozhatna a kulcsszó kiejtése, meg szabad ismételni betűzve, pl. **b-o-ly**. Ha valaki kéri, akkor pedig kötelező betűzni, amihez akár az ellenfél kémfőnökének segítségét is kérhetjük.
+
+**Tipp:** A betűzés nemcsak a félreérthető szavak miatt lehet fontos – lehetséges például, hogy egy zajos szobában egyszerűen nem érthető, amit mondunk.
+
+**A toldalékok használatát mérsékeljétek.** A magyar, "ragasztó" nyelv különlegessége, hogy egy szónak ezerféle változata létezik a különféle toldalékok, ragok, jelek, képzők miatt. Ezek használatát nem tilthatjuk, de javasoljuk visszafogott alkalmazásukat. Nemcsak azért, mert a fentiekhez hasonló **fogjuk/foglyuk** problémák ezekkel fokozottan előfordulhatnak, de azért is, mert leleményes kémfőnökök a korlátozott fantáziánkkal el sem képzelhető módon fordíthatják ezt az eszközt a játék szellemisége ellen.
+
+---
+
+### Ne Legyél Túl Szigorú
+
+A **LOCH NESS** szóban a "loch" szó szerint tavat jelent, de ez nem általános tudás Magyarországon, így a **tó** például tökéletesen elfogadható kulcsszó a **LOCH NESS** kapcsán. És aki azt állítja, hogy a **tör** szó nem használható, amíg az asztalon látszik a **TÖRPE**, csak kötözködni akar.
+
+**Amit az ellenfél kémfőnöke elfogad, az a kulcsszó nem szabálytalan.** Ha nem vagy biztos benne, hogy elfogadható-e, kérdezd meg őt (halkan, hogy mások ne hallják).
+
+---
+
+## Rugalmas Szabályok
+
+Néha egyéni szabályok meghozatalára lehet szükség arról, hogy milyen utalás szabályos és milyen nem. Különböző társaságok lehet, hogy különbözőképpen szeretnék játszani a játékot.
+
+### Összetett Szavak
+
+A magyar nyelvben vannak kötőjeles és kötőjel nélküli összetett szavak. A játékszabály egy szóba írandó, a társasjáték-gyűjtemény kettőbe. Elvileg csak a játékszabály lehet megfelelő egyszavas utalás. Egyébként is javasoljuk, hogy többszörösen összetett szavakat ne használhassanak a kémfőnökök – egy **lakástakarék-nyereménybetétkönyv** a benne foglalt szavakkal akár rengeteg fedőnévre is utalhatna egyszerre, ami igazságtalan előnyhöz juttathatná a csapatot.
+
+A társaság azonban dönthet úgy, hogy bármilyen fajta (egyszerű, kötőjeles, többszörös) összetett szavakat is használhatnak a kémfőnökök. **Új összetett szavak kitalálását viszont semmi esetben ne engedjük.** Az **Űrdínó: 2** nem szabályos utalás a **CSILLAG** és **T-REX** párosra.
+
+### Tulajdonnevek
+
+A tulajdonnevek használata – a többi szabály betartásával – engedélyezett. Az **Attila** szó szabályos utalás, de lehet, hogy pontosítani szeretnénk, hogy **József Attilá**ra vagy mondjuk **Pataky Attilá**ra gondolunk. Ha a társaságban egyetértés van e tekintetben, akkor az ilyen többszavas tulajdonneveket is szabad kulcsszóként használni. Ezzel akár irodalmi vagy filmcímek is engedélyezhetők, pl. **A három testőr**. De ha nem engedélyezzük a többszavas tulajdonneveket, akkor is tehetünk kivételeket az olyan földrajzi nevekkel, amilyen pl. **New York**.
+
+A kémfőnökök azonban ebben az esetben sem találhatnak ki új tulajdonneveket, még olyanokat sem, amelyekről kiderül, hogy tényleg léteznek. A **Kup Lung: 2** nem elfogadható utalás a **PEKING** és **AUTÓ** párosra.
+
+### Mozaikszavak
+
+A **CIA** vagy **KGB** gyakorlatilag nem egy szó. De remek kulcsszó. A társaság dönthet úgy, hogy elfogadja a mindenki által használt betűszavakat és szóösszevonásokat, mint amilyen például az **ELTE, Elmü** vagy **urh**. Az olyan szavak pedig, mint a **radar, dvd, wc** például mindig használhatók, noha eredetileg rövidítésként jöttek létre.
+
+### Homofón Szavak
+
+Vannak, akik jobban szeretik úgy a játékot, hogy szabadabban használhatjuk az azonos hangzású szavakat. Így megfelelő utalás lehet a **só** a **show**-val kapcsolatos fedőnevekre is, ha ettől a társaság jobban szórakozik.
+
+### Rímek
+
+A rímek mindig elfogadhatók, ha a jelentésre utalnak. A **perec** jó utalás a **KEREK**re, mert ismert szópárosról van szó. A **fej** lehet jó utalás a **TEJ**re, mert a tejet fejéssel nyerik ki a tehénből. A **túró** azonban nem jó utalás a **BÍRÓ**ra, mert az asszociáció itt csak a szavak hangzásából fakad. (Ha azonban a csoport játék előtt éppen egy túrótolvaj tárgyalásáról értekezett, az utalás tökéletesen helytálló lehet.)
+
+Vannak, akik bármilyen rímelést elfogadnak utalásként. Ha így döntötök, csak annyit vegyetek figyelembe, hogy a kémfőnöknek akkor is tilos jeleznie, hogy valamelyik szóra rímeléssel utal. A kémeinek maguktól kell erre rájönniük.
+
+---
+
+## Profi Utalások és Szabályok
+
+### Profi Utalás: Nulla
+
+A **0** használható az utalás szám részeként. Például az **indián: 0** azt jelenti: "Az egyik szónak sincs köze az indiánhoz."
+
+Ha a szám **0**, a tippek számára vonatkozó szokásos korláttol nem kell foglalkozni. A kémek annyi szóra tippelhetnek, amennyire csak akarnak. Egy szóra azért ebben az esetben is legalább tippelniük kell.
+
+Ha nem teljesen érted, mi lehet a jó ebben, ne aggódj. Idővel rá fogsz jönni.
+
+### Profi Szabály: Korlátlan
+
+Előfordulhat, hogy számos szó van, amit az előző körökben nem sikerült a csapatodnak az ezekre vonatkozó utalásokból kitalálnia. Ha szeretnéd, hogy a csapatod ezek közül többet is kitalálhasson, szám helyett azt is mondhatod: **korlátlan**. Például **indián: korlátlan**.
+
+Ennek a hátránya az, hogy a kémek nem tudják, hány szó kapcsolódik az új utaláshoz. Az előny az, hogy annyi szóra tippelhetnek, amennyire csak akarnak.
+
+---
+
+## Kétszemélyes Játék
+
+Ha csak ketten vagytok, játszhattok egy csapatban. Ez a kétszemélyes változat nagyobb társaságban is működik, ha a játékosok nem szeretnének egymás ellen játszani. Ilyenkor egy szimulált ellenfél ellen próbálunk jó eredményt elérni.
+
+A játék előkészületei a szokásosak. Az egyik játékos a kémfőnök, a másik (vagy a többiek) a kém(ek). A másik csapatnak nincsenek játékosai, de az ő ügynökkártya-paklijukra is szükség lesz.
+
+**A ti csapatotok kezd** – Figyelj arra, hogy olyan kulcskártyát válassz, amelyikkel ti lesztek a kezdőcsapat.
+
+Amikor sorra kerültök, játsszatok a szokásos módon. Próbáljatok nem kapcsolatba lépni az ellenfél ügynökeivel és a bérgyilkossal.
+
+A kémfőnök cselekszik az ellenfél csapata nevében is: amikor "ők" kerülnének sorra, lefedi az egyik szavukat egy ügynökkártyájukkal. Mivel a kémfőnök választja ki, hogy melyik szót fedje le, lehet némi stratégiát is belevinni ebbe a döntésbe.
+
+Ha a csapatod kapcsolatba lép a bérgyilkossal, vagy ha az ellenfél összes ügynökével megtörtént a kapcsolatfelvétel (le vannak fedve az ellenfél ügynökkártyáival), elveszítitek a játékot. Nem kaptok pontot.
+
+Ha a csapatotok nyer, annyi pontot kaptok, ahány ügynökkártya maradt az ellenfél paklijában.
+
+**Megjegyzés:** a pontszámotokat egyrészt az befolyásolja, hogy hány körre volt szükségetek a győzelemhez, másrészt hogy az ellenfél hány ügynökével léptetek véletlenül kapcsolatba.
+
+### Pontszámozás a Kétszemélyes Játékban
+
+- **8** Ezt… nehéz elhinni.
+- **7** Mission impossible.
+- **6** Nem semmi!
+- **5** Az MI6 hívni fog titeket.
+- **4** Ilyenek a profi kódfejtők.
+- **3** Egyeztettétek az óráitokat.
+- **2** Nem rossz. De ennél jobbat is tudtok.
+- **1** Hát, a kis győzelem is győzelem, nem igaz?
+
+---
+
+## Háromszemélyes Játék
+
+Ha a három játékos szeretne egyazon csapatban játszani, akkor a fent részletezett módon megtehetik. Ha két játékos egymás ellen akar játszani, lehetőség van arra is, hogy ők legyenek a kémfőnökök, a harmadik játékos pedig mindkettőjük kémje.
+
+Az előkészületek és a játék menete a szokásos módon zajlik, leszámítva, hogy egyetlen kém dolgozik mindkét oldalnak. (Mint a kémek a valós életben!) A győztes kémfőnök személye a szokásos módon dől el. A kém megpróbál mindent megtenni mindkét oldal érdekében.
+
+---
+
+## További Információk
+
+Ha a játékról és játékvariációkról még többet szeretnétek megtudni, látogassatok el a **www.codenamesgame.com** oldalra.
+
+---
+
+## Alkotók és Köszönetnyilvánítás
+
+- **Tervező:** Vlaada Chvátil
+- **Illusztrációk:** Tomáš Kučerovský
+- **Grafikai tervezés:** Filip Murmak
+- **Fordítás:** Molnár László (Lacxox)
+
+**Külön köszönet:** hitveseinknek és gyermekeinknek, a Brnói Társasjátékklubnak, Paulnak és barátainak, Jasonnek és a családjának, Laadineknek és a játékklubjának, Ditának és a STOH játékklubnak, és annak a sok jó embernek a Czechgamingnél és akik játszották a Gathering of Friends, MisCon, Herní víkend, Severské hraní, Stahleck, UK Games Expo és egyéb játékos eseményeken. A tesztelés során előjövő ötletes utalásaitok kifejezetten inspirálóan hatottak. Köszönet továbbá a magyar szókészlet összeállításáért a Gém Klub csapatának.
+
+© Czech Games Edition
+2015. július
+
+www.CzechGames.com

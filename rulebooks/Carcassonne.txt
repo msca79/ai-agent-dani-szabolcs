@@ -1,0 +1,399 @@
+# Carcassonne – Szabálykönyv
+
+## A játék célja
+
+A Carcassonne egy furfangos lapkalerakó-játék 2-5 játékos részére, 8 éves kortól. A dél-francia Carcassonne város a rómaiak korából ránk maradt, egyedülállóan megépített erődjéről híres.
+
+A játékosok követőikkel útra kelnek, hogy megcsinálják szerencséjüket Carcassonne útjain, a városokban, a mezőkön és a kolostorokban. A táj alakítása a játékosok kezében van! A felállított követők – az útonállók, lovagok, földművesek és szerzetesek – segítenek a sikerhez vezető úton!
+
+Lépésről lépésre játékostársaiddal tájlapkákat tesztek le. Így alakulnak ki a hosszú utak, hatalmas városok emelkednek, benépesülnek a kolostorok vagy növekszik a termékeny földterület.
+
+A követők útonállók, lovagok, szerzetesek vagy földművesek szerepében jelenhetnek meg. Ők játék közben, sőt a játék végén is pontokat szereznek neked. Az izgalmas játék legvégén, a végső értékelés után derül ki, hogy kinek van a legtöbb pontja, és ki a játék győztese.
+
+---
+
+## A játék részei és a felépítés
+
+### Tájlapkák
+
+A játékban **84 tájlapka** található. A tájlapkák zöld mezőjén utak, városok és kolostorok láthatók.
+
+**Tájlapka típusok:**
+- Tájlapka egy útrészlettel
+- Tájlapka egy városrészlettel
+- Tájlapka egy kolostorral
+
+**A folyó és speciális elemek:**
+12 tájlapkán egy folyó részletei láthatnak. A folyóval és a tájlapkákon lévő további elemekkel, mint házak vagy figurák, az alapszabályokból nem kell foglalkoznod. Ezekről a játékszabály végén olvashatsz majd. A folyót ábrázoló lapkákat az első játékkor visszatehetitek még a játék dobozába.
+
+**Lapkahátlap megkülönböztetés:**
+- **Sötétebb hátlapos tájlapkák:** A startlapka és a folyólapkák
+- **Normál hátlapos tájlapkák:** A többi tájlapka
+
+### Követők és apátok
+
+A játékban **40 követő** található, színenként 8 darab a következő színekben: **sárga, piros, zöld, kék és fekete**. Ezenkívül még **5 apát** is van ezekben a színekben.
+
+**Játékindítás követőkkel:**
+- Adj minden játékosnak (magadat is beleértve) **7 követőt** a kiválasztott színben. Ezek jelentik a játékosok készleteit.
+- Állítsd minden játékos **nyolcadik követőjét** az értékelő-tábla **0. mezőjére**.
+- A maradék követőket és az apátokat az első játszmában még tedd vissza a játék dobozába.
+
+### Értékelő-tábla
+
+Az értékelőtáblát helyezd a játékfelület mellé az asztal szélére. Ezzel követheted nyomon a játékosok pontjait.
+
+### Játékfelület felépítése
+
+**A játék előkészítése:**
+1. A startlapkát (sötét hátlapos tájlapka) fektesd középre.
+2. A maradék lapkákat keverd meg, és képpel lefelé alakíts ki húzópaklikat belőlük az asztalon úgy, hogy azokat mindenki elérhesse.
+3. Több pakli a lefordított lapkákból
+
+---
+
+## A játék menete
+
+### Az akciók sorrendje
+
+A Carcassonne játékot az óramutató járásával megegyező irányban játsszuk, a legfiatalabb játékos kezd. Az éppen soron lévő játékos a következő akciókat hajtja végre a megadott sorrendben. A játékot az utána következő játékos folytatja és így tovább.
+
+**Egy játékos körét három akció alkotja:**
+
+#### 1. Tájlapka lefektetése
+
+Amikor soron vagy, **pontosan 1 új tájlapkát kell húznod**, amelyet **egyik oldalával a játékfelülethez kell illesztened**.
+
+**Követelmények:**
+- Az új tájlapkát, amelyet húztál, a játékfelülethez kell illesztened úgy, hogy a tájelemek folytatódjanak.
+- A lapkán látható 3 út (egy faluból indulnak ki), városrészlet vagy kolostor illeszkedjen a már meglevő tájelementekhez.
+- Abban a nagyon ritka esetben, ha a tájlapka sehová sem illeszthető, akkor azt vissza kell tenned a játék dobozába, és egy újabbat kell húznod helyette.
+
+**Hibásan helyezett lapka helyes illeszkedés:**
+- A lehelyezésnél ügyelj arra, hogy a táj elemei megfeleljenek egymásnak.
+- Az út az úthoz, a mező pedig a mezőhöz illeszkedik.
+
+#### 2. Követő állítása
+
+A lépésed végén **letehetsz a készletedből egy követőt** arra a tájlapkára, amelyet **éppen lehelyeztél**.
+
+**Követelmények:**
+- Az egyik követődet leteheted arra a tájlapkára, amelyet éppen lehelyeztél.
+- A követő állításakor ügyelned kell arra, hogy **ne álljon már másik követő azon a területen**.
+- A követő állítása nem kötelező – szabadon döntethetsz, hogy felrakasd-e vagy sem.
+
+#### 3. Pontértékelés
+
+**Minden olyan értékelést végre kell hajtanod, amelyet a tájlapkád lehelyezésével idéztél elő.**
+
+A pontozásra mindig a lépés végén kerül sor! Pontozáskor minden olyan játékos pontokat kap, akinek az értékelt területen követője áll.
+
+---
+
+## Az utak
+
+### 1. Tájlapka lefektetése
+
+Az az tájlapka, amelyet húztál, 3 út látszik (egy faluból indulnak ki). A lapkát a tájhoz illeszted. A lehelyezésnél ügyelj arra, hogy a táj elemei megfeleljenek egymásnak.
+
+**Ábra magyarázat:** Az útrészlet folytonossága biztosítva van, az út az úthoz és a mező a mezőhöz illeszkedik megfelelően.
+
+### 2. Követő állítása útonállóként
+
+Miután a tájlapkádat letetted, a lapkádon futó útra követőt állíthatsz **útonállóként**. Ez csak akkor lehetséges, ha az úton **nem áll másik útonálló**.
+
+**Szabályok:**
+- Az út még nincsen lezárva, ezért még nem történik értékelés (3. akció).
+- A játékot a következő játékos folytatja.
+
+**Többszörös követő egy úton:**
+Abban az esetben, ha a tájlapkádat letette, az a te utadat zárta le. Ha egy játékostársad tette le a tájlapkát, az a te utadat zárta le.
+
+**[ÁBRA MAGYARÁZAT: Az ábrán egy út látható, amely egy faluból indul és három lapkából áll. Az első úton már egy követő áll útonállóként. A második lapka az utadat meghosszabbítja, de az úton már áll egy útonálló, így új követő nem állítható fel. A harmadik lapka az utat lezárja, mivel mindkét vége faluba/városba/kolostorba fut vagy önmagába végződik.]**
+
+### 3. Pontértékelés – Utak
+
+Amint egy út lezáródik, értékeljük. **Az útnak egy faluba, egy városba, egy kolostorba vagy önmagába kell futnia.**
+
+**Pont számítás:**
+- **Minden útlapka 1 pontot ér.**
+- Az utadat alkotó minden lapka 1 pontot ér.
+
+**Példa:** Az utad 3 lapkából áll, így 3 pontot kapsz!
+
+**Pontozás után:**
+- Minden játékos visszaveszi az értékelt követőjét.
+- Az értékelés után előreléphetsz a megfelelő számú mezőt a pontozótáblán.
+
+**Végződési szabályok:**
+- Egy út akkor van lezárva, ha mindkét vége egy faluban, egy városban, egy kolostorban vagy önmagába végződik.
+
+---
+
+## A városok
+
+### 1. Tájlapka lehelyezése
+
+Mint mindig, húzol egy tájlapkát azért, hogy lehelyezd. A tájlapkákat lehelyezésekor ügyelned kell arra, hogy a tájelemek folytatódjanak.
+
+**Követelmények:**
+- A városrészletet egy nyitott városhoz kell illesztened.
+- A tájlapkának illeszkednie kell a már lent lévőkhöz.
+
+**[ÁBRA MAGYARÁZAT: A tájlapkák olyan csatlakoznak egymáshoz, hogy a város részletei logikus egészet képezzenek. A kijelölt helyre egy városrészlet kerül, amely az előző város részlethez csatlakozik.]**
+
+### 2. Egy követő állítása lovagként
+
+Ez után **ellenőrizd, hogy áll-e már lovag a városban**. Ha még nem áll, akkor **felrakhatod a lapkára a követődet mint lovagot**.
+
+**Szabályok:**
+- Ellenőrizd, hogy már áll-e lovag a városban.
+- Ha nem, akkor felrakazhatsz egy követőt lovagként.
+- A város még szabad, tehát ráállíthatod követődet.
+
+**[ÁBRA MAGYARÁZAT: Az éppen lerakott lapkára egy követő kerül lovagként. A város még nyitott (nem teljes egészében városfal veszi körül), tehát a követő elhelyezése megengedett. Az ábrán a város továbbnyúlik, a lovag a városban marad.]**
+
+### 3. Pontértékelés – Városok
+
+Egy kicsit felgyorsítjuk az idő múlását. A következő körben a város teljesen lezáródik (teljes egészében városfal veszi körül).
+
+**Pont számítás:**
+- **A város alkotó minden tájlapka 2 pontot ér.**
+- **Továbbá minden pajzs további 2 pontot ér.**
+
+**Ábra magyarázat:** A város 8 pontot ér összesen. Az értékeléskor egy lovag a városban, az utat alkotó 4 lapka (minden lapka 2 pont = 8 pont). A pajzsok is számítanak (+2 pont pajzsonként).
+
+**Pontozás után:**
+- Itt is visszaveheted a követődet a készletedbe.
+- A pontokat előreléphetsz a pontozótáblán.
+
+**Végződési szabályok:**
+- Egy vár akkor van lezárva, ha teljes egészében városfal veszi körül.
+- A várat alkotó minden tájlapka, továbbá a városban minden pajzs 2 pontot ér.
+
+---
+
+## A kolostorok
+
+### 1. Tájlapka lehelyezése
+
+Mint mindig, húzol egy tájlapkát azért, hogy letedd. A tájlapkának itt is illeszkednie kell a már lent lévőkhöz.
+
+**Követelmények:**
+- Kolostor mindig egy tájlapka közepén áll.
+- Amikor le akarod tenni, akkor ügyelned kell a lapka szélén lévő a tájelemekre (az eddig megszokottak szerint).
+
+**[ÁBRA MAGYARÁZAT: A kolostor a lapka közepén áll. A tájlapka széleit az azt körülvevő lapkákhöz kell illeszteni. A mező a mezőhöz, az út az úthoz csatlakozik.]**
+
+### 2. Követő állítása szerzetesként
+
+A kolostorra is állíthatsz követőt, de őt **szerzetesnek nevezzük**, és **pontosan a lapka közepére, a kolostorra kell helyezned**.
+
+**Szabályok:**
+- A kolostorra is állítható követő.
+- A szerzetest a lapka közepére, a kolostorra kell helyezni.
+- A kolostor lapka közepén áll. Ide teheted, mert itt a mező a mezőhöz illeszkedik.
+
+### 3. Pontértékelés – Kolostorok
+
+**A kolostor akkor értékelhető, ha teljes egészében tájlapkák veszik körül.**
+
+**Pont számítás:**
+- **Minden kolostor 9 pontot ér.**
+- Minden érintett tájlapka, beleértve magát a kolostorot is, 1 pontot ér.
+
+**Ábra magyarázat:** A kolostor 9 lapkával körbeépített (központi lapka + 8 körülötte = 9 lapka). Minden lapka 1 pontot ér, így összesen 9 pont.
+
+**Pontozás után:**
+- A kolostor értékeléskor visszaveheted a szerzetest.
+- Az értékelt követődet visszaveheted a készletedbe.
+
+**Végződési szabályok:**
+- Egy kolostor akkor van lezárva, ha teljes egészében, 8 lapkával körbe van építve.
+- A kolostor önmagában 1 pontot ér, és még 1 pontot minden tájlapka, amely körülveszi.
+
+---
+
+## Összefoglalás – A játékszabályok szükséges részei
+
+### 1. Tájlapka lefektetése
+
+- Az új tájlapkát, amelyet húztál, a játékfelülethez kell illesztened úgy, hogy a tájelemek folytatódjanak.
+- Abban a nagyon ritka esetben, ha a tájlapka sehová sem illeszthető, akkor azt vissza kell tenned a játék dobozába, és egy újabbat kell húznod helyette.
+
+### 2. Követő állítása
+
+- Az egyik követődet leteheted arra a tájlapkára, amelyet éppen lehelyeztél.
+- A követő állításakor ügyelned kell arra, hogy ne álljon már másik követő azon a területen.
+
+### 3. Pontértékelés
+
+**Általános szabályok:**
+- A pontozásra mindig a lépés végén kerül sor!
+- Pontozáskor minden olyan játékos pontokat kap, akinek az értékelt területen követője áll.
+- Pontozás után minden játékos visszaveszi az értékelt követőjét.
+
+**Az utak értékelése:**
+- Egy út akkor van lezárva, ha mindkét vége egy faluban, egy városban, egy kolostorban vagy önmagába végződik.
+- Minden útlapka 1 pontot ér.
+
+**A városok értékelése:**
+- Egy vár akkor van lezárva, ha teljes egészében városfal veszi körül.
+- A várat alkotó minden tájlapka, továbbá a városban minden pajzs 2 pontot ér.
+
+**A kolostorok értékelése:**
+- Egy kolostor akkor van lezárva, ha teljes egészében, 8 lapkával körbe van építve.
+- Minden kolostor 9 pontot ér.
+
+**Többszörös követő egy területen:**
+- Ha több játékos is azonos területen áll, akkor egy város vagy út értékeléskor az a játékos kapja az összes pontot, aki többségben van.
+- Egyezőség esetén minden érintett játékos az összes pontot megkapja.
+
+---
+
+## Több követő egy területen
+
+### Példa: Stratégiai játék többszörös követővel
+
+**Ábra magyarázat:** Az általad húzott lapka meghosszabbíthatná az utat, de mivel az úton már áll egy útonálló, arra nem állíthatsz követőt. Így amellett döntesz, hogy a lapkát úgy teszed le, hogy az utak nem kapcsolódnak össze.
+
+A következő körben ezt a lapkát húzod, és a nyitott úthoz illeszted. Az így összekapcsolt úton 2 követő áll. Mivel az út lezáródott, értékeljük. Te és a játékostársad 4-4 pontot kap.
+
+**[ÁBRA MAGYARÁZAT: Az útra két követő kerül – az egyik piros, a másik sárga. Az út lezáródása után mindketten azonos mennyiségű pontot kapnak (4-4), mivel egyezőség van a többségben. A két követő közötti megosztott nyeremény szemlélteti az egyenlő elosztás szabályát.]**
+
+---
+
+## A játék vége és a végső értékelés
+
+A játék akkor ér véget, amikor egyik játékos már nem tud tájlapkát húzni és letenni. Ekkor kezdődik a **záró értékelés** és a **győztes megállapítása**.
+
+### Végső értékelés szabályai
+
+Amikor a játék véget ér, **kiosztjuk a pontokat** azokért a területekért, amelyeken követők állnak:
+
+**Utak végső értékelése:**
+- Minden út tájlapkánként 1 pontot ér. Éppen úgy, ahogy a játék alatt.
+- Az út még nyitva lehet, még nem szükséges lezárva lennie.
+
+**Nyitott városok végső értékelése:**
+- Minden nyitott város 1 pontot ér tájlapkánként és pajzsonként.
+- A város nem kell, hogy teljes egészében városfal veszi körül.
+
+**Kolostorok végső értékelése:**
+- A kolostor önmagában 1 pontot ér, és még 1 pontot minden tájlapka, amely körülveszi, akárcsak a játék alatt.
+- A kolostor nem szükséges, hogy teljes egészében körbeépített legyen.
+
+**Mezők (földművesek) végső értékelése:**
+- Minden mező annyiszor 3 pontot ér, ahány zárt város fekszik a mezőn.
+- Ez a földművesek értékelése, amelyet az áttekinthetőség kedvéért később írunk le részletesen.
+- A kezdetekben figyelmen kívül hagyhatjátok ezt az értékelési szempontot, majd néhány játék után bevethetitek a játékba.
+
+### Végső értékelés konkrét példái
+
+**A vár végső értékelése:**
+- A zöld a nagy nyitott városért 8 pontot kap.
+- (5 pont a városrészek és 3 pont a pajzsok után.)
+- A fekete nem kap semmit, mert a zöld 2 lovagjával többségben áll a városban.
+
+**A város végső értékelése:**
+- A kék 3 pontot kap a nyitott városért.
+- (2 pont a városrészért és 1 pont a pajzsért.)
+
+**A kolostor végső értékelése:**
+- A sárga 4 pontot kap a nyitott kolostorért.
+- (3 pont a kolostorot körülvevő tájlapkák és 1 pont a kolostorlapka után.)
+
+**Az út végső értékelése:**
+- A piros 3 pontot kap a nyitott útért.
+- (3 pont az útrészletekért.)
+
+### A játék győztesének megállapítása
+
+Amint a végső értékelés során kapott pontok mértékében előreléptetek a pontozótáblán, kialakult a **végső eredmény**, és megtudtuk, hogy **ki lett a játék nyertese**! 
+
+**Gratulálunk!**
+
+### Az előrehaladott játékhoz
+
+Amikor már egy – két Carcassonne partin túl vagytok, vegyétek be a játékba a **földműveseket a mezőkkel**. Tanulmányozzátok a melléklet lapon a stratégiai tippeket, leírásokat és a kiegészítés leírását.
+
+További érdekességek, tippek és fantasztikus ötletek később olvashatók!
+
+---
+
+## Többszörös követő egy területen – Részletes stratégiai példa
+
+### A sárga város meghódítása
+
+**[ÁBRA MAGYARÁZAT: Az első ábra azt mutatja, hogy a sárga játékos már lerakott egy lapkát várossal. Annak a reményében, hogy megszerezheted a sárga játékostól a várost, leteszed a lapkát, és a városra állítod a követődet. Ezt megteheted, hiszen a város nincsen összekapcsolva egyetlen másik városrésszel sem.**
+
+**Amennyiben később sikerül a megfelelő lapkát felhúznod, és ide betenned, összekapcsolhatod a város-részeket. Két követőddel többségben leszel a városban, így átveszed azt a sárga játékostól.]**
+
+### A város lezárása és sikeres meghódítása
+
+**[ÁBRA MAGYARÁZAT: A második ábra azt mutatja, hogy szerencséd van, mert felhúzod az odaillő lapkát. Hozzáilleszted a városrészekhez, és így egy összefüggő, zárt várost alakítasz ki. Mivel többségben vannak a lovagjaid a városban (2 lovaggal szemben a sárga játékos 1 lovagjával), így egyedül te zsebeled be a 10 pontot a kész városért. Az értékelés és pontozás után mindketten visszaveszitek a készletetekbe a követőiteket.]**
+
+---
+
+## A játék további szabályai és speciális esetek
+
+### Követő elhelyezésének szabályai
+
+Az általad húzott lapka meghosszabbíthatná az utat, de mivel az úton már áll egy útonálló, arra nem állíthatsz követőt. Így amellett döntesz, hogy a lapkát úgy teszed le, hogy az utak nem kapcsolódnak össze.
+
+A következő körben ezt a lapkát húzod, és a nyitott úthoz illeszted. Az így összekapcsolt úton 2 követő áll. Mivel az út lezáródott, értékeljük. Te és a játékostársad 4-4 pontot kap.
+
+### Pont számítás az értékelőtáblán
+
+Most használjuk a pontozótáblát! Azért, hogy a megszerzett pontokat ne kelljen mindig megjegyeznetek, az egyik követőtökkel léptek előre az értékelőtáblán. Tehát most előreléphetsz 3 mezőt a követőddel az értékelőtáblán.
+
+**Követők visszavétele:**
+Minden értékelés után visszakapjátok a kiértékelt követőtöket, akit vissza kell tennetek a készletetekbe.
+
+Visszaveheted azt a követődet, aki éppen értékelésre került, és 3 pontot szerzett neked. A kék követő a helyén marad, mert még nem lett értékelve.
+
+---
+
+## Speciális играlehetőségek és tippek
+
+### Új, áttekinthetőbb játékszabály, gyorsabb játékkezdés
+
+A játékhoz jó szórakozást és kellemes időtöltést kíván a **Piatnik Budapest Kft**!
+
+### Rajongók, kiegészítések, érdekességek
+
+További információk, rajongók által készített kiegészítések és érdekességek:
+- www.cundco.de
+- www.carcassonne.de
+- www.carcassonne-forum.de
+
+---
+
+## Játékszerkesztők és munkatársak
+
+**Tervező:** Klaus-Jürgen Wrede
+
+**Illusztráció és játékalkatrészek:** Anne Pätzke
+
+**Illusztráció és csomagolás:** Chris Quilliams
+
+**Grafika-design:** Christof Tisch, Andreas Resch
+
+---
+
+## Kiadási és forgalmazási információk
+
+**© 2001, © 2016**
+
+**Hans im Glück Verlags-GmbH**
+- Hans im Glück Verlag
+- Birnauer Str. 15
+- 80809 München
+- info@hans-im-glueck.de
+- www.hans-im-glueck.de
+
+**Importálja és forgalmazza a Piatnik Budapest Kft.**
+- 1034 Budapest, Bécsi út 100.
+- e-mail: piatnik@piatnik.hu
+- www.piatnikbp.hu
+- www.facebook.com/PiatnikBudapest

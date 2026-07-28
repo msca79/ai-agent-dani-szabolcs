@@ -1,0 +1,246 @@
+# Hanabi
+
+## Játékelemek
+
+- 50 tűzijáték-kártya
+- 8 utalásjelölő
+- 3 viharjelölő
+- 5 szivárványkártya (csak a „Színlavina" kiegészítőhöz)
+- 1 játékszabály
+
+### Megjegyzés
+
+A tűzijáték-kártyákon ötféle színben a következő értékek szerepelnek: 1, 1, 1, 2, 2, 3, 3, 4, 4, 5.
+
+---
+
+## A játék célja
+
+A Hanabi egy kooperatív játék, ami azt jelenti, hogy a játékosok nem versengenek, hanem együtt, egy csapatként játszanak. A játékosoknak a tűzijáték kártyákat színek szerint csoportosítva, növekvő sorrendben kell kijátszaniuk. Azonban senki sem látja a saját lapjait, így kénytelenek a többi játékos tanácsaira hagyatkozni. Minél több lapot sikerül a játékosoknak helyesen kijátszani, annál több pontot kapnak a játék végén.
+
+---
+
+## A játék előkészületei
+
+Helyezzétek a 8 kék jelölőt a dobozba a 3 piros jelölőt pedig közvetlenül mellé.
+
+Keverjétek meg az 50 tűzijáték-kártyát és az így kialakított húzópaklit képpel lefelé tegyétek az asztalra. A játékosok számától függően minden játékosnak a következő számú kártyát osztjuk:
+
+- **2 vagy 3 játékos esetén:** 5 lap
+- **4 vagy 5 játékos esetén:** 4 lap
+
+### Fontos
+
+A többi kártyajátékkal ellentétben a játékosok nem nézhetik meg a saját lapjaikat! Úgy kell kezükbe venniük a kártyákat, hogy csak a hátlapjukat látják, a képes oldaluk a többi játékos felé néz. A játék során tilos a saját kártyáinkat megnézni! Ennek megszegése becstelenség volna, és beszennyezné tűzszerész mesteri hírnevünket!
+
+---
+
+## A játék menete
+
+A legszínesebb ruhájú játékos kezdi a játékot. Utána a játékosok az óramutató járása szerint kerülnek sorra. Amikor egy játékos sorra kerül, pontosan egy akciót kell végrehajtania a következő három lehetőség közül:
+
+1. **Információt ad**, vagy
+2. **Eldob egy lapot**, vagy
+3. **Kijátszik egy lapot**
+
+### Megjegyzés
+
+A játékosok nem adhatnak tanácsot és nem befolyásolhatják a soron lévő játékost.
+
+---
+
+## 1. Információt ad
+
+Ahhoz, hogy ezt az akciót válassza, a játékosnak ki kell vennie egy kék jelölőt a dobozból, és a piros jelölők mellé helyeznie. Ez után mondhat valamit egy játékostársának a kezében lévő lapokról.
+
+### Fontos
+
+A játékosnak egyértelműen rá kell mutatnia azokra a lapokra, amikről információt fog adni.
+
+### Kétféle információt lehet adni
+
+#### Információ egy adott színről
+
+Példa:
+- „Ez a lap piros"
+- „Két zöld lapod van, ez és ez"
+- „Nincs sárga kártyád"
+
+#### Információ egy adott értékről
+
+Példa:
+- „Van egy 5-ös lapod, itt"
+- „Két 1-es lapod van, ez és ez"
+- „Nincs 3-as lap a kezedben"
+
+### Fontos
+
+A játékosnak teljes információt kell adnia: Ha valakinek két zöld lapja van, akkor az információt adó nem teheti meg, hogy csak az egyikre mutat rá!
+
+### Megjegyzés
+
+Ezt az akciót nem lehet választani, ha a dobozban már nincs kék jelölő. Ebben az esetben más akciót kell választani.
+
+---
+
+## 2. Eldob egy lapot
+
+Ha ezt az akciót választja a játékos, akkor visszatehet egy kék jelölőt a dobozba. A játékos eldobja az egyik lapját, és a dobott lapok paklira helyezi, képpel felfelé. Ez után új lapot húz a kezébe úgy, hogy véletlenül se lássa a képes oldalát.
+
+### Megjegyzés
+
+Ezt az akciót nem választhatja a játékos, ha az összes kék jelölő a dobozban van. Ebben az esetben más akciót kell választani.
+
+---
+
+## 3. Kijátszik egy lapot
+
+Lapok kijátszásával hozunk létre tűzijátékokat az asztal közepén. A játékos kiválaszt egy lapot a kezéből, és képpel felfelé az asztal közepére teszi. Két dolog történhet:
+
+### A lap szabályosan lehelyezhető
+
+A játékos a kijátszott lappal képpel felfelé kiegészít egy már meglévő tűzijátékot, vagy elkezd egy újat.
+
+### A lap nem helyezhető le szabályosan
+
+A lapot egy dobópaklira tesszük, és egy piros jelölőt a dobozba helyezünk.
+
+### Mindkét esetben
+
+A játékos a lap kijátszása után új lapot húz a pakliból a korábban részletezett módon.
+
+---
+
+## Hogyan áll össze a tűzijáték
+
+- **Egy színből csak egy darab tűzijáték lehet.**
+- **A lapok egy tűzijátékban növekvő sorrendben kell, hogy következzenek** (1, aztán 2, majd 3, utána 4 és végül 5).
+- **Minden értékből csak egy szerepelhet egy tűzijátékban** (tehát összesen 5 lapból állhatnak).
+
+[ÁBRA MAGYARÁZAT: Az ábra az asztal közepén elhelyezkedő tűzijátékokat mutatja. Öt függőleges oszlop látható, mindegyik egy különböző színt reprezentál (fehér/ezüst, kék, sárga, piros, zöld). Minden oszlopban az 1-től 5-ig terjedő számok szerepelnek felülről lefelé, jelezve a növekvő sorrendet. Az ábra szemlélteti, hogy egy tűzijáték csak egy szín összes kártyájából (1, 2, 3, 4, 5) áll, és nem keveredhetnek a színek.]
+
+---
+
+## Jutalom
+
+Amikor egy játékos befejez egy tűzijátékot – vagyis amint leteszi az adott szín 5-ös lapját –, egy kék jelölőt visszatehet a dobozba. Ez ingyenes, vagyis nem kell eldobni hozzá egy lapot. Ezt a jutalmat nem kapjuk meg, ha minden kék jelölőnk a dobozban van.
+
+---
+
+## A játék vége
+
+A játéknak három esetben lehet vége:
+
+### Azonnal vége a játéknak
+
+Amint a 3. piros jelölőt betesszük a dobozba. A játékosok vesztettek, nulla pontot kapnak.
+
+### A játéknak azonnal vége
+
+Ha mind az öt tűzijátékot sikerül befejezni. A játékosok megünnepelhetik csodálatos győzelmüket, és megkapják a maximális 25 pontot.
+
+### Ha egy játékos felhúzza az utolsó lapot
+
+A húzópakliból a játéknak majdnem vége. Minden játékosnak, köztük annak is, aki az utolsó lapot felhúzta, van még egy utolsó köre. Ebben az utolsó körben már nem tudunk lapot felhúzni (mivel elfogyott a húzópakli).
+
+Amint ennek a körnek vége, a játék véget ért, és a játékosok megszámolják, hány pontot szereztek.
+
+---
+
+## Értékelés
+
+Minden tűzijáték annyi pontot ér, amennyi a legnagyobb értékű lap az adott színű tűzijátékban.
+
+### Példa
+
+4 pont + 2 pont + 3 pont + 1 pont + 4 pont = összesen 14 pont.
+
+### A tűzijátékok minősége
+
+A tűzijátékok minősége a Nemzetközi Pirotechnikai Szövetség skálája alapján a következő:
+
+| Pont | A tűzijáték minősége |
+|------|----------------------|
+| 0–5 | Rettenetes. A közönség fújol... |
+| 6–10 | Szegényes. Halk taps. |
+| 11–15 | Megfelelő, bár a nézők láttak már szebbet is. |
+| 16–20 | Kitűnő! A közönség elégedett. |
+| 21–24 | Nagyszerű! A közönség nagyon lelkes! |
+| 25 | Fantasztikus! A nézők sosem felejtik el ezt a műsort! |
+
+---
+
+## Tanácsok
+
+### Kézben tartás
+
+Miután egy játékos információt kapott, átrendezheti a kezében a lapokat, hogy könnyebben emlékezzen a rájuk vonatkozó információra (mi van jobboldalon, baloldalon, fejjel lefelé…)
+
+### Dobott lapok megtekintése
+
+A játékosok bármikor átnézetik a dobott lapokat.
+
+### Kockázatos döntések
+
+Ha egy játékos olyan lapot dob el, amiről semmilyen információja nincs, akkor kockáztatja, hogy olyan laptól szabadul meg, ami szükséges lett volna egy tűzijáték befejezéséhez. Néha kénytelenek vagyunk ezt a kockázatot bevállalni. Viszont a lapokból több példány is van (kivéve az 5-ösöket), vagyis egy eldobása nem feltétlen jelenti azt, hogy az adott színt nem tudjuk befejezni.
+
+### Egyértelműsítés
+
+Egyértelműen azonosítsátok azt a tűzijátékot, amelyiket már biztosan nem tudtok befejezni. Az adott színű lapokat eldobhatjátok, hogy visszaszerezzetek elhasznált kék jelölőket.
+
+---
+
+## Kommunikáció játék közben
+
+A Hanabi a játékosok közti kommunikáción és a kommunikáció hiányán alapszik. Ha szigorúan vesszük a szabályokat, akkor a játékosok nem beszélhetnek egymással, kivéve az éppen soron lévő játékos az akciója végrehajtása közben. 
+
+A társaság egyezzen meg játék előtt, hogy milyen szintű kommunikáció engedélyezett. Megengedhetünk-e olyan megjegyzéseket, hogy: 
+
+- „Még mindig nem tudok semmit a lapjaimról"
+- „Emlékszel, miket tudsz a lapjaidról?"
+
+A lényeg az, hogy mindenki jól szórakozzon!
+
+---
+
+## „Hibátlan előadás" változat haladó játékosoknak
+
+A játéknak nincs vége az utolsó lap felhúzása utáni körben. A játék folytatódik, amíg vagy el nem veszítjük a 3. piros jelölőt, vagy nem sikerül befejeznünk mind az öt tűzijátékot. A játék vége felé egyre kevesebb lapunk marad, és az értékelő táblázatot nem használjuk: az előadásnak tökéletesnek kell lennie, különben vesztettünk!
+
+---
+
+## „Időzített fellövés" változat
+
+Mielőtt egy játékos kijátssza az egyik kártyáját, megnevezheti, hogy az milyen színű lesz:
+
+- Ha eltalálta, és a lap beilleszthető a tűzijátékba, akkor egy kék jelölőt visszatehetünk a dobozba (ha 5-ös volt, akkor kettőt)
+- Ha nem találta el, akkor a lapot eldobjuk és egy piros jelölőt a dobozba teszünk
+
+Ismerve a kockázatot, a játékos mindig eldöntheti, hogy vállalkozik-e erre a precizitásra.
+
+---
+
+## „Színlavina" kiegészítő
+
+Keverjétek az 5 szivárványlapot a húzópakliba. Ezek a lapok egy újabb önálló színt képeznek. Erről a színről ugyanúgy lehet információt adni, mint a többiről.
+
+A játékosoknak már 6 különböző színű tűzijátékot kell kialakítaniuk, és a maximális elérhető pontszám 30.
+
+### A tűzijátékok minősége a Színlavina kiegészítővel
+
+| Pont | A tűzijáték minősége |
+|------|----------------------|
+| 25–29 | Legendás! A felnőttek és gyerekek csillógó szemmel bámulják az előadást! |
+| 30 | Fenséges! A műsor túlragyogja a csillagokat! |
+
+---
+
+## Köszönet
+
+Sylvain Thomasnak, Mikaël Bachnek, Michaël Bertrandnak, Matthieu Houssaisnak, Florian Greniernek, Françoise Sengissennek, Émilie Pautrot-nak, Frédéric Vuillet-nek, Matthieu Boninnak, Bruno Goube-nak, Arnaud Villechaise-nek.
+
+---
+
+**© 2014 - Cocktail Games, Les XII Singes**  
+www.cocktailgames.com  
+www.les12singes.com

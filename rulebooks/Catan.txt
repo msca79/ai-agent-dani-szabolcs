@@ -1,0 +1,270 @@
+# CATAN TELEPESEI - JÁTÉKLEÍRÁS
+
+## ELŐKÉSZÍTÉS
+
+### Kiinduló állás kezdőknek
+
+- Minden játékos magához vesz egy „Építési költségek" kártyát, valamint egy színben: 5 települést, 4 várost és 15 útszakaszt. Minden játékos elhelyez 2 települést a játékfelületen, majd a maradék játékalkatrészeket maga elé teszi. Három játékos esetén a piros alkatrészeket félre kell tenni.
+- A „Leghosszabb kereskedelmi út" és a „Legnagyobb lovagi hatalom" jutalomkártyákat tegyük a játékfelület mellé.
+- A nyersanyagkártyákat fajtánként különválogatva, 5 paklira osztva, felfordítva tegyük a kártyatartó rekeszeibe.
+- A „Bónuszkártyákat" megkeverés után lefordítva tegyük a kártyatartó üres rekeszébe.
+- Végül minden játékos megkapja a csillaggal jelölt települése után járó nyersanyagkártyákat. Minden olyan tájegység után, ami a településsel határos, jár egy megfelelő nyersanyagkártya.
+
+**Példa:** A kék játékos a fenti települése után 1-1 fa, érc és gyapjú kártyát kap.
+
+- A játékosok nyersanyagkártyáikat egymás elől takarva a kezükben tartják.
+
+[ÁBRA MAGYARÁZAT: A 2. oldalon egy ábra látható, amely bemutatja a nyersanyagkártyák típusait (fa, érc, gyapjú, gabona, építőkő - azaz agyag) egy-egy kártya képével illusztrálva, mindegyiken "1" szám jelzi az értéküket.]
+
+### Kiinduló állás haladóknak
+
+Néhány forduló után használjuk ki a játékfelület variálhatóságát! Ehhez minden információ megtalálható a „Felépítés, változtatható" címszónál.
+
+[ÁBRA MAGYARÁZAT: Három kereskedelmi arány szemléltető ábra látható:
+1. **Tengeri kereskedelem 4:1 kikötő nélkül**: 4 egyforma nyersanyagkártya = 1 tetszőleges nyersanyagkártya.
+2. **Tengeri kereskedelem 3:1, egyszerű kikötővel**: 3 egyforma nyersanyagkártya = 1 tetszőleges nyersanyagkártya.
+3. **Tengeri kereskedelem 2:1, különleges fa kikötővel**: 2 fa nyersanyagkártya = 1 tetszőleges nyersanyagkártya.]
+
+[ÁBRA MAGYARÁZAT: „Leghosszabb kereskedelmi út" jutalomkártya képe látható, amely egy különleges kártyát ábrázol, ez a jutalom 2 pontot ér, és annak a játékosnak jár, akinek a leghosszabb megszakítás nélküli útja van.]
+
+---
+
+## ÁTTEKINTÉS A JÁTÉK MENETÉRŐL
+
+A játékot a legidősebb játékos kezdi. Az éppen soron lévő játékosnak az alábbiakban leírt sorrendben a következő akció lehetőségei vannak:
+
+1. Ki kell dobnia a kör nyersanyagbevételét (az eredmény minden játékosra érvényes).
+2. Kereskedhet: nyersanyag cseréje – a játékostársakkal is.
+3. Építhet: Útszakaszt, települést, várost és/vagy bónuszkártyát vásárolhat.
+
+Továbbá: Egy általa választott tetszése szerinti időpontban (akár a dobása előtt is) kijátszhat egy a már a tulajdonában lévő bónuszkártyát. Ezt követően a bal oldali szomszédja kerül sorra, aki lépését az 1. akció végrehajtásával kezdi.
+
+---
+
+## A JÁTÉKMENETE RÉSZLETESEN
+
+### 1. Nyersanyagbevétel
+
+A soron lévő játékos egyszerre dob mind a két kockával: a két kocka által mutatott számokat összeadva meghatározásra kerül az, hogy mely tájmezők „termelnek" nyersanyagot.
+
+- Minden játékos, akinek a települése egy olyan tájmezőn áll, amit a dobás eredménye meghatároz, elvesz egy, a tájkartonnak megfelelő nyersanyagkártyát. Abban az esetben, ha egy játékosnak 2, vagy 3 települése is áll az érintett tájegységen, akkor minden települése után elvehet 1 nyersanyagkártyát.
+- Ha a játékosnak városa áll a meghatározott tájegységen, akkor városa után 2 nyersanyagkártyát vehet magához.
+
+**Példa:** A dobott szám: 8. Piros 2 ércet kap a két települése után. Fehér 1 ércet kap. Egy 10-es dobás esetén a fehér 1 gyapjút kapna. Ha a fehér települését már várossá fejlesztette volna, akkor egy 10-es dobás esetén 2 gyapjút kaphatna.
+
+[ÁBRA MAGYARÁZAT: Egy tájmező-részlet látható, amelyen a piros és fehér színű játékosok települései helyezkednek el egy 8-as számzsetonnal jelölt mezőn (jobb oldalt egy 10-es számzsetonos mező is látszik), szemléltetve, hogyan kapnak nyersanyagot a dobott szám alapján.]
+
+### 2. Kereskedés
+
+Ezek után a játékos kereskedhet annak érdekében, hogy megszerezze a számára szükséges, hiányzó nyersanyagot! A kereskedésnek kétféle módja van:
+
+#### a) Belkereskedelem (kereskedés a játékostársakkal)
+
+A soron lévő játékos nyersanyagot cserélhet játékostársaival. A játékos kinyilvánítja azt, hogy milyen nyersanyagra van szüksége és azt, hogy mit adna érte. De meghallgathatja játékostársai ajánlatait is, és ellenajánlatot tehet.
+
+**Fontos:** Csak az éppen soron lévő játékossal szabad cserélni. A többi játékos egymás között nem cserélgethet.
+
+#### b) Tengeri kereskedelem (kereskedés a bankkal)
+
+A soron lévő játékos a kereskedés szakaszban partner nélkül is cserélhet!
+
+- Bármikor cserélhet 4:1 arányban – ilyenkor bead a készletbe 4 egyforma nyersanyagot, amiért cserébe elvesz 1 általa választott nyersanyagkártyát.
+- Ha a játékos egy kikötőhelyen településsel rendelkezik, kedvezőbben cserélhet. Egyszerű (3:1) kikötőben: 3 egyforma nyersanyagkártyát bead a készletbe, amiért cserébe elvesz 1 általa választott nyersanyagkártyát. Különleges (2:1) kikötőhelyen: bead a készletbe 2 a különleges kikötőmezőn látható nyersanyagot, amiért cserébe elvesz 1 általa választott nyersanyagkártyát.
+
+[ÁBRA MAGYARÁZAT: Három sorozat kártyaábra mutatja a fenti cserearányokat vizuálisan: (1) 4 egyforma kártya = 1 tetszőleges kártya (kikötő nélkül); (2) 3 egyforma kártya = 1 tetszőleges kártya (egyszerű 3:1 kikötővel); (3) 2 egyforma kártya (a kikötőn látható típusból) = 1 tetszőleges kártya (különleges 2:1 kikötővel).]
+
+### 3. Építkezés
+
+Végül a játékos megkezdheti az építkezést azért, hogy nyersanyagbevételét és pontjait növelje.
+
+- Az építkezéshez bizonyos nyersanyag-kombinációkat (lásd az építési költségek kártyán) kell beadnia, majd ennek megfelelően a készletéből a játékfelületen elhelyeznie egy útszakaszt, települést, vagy várost. A beadott nyersanyagkártyák visszakerülnek a közös készletbe.
+
+#### a) Út: szükséges: építőkő + fa
+
+[ÁBRA MAGYARÁZAT: Két nyersanyagkártya képe – egy építőkő (agyag) és egy fa kártya – jelzi az út építéséhez szükséges nyersanyagokat.]
+
+- Minden útszakaszra egy út építhető.
+- Egy út egy olyan kereszteződéshez építhető, ahol saját településünk esetleg városunk áll, vagy amibe a saját utunk már betorkollik és nem áll ott idegen település vagy város.
+
+**Példa:** A narancs játékos a kékkel jelölt útszakaszokon építhet utat, a pirossal jelölt szakaszon pedig nem építhet.
+
+[ÁBRA MAGYARÁZAT: Egy térképrészlet mutatja a narancssárga játékos lehetséges útépítési helyeit kék vonalakkal jelölve (ahol saját települése/útja van), és egy piros vonallal jelölve azt a szakaszt, ahol NEM építhet (mert nem kapcsolódik saját hálózatához vagy idegen település blokkolja).]
+
+- Amint egy játékos egy olyan útvonallal rendelkezik (az elágazásokat nem számoljuk) ami legalább 5-vagy több megszakítás nélküli útszakaszból áll, tehát sem idegen település, sem idegen város nem szakítja meg, megkapja a „Leghosszabb kereskedelmi út" jutalomkártyát. Amikor egy másik játékosnak sikerül hosszabb utat építenie, azonnal hozzá kerül a jutalomkártya. A jutalomkártya 2 pont értékű.
+
+**Példa:** A piros játékosnak egy 6 útszakaszból álló útja van (az elágazás nem számít bele), és ezzel az övé a leghosszabb út. A narancs játékos 7 szakaszból álló útját a piros játékos települése felépítésével 2-és 5 útszakaszból álló utakra szakította.
+
+[ÁBRA MAGYARÁZAT: Egy térképrészlet mutatja a piros játékos 6 hosszú, megszakítás nélküli útvonalát, valamint azt, hogy a narancssárga játékos eredetileg 7 hosszú útvonalát a piros játékos egy közbeépített települése két részre (2 és 5 szakaszra) szakította, így a narancs elveszítette a leghosszabb út lehetőségét.]
+
+#### b) Település: szükséges: építőkő + fa + gyapjú + gabona
+
+[ÁBRA MAGYARÁZAT: Négy nyersanyagkártya képe – építőkő, fa, gyapjú és gabona – jelzi a település építéséhez szükséges nyersanyagokat.]
+
+- Települést olyan szabad kereszteződésbe lehet építeni, ahová legalább egy utunk vezet. Egy település építése során figyelembe kell venni a távolsági szabályt.
+- A távolsági szabály szerint egy települést csak olyan kereszteződésbe lehet felépíteni, ahol a három határos kereszteződésben nem áll sem település, sem város - függetlenül a tulajdonostól.
+
+**Példa:** A narancs játékos a kékkel jelölt kereszteződésbe építhet települést, a pirossal jelöltekbe pedig a távolsági szabály miatt nem építhet.
+
+[ÁBRA MAGYARÁZAT: Egy térképrészlet mutatja a narancssárga játékos szabad építési kereszteződését kékkel jelölve, illetve piros karikákkal azokat a kereszteződéseket, ahol a távolsági szabály miatt tilos építeni (mert túl közel vannak meglévő településekhez/városokhoz).]
+
+- Minden egyes település után tulajdonosa nyersanyagbevételhez jut a határos tájegységről: 1 nyersanyagkártya, ha a településhez tartozó tájmező száma kidobásra kerül.
+- Minden település 1 pontot ér.
+
+#### c) Város: szükséges: 3 x érc + 2 x gabona
+
+**Csak meglévő település fejleszthető várossá!**
+
+[ÁBRA MAGYARÁZAT: Öt nyersanyagkártya képe – 3 érc és 2 gabona – jelzi a város építéséhez (fejlesztéséhez) szükséges nyersanyagokat.]
+
+- Akkor, amikor egy játékos egyik települését várossá fejleszti, visszateszi készletébe a települést és a helyébe egy várost állít.
+- Egy város után tulajdonosa kétszer annyi nyersanyagbevételhez jut, mint egy települése után: 2 nyersanyagkártya, ha a városhoz tartozó tájmező száma kidobásra kerül.
+- Minden város 2 pontot ér.
+
+#### d) Bónuszkártya vásárlás: szükséges: érc + gyapjú + gabona
+
+[ÁBRA MAGYARÁZAT: Három nyersanyagkártya képe – érc, gyapjú és gabona – jelzi a bónuszkártya vásárlásához szükséges nyersanyagokat.]
+
+- Akkor, amikor egy játékos bónuszkártyát vásárol, elveszi a bónuszkártyákból kialakított pakli legfelső lapját.
+- A játékban három típusú bónuszkártya van, melyeknek eltérőek a hatásai: Lovag; Fejlesztés; Pontértékű kártya
+
+[ÁBRA MAGYARÁZAT: Három bónuszkártya-típus szimbólumai láthatók egymás mellett feliratozva: „Lovag", „Fejlesztés", „Pontértékű kártya" – mindegyik egy jellegzetes ikonnal/illusztrációval jelölve a kártya típusát.]
+
+- A megvásárolt bónuszkártyákat felhasználásukig titokban tartjuk.
+
+### 4. Különleges esetek
+
+#### a) Hetes dobás – a rabló aktívvá válik
+
+- Amikor egy játékos 7-est dob, akkor egyik játékos sem jut nyersanyagbevételhez.
+- Minden olyan játékos, akinél 7 darabnál több nyersanyagkártya van, az a kártyáinak a felét kiválasztja és visszateszi a közös készletbe. Szükség esetén a játékos javára, lefelé kerekítve kell a kártyákat visszaadni. Például 9 nyersanyagkártya birtoklása esetén 4 darabot.
+- Ezt követően át kell helyezni a rablót:
+  1. A játékos a rablót egy másik tájmezőre helyezi.
+  2. Ezután a rablót áthelyező játékos elrabol 1 lefordított nyersanyagkártyát az egyik olyan (ha van olyan) játékostársának a kezéből, akinek települése, vagy városa áll azon a területen, ahová a rablót állította. A megrabolt játékostárs a rablás alatt nyersanyagkártyáit lefordítva tartja a kezében.
+  3. A játékos körét a kereskedési szakasszal folytatja.
+
+**Fontos:** Ha annak a területnek a száma kerül kidobásra, amelyiken a rabló áll, akkor az érintett területen álló települések, városok után tulajdonosaik nem jutnak nyersanyagbevételhez.
+
+#### b) Bónuszkártya kijátszása
+
+A soron lévő játékos egy általa választott, tetszése szerinti időpontban (akár a dobása előtt is) kijátszhat egy a már a tulajdonában lévő bónuszkártyát. Nem játszhat ki olyan kártyát, amilyet ebben a körében vásárolt.
+
+**Lovag kártyák:**
+
+[ÁBRA MAGYARÁZAT: Egy lovagot ábrázoló bónuszkártya képe látható.]
+
+- Az a játékos, aki kijátszik egy lovag kártyát áthelyezheti a rablót egy általa választott tájmezőre, lásd fent 1. + 2. pontok.
+- A kijátszott lovag kártyák felfordítva a játékosok előtt maradnak.
+- Az a játékos, aki előtt elsőként lesz 3 felfordított lovag kártya, megkapja a „Legnagyobb lovagi hatalom" jutalomkártyát, ami 2 pontot ér.
+- Amint egy másik játékos eggyel több lovagkártyát fed fel, megkapja addigi tulajdonosától ezt a jutalomkártyát és a hozzá tartózó 2 pontot.
+
+[ÁBRA MAGYARÁZAT: A „Legnagyobb lovagi hatalom" jutalomkártya képe látható.]
+
+**Fejlesztés kártyák:**
+
+[ÁBRA MAGYARÁZAT: Egy fejlesztés típusú bónuszkártya képe látható.]
+
+Az, aki ilyen kártyát játszik ki, végrehajtja a kártyán lévő utasításokat. Ezt követően a kártya kikerül a játékból.
+
+**Pontértékű kártyák:**
+
+[ÁBRA MAGYARÁZAT: Egy pontértékű bónuszkártya képe látható, rajta "1" ponttal jelölve.]
+
+A pontértékű kártyáikat a játékosok a játék folyamán titokban tartják. Ezeket a lapokat csak akkor érdemes felfordítani, ha egy játékosnak sikerül a 10 pontot elérnie.
+
+---
+
+## A JÁTÉK VÉGE
+
+A játék abban a lépésben ér véget, amelyikben egy soron lévő játékos eléri, vagy meghaladja a 10 pontot. A nyeréshez a játékosnak soron kell lennie és legalább 10 ponttal kell rendelkeznie.
+
+---
+
+## KIADÓI INFORMÁCIÓK
+
+© 1995, 2010 Kosmos Verlag
+
+Tervezte: Klaus Teuber
+www.klausteuber.de
+
+Licence: Catan GmbH
+www.catan.com
+
+Grafika: Michaela Kienle/Fine Tuning
+Illusztráció: Michael Menzel
+Játékfigurák tervezése: Andreas Klober
+Kiadó: Reiner Müller, Sebastian Rapp
+
+Minden jog fenntartva!
+
+Importálja és forgalmazza a Piatnik Budapest Kft.
+1034 Budapest, Bécsi út 100. Tel: 388-4122
+
+Grafikai adaptáció: Co-Libri Reklámgrafika Bt.
+www.colibrireklam.hu
+
+A játékhoz jó szórakozást kíván a Piatnik Budapest Kft.
+
+A „Catan telepesei" játékhoz interaktív bemutatót talál a www.profeasy.de oldalon német/angol nyelven. Kísérje figyelemmel Marlene, Vicky és Siegfried játékát.
+
+Ihr Prof. Easy
+
+---
+
+## A JÁTÉK ÁTTEKINTÉSE ÉS A KIINDULÓ ÁLLÁS KEZDŐKNEK
+
+Előttünk terül el Catan szigete, amely tengerrel körülvett 19 tájmezőből áll. Az a feladatunk, hogy a szigetet betelepítsük.
+
+Catan szigetén egy sivatag és öt különböző tájegység található, melyek mindegyike más-más nyersanyagot biztosít a telepeseknek.
+
+A játékot 2 településsel és 2 útszakasszal kezdjük. A két településsel máris szereztünk 2 pontot. Az nyer, aki elsőként ér el 10 pontot!
+
+Azért, hogy pontokat kapjunk, új utakat, településeket kell építenünk, a településeket pedig várossá kell fejlesztenünk. Egy város 2 pontot ér. Az építéshez természetesen szükségünk lesz nyersanyagokra is.
+
+### Hogyan juthatunk nyersanyaghoz?
+
+Minden körben kiderül, hogy melyik tájegységnek van nyersanyaghozama. Azt, hogy melyik körben melyik tájegységnek van nyersanyag hozama, azt a két dobókockával kidobott szám és a tájegységeken fekvő számzsetonok (1-12-ig számokkal) határozzák meg. Például „3"-as dobás esetén minden olyan mező termel, amelyiken „3"-as számzseton fekszik. Az ábrán látható példa szerint az erdő fát, a legelő pedig gyapjút.
+
+Megkönnyíti a játék elkezdését a Catan szabályok 3 eleme. Kérjük, hogy olvassa el a bevezetőt, hogy megfelelő áttekintést nyerjen a játékról, majd olvassa végig a rövid játékszabályt és kezdjen bele a játékba! A játék során felmerülő kérdésekre a kis telepes-almanachban találhat válaszokat. A kis telepes-almanachban példákkal, ábrákkal és a hozzájuk tartozó leírásokkal segítjük az első Catan partik lejátszását.
+
+[ÁBRA MAGYARÁZAT: Egy piktogram-sorozat mutatja a Catan szabályok 3 elemét:
+- **A** jelzés: „A játék áttekintése és a kiinduló állás kezdőknek" – kezdő olvasmány.
+- **B** jelzés: „Catan telepesei – Játékleírás" – a rövid, tömör szabálykönyv.
+- **C** jelzés: „Kis telepes-almanach" – részletes kézikönyv kérdések esetére.]
+
+### Nyersanyag-táblázat és tájegységek
+
+[ÁBRA MAGYARÁZAT: A tájegységek és az általuk termelt nyersanyagok listája képekkel illusztrálva:
+- **Erdő** → Fa
+- **Szántóföld** → Gabona
+- **Dombvidék** → Építőkövek (agyag)
+- **Legelő** → Gyapjú
+- **Hegység** → Érc
+- **Sivatag** → nem ad nyersanyagot]
+
+Nyersanyagbevételünk csak akkor van, ha településünk, vagy városunk olyan tájegységgel határosan áll, amelyiknek a számát kidobták. Az ábrán látható példában egy piros (A) határos az erdővel, egy kék (B) pedig a legelővel. 3-as dobás esetén a piros fát kap, a kék pedig gyapjút.
+
+[ÁBRA MAGYARÁZAT: A teljes játékfelület látható betűjelzésekkel (A, B, C, D) a különböző színű játékosok településeinek pozícióit mutatva, illetve egy csillaggal (★) jelölve a kezdő településeket, valamint a rabló figura elhelyezését az egyik mezőn (Hegység területén).]
+
+A legtöbb település több tájegységgel (maximum 3-al) is határos és a dobott számnak megfelelően különböző nyersanyagot „termel". A példánkban a „C" település 3 mezővel határos: erdő, szántóföld és legelő; amíg a „D" település a parttal és két tájmezővel: dombvidékkel és legelővel határos, ezért a „D" település csak két tájegység után juthat nyersanyaghoz.
+
+Mivel nincsen lehetőségünk arra, hogy mindenfajta (különböző számzsetonokat tartalmazó) tájegységen települést építsünk, így némely nyersanyaghoz csak ritkán, vagy egyáltalán nem tudunk hozzájutni. Az új építésekhez viszont szükségünk lesz bizonyos nyersanyag-kombinációkra.
+
+Éppen ezért kereskedjünk játékostársainkkal, akik csereajánlatokat tesznek nekünk, vagy elfogadják csereajánlatunkat. Ha sikerül jó cserét lebonyolítanunk, megszerezhetjük az építéshez - fejlesztéshez szükséges (hiányzó) nyersanyagokat.
+
+Új települést csak szabad kereszteződésben építhetünk.
+
+**Az építkezés feltételei:**
+- Saját utunk vezet a kereszteződésbe.
+- A következő település legalább két kereszteződéssel távolabb áll.
+
+Jól fontoljuk meg, hogy hová építünk települést! A számzsetonokon lévő számok különböző méretükkel jelzik, hogy milyen gyakorisággal kerülhetnek kidobásra. A nagyobb méretben feltüntetett számok kidobása gyakrabban fordul elő. A legnagyobb méretben, pirossal jelzett számok 6 és 8 nagy valószínűséggel gyakrabban kerülnek kidobásra.
+
+**Összegzés:** Minél gyakrabban kerül egy szám kidobásra, annál gyakrabban juttat nyersanyaghoz.
+
+### Jelmagyarázat (a térképhez)
+
+[ÁBRA MAGYARÁZAT: A térkép elemeinek jelmagyarázata:
+- **Kereszteződés** – a hatszögek találkozási pontjai, ahová település/város épülhet.
+- **Rabló** – a fekete rabló-figura, amely egy tájmezőn állva blokkolja annak termelését.
+- **Település** – az alap épülettípus (1 pont).
+- **Utca** (Út) – a kereszteződéseket összekötő útszakasz.]

@@ -1,0 +1,284 @@
+# Dobble – Játékszabály
+
+## Mi a Dobble?
+
+A Dobble egy 55 lapos kártyapakli, melynek minden lapján 8 szimbólum látható. A lapokon összesen több mint 50 különböző szimbólum található, és bármelyik két lapon pontosan egy szimbólum azonos. Készen állsz egy Dobble partira?
+
+## Mielőtt játszani kezdenétek…
+
+Ha most találkoztok először a játékkal, ajánlatos először megismerkednetek a lapokkal. 
+
+1. Húzzatok 2 lapot a pakliból, és tegyétek ki az asztalra képes oldalukkal felfelé.
+2. Keressétek meg azt a szimbólumot, ami mindkét lapon megtalálható.
+3. Az azonos szimbólumok formája és a színe mindig ugyanaz, legfeljebb a méretük különbözhet.
+4. Aki először megtalálja azt a szimbólumot, amely mindkét lapon szerepel, hangosan kimondja a nevét, a két lapot elveszi, majd húz helyettük újabb kettőt.
+
+Addig folytassátok így a bevezető játékot, amíg mindenki tökéletesen meg nem értette az alapszabályt: **bármelyik két kártyán mindig pontosan egy azonos szimbólum található.**
+
+## A játék célja
+
+A Dobble 5-féle mini-játékot tartalmaz. Minden mini-játékban az a lényeg, hogy minél gyorsabban találjunk kártyapárokat azonos szimbólumokkal. Akinek ez sikerül, hangosan ki kell mondania a mindkét kártyán megtalálható szimbólum nevét. Ezután a kártyapárt a választott játéktól függően vagy egy paklira kell tenni vagy el kell dobni.
+
+## A mini-játékok
+
+A játékosok az 5 gyors és szórakoztató mini-játék mindegyikét szimultán, azaz egyszerre, egy időben játsszák. Lejátszhatjátok mind az ötöt sorban vagy tetszőleges sorrendben, illetve választhattok akár egyetlen kedvencet. A lényeg, hogy szórakozzatok jól!
+
+Egy új mini-játék kipróbálása előtt érdemes néhány bemelegítő kört lejátszani, hogy mindenki belejöjjön a párok megtalálásába, és megismerkedjen a szabályokkal.
+
+## Döntetlen eseten
+
+Minden kör nyertese az, aki először kimondja két lapon megtalálható közös szimbólum nevét. Ha többen egyszerre mondják ki a szimbólum nevét, közülük az nyer, aki először veszi el, teszi ki vagy dobja el a két lapot (függően az épp játszott játéktól).
+
+## Ties – Döntetlen a játék végén
+
+Ha két játékos egyenlő pontszámmal áll az első helyen a játék végén, párbajt kell vívniuk a végső győzelemért.
+
+1. Mindkét játékos húz egy lapot.
+2. Egyszerre képpel felfelé fordítja azt.
+3. Aki kettőjük közül először megtalálja és kimondja a mindkét lapon szereplő szimbólum nevét, lesz a párbaj – és így a játék – győztese.
+
+Ha több mint két játékos végez az első helyen, egy **„Forró krumpli" kör** lejátszásával kell eldönteniük a végső győztes személyét.
+
+## End of the game – A játék vége
+
+Játszhattok bajnokságot is, ehhez játsszátok le mind az 5 mini-játékot, és aki a legtöbbet megnyeri, az lesz a bajnok. Az erősebb versenyszellemű játékosok számára kifejlesztettünk egy pontozási rendszert, amelyet alább találhattok.
+
+---
+
+# 1. JÁTÉK: A torony
+
+## Előkészületek
+
+1. Keverés után osszunk minden játékosnak képpel lefordítva egy lapot.
+2. A maradék lapokat képpel felfelé tegyük az asztal közepére – ez lesz a húzópakli.
+
+## A játék célja
+
+A játékosok megpróbálják a lehető legtöbb lapot összegyűjteni.
+
+## Kezdőállás 3 játékos esetén
+
+[ÁBRA MAGYARÁZAT: Az ábra 3 játékos számára beállított játékállapotot mutat. A bal oldalon egy játékos saját lapja látható képpel lefordítva. A közepén egy nagyobb lap helyezkedik el, mely a húzópakli tetejét jelenti, több szimbólummal (paca, villanykörte, hópehely, felkiáltójel és további szimbólumok). Ezt körülveszik a három játékos pozíciója (jobb felül, jobb alul, bal felül), akiknek szintén van egy-egy lapjuk a saját pozíciójukban.]
+
+## A játék menete
+
+1. Mindenki egyszerre felfordítja lapját.
+2. Megpróbálja megkeresni azt a szimbólumot, ami egyszerre szerepel a húzópakli felső lapján és a játékos saját kártyáján.
+3. Az első játékos, aki kimondja a közös szimbólum nevét (például „levél"), elveszi a húzópakli felső lapját, és azt képpel felfelé saját lapjának tetejére teszi.
+4. Máris kezdődhet a következő kör – a játékosoknak mindig a saját paklijuk legfelső lapját kell összehasonlítaniuk a húzópakli felső lapjával.
+5. A fenti procedúrát ismételjük egészen addig, amíg a húzópakli el nem fogy.
+
+[ÁBRA MAGYARÁZAT: Az ábra a játék folyamatát szemlélteti. Három játékos látható, akik saját paklijaikat tartják maguk előtt. A közepén egy centrum-lap van (húzópakli teteje), melyre nyilak mutatnak a játékosok felé, jelezve az átadás irányát. A nyilak sülvér/piros színűek, és mutatják, hogyan adódnak tovább a lapok körben, amikor egy szimbólum azonosítva lett.]
+
+## A játék győztese
+
+A játékot az nyeri, aki a legtöbb lapot gyűjtötte a paklijába.
+
+---
+
+# 2. JÁTÉK: A kút
+
+## Előkészületek
+
+1. Tegyünk egy lapot képpel felfelé az asztal közepére.
+2. Keverjük meg a maradék paklit.
+3. Osszuk szét annak összes lapját egyenlően a játékosok között.
+4. Kioszott lapjaikat a játékosok képpel lefordítva tartják maguk előtt – ez lesz a játékosok saját paklija.
+
+## A játék célja
+
+A játékosok megpróbálnak a lehető leggyorsabban megszabadulni lapjaiktól.
+
+## Kezdőállás 3 játékos esetén
+
+[ÁBRA MAGYARÁZAT: Az ábra a kút-játék kezdeti állását mutatja. A közepén egy lap helyezkedik el képpel felfelé (húzópakli/központi lap), körülötte pedig három játékos pozíciója látható. Minden játékosnak saját paklija van képpel lefordítva a pozíciójuban. Az ábra jelzi, hogy mely lapokat kell összehasonlítani.]
+
+## A játék menete
+
+1. A játékosok egyszerre képpel felfelé fordítják a saját paklijukat.
+2. Elkezdik keresni azt a szimbólumot, ami egyszerre szerepel a húzópakli felső lapján és saját kártyájukon.
+3. Az első játékos, aki kimondja a közös szimbólum nevét (például „gyertya"), saját paklija legfelső lapját a középen lévő lap tetejére teszi.
+4. Innen kezdve ez lesz az a lap, amellyel a játékosoknak össze kell hasonlítaniuk saját felső lapjukat.
+5. A játék ugyanígy folytatódik egészen addig, amíg valaki meg nem szabadul összes lapjától.
+
+[ÁBRA MAGYARÁZAT: Az ábra a játék dinamikáját szemlélteti. Négy lap látható, mely körben helyezkedik el. A közepén egy központi lap van, és körülötte az egyes játékosok lapjai. Vörös nyilak mutatnak, hogyan adódnak a lapok a közepre, ahogy egy-egy szimbólum azonosítva lett. Az ábra mutatja a lap-halmok növekedését a centrum körül.]
+
+## A játék győztese
+
+A játékot az nyeri, akinek először fogy el saját paklija összes lapja.
+
+---
+
+# 3. JÁTÉK: Forró krumpli
+
+**(előre meghatározott számú kört kell játszani)**
+
+## Előkészületek
+
+1. Keverés után osszunk minden játékosnak képpel lefordítva egy-egy lapot.
+2. A többi lapot egyelőre tegyétek félre.
+3. Döntsétek el, hány kört fogtok játszani (legalább 5 kört játsszatok).
+
+## A játék célja
+
+A játékosok célja, hogy minél kevesebb kártyát gyűjtsenek össze a megállapodott számú kör lejátszása után. Ehhez minden körben meg kell próbálniuk megszabadulni kezükben tartott lapjuktól.
+
+## Kezdőállás 4 játékos esetén
+
+[ÁBRA MAGYARÁZAT: Az ábra 4 játékos kezét mutatja, akik egy kört alakítanak. Mindegyik játékos tenyerében egy-egy Dobble-kártya van képpel felfelé fordítva. A kézek nyílkaránban helyezkednek el, jelezve az egypárbaj-szerű dinamikát, ahol a játékosok egymás közt keresik az azonos szimbólumokat.]
+
+## A játék menete
+
+1. A játékosok egyszerre képpel felfelé fordítják a lapjukat, és jól láthatóan tenyerükben tartják őket.
+2. Aki megtalálja az azonos szimbólumot saját és egy játékostársa lapján, hangosan kimondja azt (például „szív"), és lapját képpel felfelé ennek a játékostársának tenyerébe teszi.
+3. Minden játékos a kezébe tartott lapok közül a legfelsővel játszik.
+4. Ha párt talál, akkor az összes lapját átadja játékostársának, és ebben a körben már nem vesz részt tovább.
+5. A játék addig folytatódik, amíg az összes lap egyetlen játékos kezébe kerül. Ez a játékos a kör vesztese, és félreteszi az összes lapot – ezeket a lapokat a játék végén kell összeszámolni.
+6. Ezután osszunk mindenkinek egy újabb lapot, és kezdődhet a következő kör.
+
+## A játék vesztese
+
+A játék vesztese az lesz, aki az utolsó kör végére a legtöbb lapot gyűjtötte össze.
+
+---
+
+# 4. JÁTÉK: Szerezd meg mind!
+
+## Előkészületek
+
+Minden fordulóban:
+1. Tegyetek egy kártyát képpel felfelé az asztal közepére.
+2. Tegyetek köré annyi kártyát képpel lefelé, ahány játékos játszik.
+3. A maradék kártyákat tegyétek félre, a következő fordulók során szükség lesz rájuk.
+
+## A játék célja
+
+A játékosok megpróbálnak minél gyorsabban a többieknél több kártyát gyűjteni.
+
+## Kezdőállás 4 játékos részére
+
+[ÁBRA MAGYARÁZAT: Az ábra egy fordulót mutat 4 játékos számára. A közepén egy lap helyezkedik el képpel felfelé (központi lap), körülötte pedig 4 lap képpel lefelé (a játékosok számára szánva). Ez jelenti az egy fordulós beállítást.]
+
+## A játék menete
+
+1. A játékosok egyszerre (egyidőben) felfordítják a középső kártya körüli lapok egyikét.
+2. A játékosoknak meg kell találniuk a középső kártya és valamelyik felfordított kártya közös ábráját.
+3. Amint valakinek sikerül, megnevezi az ábrát, megkapja az éppen felfordított kártyát és félreteszi.
+4. **FIGYELEM: a középső kártyát soha nem szabad elvenni.**
+
+## A játék győztese
+
+1. Amint az összes felfordított kártyát elvitte valaki, a középső kártyát a pakli aljára kell tenni, és új forduló kezdődik.
+2. A játékosok megtartják a megszerzett lapokat.
+3. Ha már nincs több kártya a húzópakliban, a játék véget ér.
+4. Az nyer, aki a legtöbb kártyát gyűjtötte össze.
+
+[ÁBRA MAGYARÁZAT: Az ábra több forduló során a felhalmozódott kártyákat mutatja. Öt kör látható (a központi lap és négy felfordított lap az első fordulóban, majd további felfordított lapok az azt követő fordulókban). Piros nyilak mutatják, hogyan adódnak az egyes lapok a játékosokhoz, ahogy azok szimbólumokat azonosítanak a központi lappal.]
+
+---
+
+# 5. JÁTÉK: A mérgezett alma
+
+## Előkészületek
+
+1. Keverés után osszunk minden játékosnak egy lapot, amelyet képpel lefordítva maguk elé tesznek.
+2. A maradék lapokat képpel felfelé fordítva tegyük az asztal közepére – ez lesz a húzópakli.
+
+## A játék célja
+
+A játékosok megpróbálják a lehető legkevesebb lapot összegyűjteni.
+
+## Kezdőállás 4 játékos esetén
+
+[ÁBRA MAGYARÁZAT: Az ábra a mérgezett alma-játék kezdeti állását mutatja. A közepén a húzópakli teteje látható képpel felfelé, körülötte pedig 4 játékos pozíciója, mindegyiknek egy-egy képpel lefordított lapja. Az ábra jelzi, hogy hogyan összehasonlítják a játékosok a lapokat.]
+
+## A játék menete
+
+1. Mindenki egyszerre felfordítja lapját.
+2. Megpróbál olyan szimbólumot keresni, ami egyszerre szerepel a húzópakli felső lapján és egy játékostársa kártyáján.
+3. Az első játékos, aki kimondja egy ilyen közös szimbólum nevét (például „fa"), elveszi a húzópakli felső lapját, és azt képpel felfelé ennek a játékostársa lapjainak tetejére teszi.
+4. Ez a **„mérgezett alma"** – az ajándék, melynek senki sem örül igazán.
+5. Máris kezdődhet a következő kör – a játékosoknak mindig a saját paklijuk legfelső lapját kell összehasonlítaniuk a húzópakli felső lapjával.
+6. A fenti procedúrát ismételjük egészen addig, amíg a húzópakli el nem fogy.
+
+[ÁBRA MAGYARÁZAT: Az ábra a játék dinamikáját szemlélteti. Négy lap látható körben, a közepén a húzópakli felső lapjával. Piros nyilak mutatnak, hogyan adódnak a „mérgezett alma" lapok az egyes játékosokhoz, ahogy szimbólumok azonosítva lesznek. Az ábra azt mutatja, hogy mely játékosnak mely lapjai növekednek.]
+
+## A játék győztese
+
+A játékot az nyeri, aki az utolsó kör végére a legkevesebb lapot gyűjtötte össze.
+
+---
+
+# A szimbólumok
+
+## Példák a szimbólumokra
+
+- **Felkiáltójel** – ! szimbólum
+- **Hópehely** – ❄ szimbólum
+- **Koponya** – ☠ szimbólum
+- **Bohóc** – 🤡-szerű figura
+- **Violinkulcs** – 🎵 szimbólum
+- **Macska** – 🐱 szimbólum
+- **Célkereszt** – ⊕ szimbólum
+- **Tyrannosaurus Rex** – 🦖 szimbólum
+- **Paca** – 🐭-szerű állat
+- **Sárkány** – 🐉 szimbólum
+- **Tenyér** – ✋ szimbólum
+- **Villanykörte** – 💡 szimbólum
+- **Hóember** – ⛄ szimbólum
+- **Jin és jang** – ☯ szimbólum
+- **Szív** – ❤ szimbólum
+- **Jégkocka** – 🧊 szimbólum
+- **Emberke** – 🧑 szimbólum
+- **Száj** – 👄 szimbólum
+- **Szellem** – 👻 szimbólum
+- **Huszár / Csikó** – 🐴 szimbólum (sakkfigura)
+- **Juharlevél** – 🍁 szimbólum
+- **Villám** – ⚡ szimbólum
+
+---
+
+# Dobble bajnokság pontozási rendszere
+
+Játszhatok egy parti **„Tornyot"**, majd ennek a játéknak a vesztese választ egyet a következő mini-játékok közül:
+
+## A torony
+- **+1 pont** minden összegyűjtött lapért
+- **+5 pont** a győztesnek
+
+## A kút
+- **+10 pont** annak, akinek először fogynak el a lapjai
+- **-20 pont** az utolsó játékosnak
+
+## A mérgezett alma
+- **+20 pont** annak, aki a legkevesebb lapot gyűjtötte össze
+- **+10 pont** a második helyezettnek
+
+## Forró krumpli
+- **-5 pont** minden elvesztett körért
+
+## Szerezd meg mind!
+- **+1 pont** minden megszerzett lapért
+
+---
+
+# Köszönetnyilvánítás
+
+**A játék licencének tulajdonosa:**
+Divertis Properties Group
+
+**A játék fejlesztői:**
+Jean-François Andreani - Toussaint Benedetti
+
+**A játékot a Play Factory csapata fejlesztette**
+
+**A Dobble letölthető a következő platformokra:**
+- iPhone©, iPod Touch© & iPad©
+- Android© és Facebook© változat hamarosan!
+
+**Gyártó:**
+www.asmodee.com
+
+---
+
+**Referenceszám:** 2013-1/DOBB01HU/ADB001

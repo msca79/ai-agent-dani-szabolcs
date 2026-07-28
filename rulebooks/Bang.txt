@@ -1,0 +1,709 @@
+# BANG! – Játékszabályok
+
+## A játék célja
+
+BANG! egy igazi western játék, amelyben egy csapat ravasz bandita és egy elszánt seriff küzd egymással. A seriffet inkognitóban dolgozó seriffhelyettesek segítik, de feltűnik a színen egy renegát is, aki saját céljai eléréséhez ki akarja használni a harcoló feleket!
+
+A BANG! kártyajátékban minden játékos egy-egy vadnyugati személy szerepét öltheti magára.
+
+### Szerepek céljai
+
+**Seriff:**
+Leszámolni a banditákkal és a renegáttal a törvény nevében.
+
+**Banditák:**
+Le akarják lőni a seriffet, de jutalom fejében nem restek egymásra sem kezet emelni!
+
+**Seriffhelyettesek:**
+A seriffet és a törvényt segítik és védik, akár életük árán is.
+
+**Renegát:**
+A seriff helyére pályázó szerencsevadász; célja a játékban utolsóként életben maradni.
+
+---
+
+## Tartozékok
+
+Összesen 110 db kártya négyféle típusban (más-más hátlappal):
+
+- **7 db szerepkártya:** 1 seriff, 2 seriffhelyettes, 3 bandita, 1 renegát
+- **16 db karakterkártya**
+- **80 db játékkártya**
+- **7 db játéksegédlet**
+- **7 db játékostábla**
+- **30 db töltény**
+- Játékszabály
+
+---
+
+## Készülj fel!
+
+*(Az első játék előtt óvatosan távolítsuk el a tölténykártyákat a kartonkeretből!)*
+
+### Játékosok felkészítése
+
+1. A játékosok maguk elé vesznek egy-egy **játékostáblát** (erre kerül a szerepkártya, a karakterkártya, a fegyverek és a töltények).
+
+2. Vegyen elő a játékosok számának megfelelő számú **szerepkártyát**, a következő elosztásban:
+   - **4 játékos esetén:** 1 seriff, 1 renegát, 2 bandita
+   - **5 játékos esetén:** 1 seriff, 1 renegát, 2 bandita, 1 seriffhelyettes
+   - **6 játékos esetén:** 1 seriff, 1 renegát, 3 bandita, 1 seriffhelyettes
+   - **7 játékos esetén:** 1 seriff, 1 renegát, 3 bandita, 2 seriffhelyettes
+
+3. Keverje meg a szerepkártyákat, és osszon képpel lefelé fordítva egyet-egyet mindegyik játékosnak! 
+   - A **seriff fedje fel kilétét**, és fordítsa a lapját képpel felfelé!
+   - A **többi játékos** nézze meg a saját szerepét, de tartsa **titokban**!
+
+4. Keverje meg a **karakterkártyákat**, és osszon egyet-egyet mindegyik játékosnak, képpel felfelé!
+
+5. A játékosok ekkor bemondják a karakterük nevét, és felolvassák a képességeiket.
+
+6. Mindegyik játékos a **karakterkártyán feltüntetett számú töltényt kap**, **kivéve a seriffet**, aki **eggyel többet** kap:
+   - Ha 3 járna neki → 4 töltény
+   - Ha 4 járna neki → 5 töltény
+
+7. Tegyük vissza a maradék szerepkártyákat, játékostáblákat, töltényeket és karakterkártyákat a dobozba!
+
+8. Keverje meg a **játékkártyákat**, és osszon minden egyes játékosnak annyit, **ahány tölténye van**!
+
+9. Helyezzük a maradék játékkártyákat lefelé fordítva az asztal közepére; a játék során ebből a pakliból fogunk húzni. Hagyjunk helyet a dobópakli számára!
+
+### Megjegyzés
+
+Az első néhány játék alkalmával célszerű lehet egyszerűsített változatot játszani úgy, hogy a játék kezdete előtt eltávolítjuk a pakliból az összes **könyvszimbólummal megjelölt lapot**.
+
+---
+
+## Karakterek
+
+Mindegyik westernhősnek van valamilyen különleges képessége, amely egyedivé teszi.
+
+### A karakterkártyák értelmezése
+
+A karakterkártya **jobb szélén lévő kis sárga töltények száma** jelzi, **hány életponttal kezdi valaki a játékot**, vagyis **hányszor kell eltalálni** ahhoz, hogy kiessen a játékból.
+
+Továbbá **a játékosnál lévő töltények száma mutatja meg, hány lap maradhat a kezében a köre végén** (a kézben tartott kártyákra vonatkozó megengedett lapszám).
+
+#### Példa: Jesse Jones
+
+Jesse Jonesnak **4 életpontja van**: akkor esik ki a játékból, miután négyszer eltalálták. Ugyanakkor szintén **négy lap maradhat a kezében** minden körben, miután befejezte az akcióit.
+
+Ha a játék során Jesse **elveszít egy életpontot**, **három életpontja marad**, és csak **három lapot tarthat meg**.
+
+De semmi vész! Az **életpontok visszanyerhetők**!
+
+---
+
+## A játék menete
+
+A **seriff kezdi** a játékot. A játékosok az **óramutató járásával megegyező** sorrendben következnek egymás után.
+
+A soron következő játékos köre a következő **három fázisból** áll, ebben a sorrendben:
+
+1. **Húz két lapot**
+2. **Kijátszik kézből tetszőleges számú lapot**
+3. **Eldob annyi lapot**, hogy legfeljebb a **megengedett lapszámnak megfelelő számú kártyája maradjon** (nem lehet több lap a kezében, mint ahány tölténye van)
+
+### 1. Húzás
+
+A játékos felhúzza a **húzópakli legfölső két lapját**. 
+
+Ha a kártyák elfogynak, készítsünk új paklit úgy, hogy az **eldobott lapokat újrakeverjük**!
+
+### 2. Lapok kijátszása
+
+A soron lévő játékos **kijátszhat lapokat** a kezéből (kivétel: *Nem talált!*, illetve *Sör* lapok, lásd lentebb!).
+
+A játékos **tetszőleges számú lapot játszhat ki** – de dönthet úgy is, hogy **egy lapot sem játszik ki**.
+
+#### A lapok kijátszárakor három feltételnek kell eleget tenni:
+
+- **Egy körben csak egyetlen BANG! lapot játszhat ki** (de más szimbólummal ellátottból – pl. *Gatling* – bármennyit)!
+- **Egy adott kártyából csak egyet tehet maga elé** (két lap azonos, ha nevük megegyezik)!
+- **Egyszerre csak egy fegyvert tehet le maga elé** (ha új fegyverre akarunk váltani, el kell dobnunk a régit)!
+
+**Példa:** aki egyszer már letett egy *Hordó* lapot, nem tehet le másikat, mivel akkor két ugyanolyan lap lenne előtte.
+
+#### A kártyalapok csoportosítása
+
+A kártyalapoknak alapvetően **két csoportja** van:
+
+**Barna szegélyű kártyalap** (= amit kijátszunk és rögtön utána eldobunk)
+- Ezeket a dobott lapok közé tesszük
+- Végrehajtjuk a kártyalapon szövegesen vagy szimbólumokkal jelzett hatását
+
+**Kék szegélyű kártyalap** (= fegyverek és egyéb kellékek)
+- A játékosok maguk elé teszik (kivétel: *Börtön*)
+- A játékosok előtt található lapok hatása mindaddig érvényes, ameddig játékban vannak
+- Érvényes addig, amíg a játékos el nem dobja önszántából
+- Vagy ellenfele által kijátszott kártya hatására (pl. egy *Cat Balou* lap kijátszásával) nem semlegesíti
+- Vagy egy különleges esemény hatására meg nem szűnik (pl. *Dinamit*)
+- A játékosok előtt **tetszőleges számú lap lehet**, azzal a megszorítással, hogy **nem lehet közöttük két azonos nevű lap**
+
+### 3. Lapok eldobása
+
+Amint a soron lévő játékos **nem akar vagy nem tud több lapot kijátszani**, a játékosnak **el kell dobnia annyi lapot**, hogy a kezében **legfeljebb annyi kártya maradjon, ahány tölténye van**.
+
+Ne feledjük, a **kézben tartott kártyákra vonatkozó megengedett lapszám mindig a töltények (életpontok) aktuális számával egyenlő**!
+
+Amikor a soron lévő játékos befejezte a körét, **a tőle balra ülő játékos következik**.
+
+---
+
+## A játékosok közti távolság
+
+Két játékos közti távolság annyi, ahány hellyel odébb ül az egyik játékos a másikhoz viszonyítva.
+
+**A két irány közül az számít, amerre ez a távolság kisebb**, függetlenül attól, hogy az óramutató járásával megegyező vagy ellenkező irányban számítjuk-e.
+
+*(Például az ábrán – lásd lentebb – a szomszédos játékosok távolsága 1.)*
+
+[ÁBRA MAGYARÁZAT: A diagram egy körben elhelyezkedő játékosokat mutat. Az A játékos központban helyezkedik el, és körülötte B, C, D, E, F játékosok ülnek az óramutató járásával megegyező sorrendben. Az ábra távolságokat jelöl: az A-tól B-ig való távolság 1 (szomszédos), A-tól C-ig való távolság 2, A-tól D-ig való távolság 3, A-tól E-ig való távolság pedig szintén 2, A-tól F-ig pedig 1. A számozás mindkét irányban így működik: az óramutató járásával megegyezően és ellenkezzően is.]
+
+A **játékosok közti távolság nagyon fontos a játék során**, mivel ezt az összes **célkereszttel megjelölt kártyánál figyelembe kell venni**.
+
+**Alapesetben csak azok a célpontok elérhetők** egy játékos számára, melyek **1 távolságra vannak**, vagyis a **közvetlen szomszédok** (lásd pl. a játékostáblán ábrázolt *45-ös coltot*!).
+
+**Nem számít bele a távolságba olyan játékos, aki kiesett.**
+
+Az egyes játékosok **közelebb kerülhetnek egymáshoz**, ha kiesik valaki.
+
+---
+
+## Kiesés
+
+Ha egy játékos az **utolsó életpontját is elveszíti**, kiesik, és befejezi a játékot, **hacsak rögtön ki nem tud játszani egy Sör lapot** (lásd lentebb).
+
+Ha valaki a játékból kiesik, meg kell mutatnia a **szerepkártyáját**, és el kell dobnia a kezében és az előtte játékban lévő **összes lapot**!
+
+---
+
+## Jutalmazások és büntetések
+
+- **Ha a seriff lelő egy seriffhelyettest és az kiesik**, a seriffnek **el kell dobnia a kezében és az előtte játékban lévő összes lapot**!
+
+- **Ha egy játékos lelő egy banditát, és az kiesik** (még akkor is, ha az, aki lelőtte, maga is bandita!), **húzhat a pakliból három jutalomkártyát**!
+
+---
+
+## A játék vége
+
+A játék véget ér, ha az alábbi feltételek bármelyike teljesül:
+
+### a) A seriff meghal
+
+- Ha a **renegát az egyetlen túlélő**, ő **nyert**
+- **Ellenkező esetben a banditák nyertek**
+
+**1. példa:** az összes bandita meghalt, de a renegát még életben van. Ebben az esetben a játék **folytatódik**. A renegátnak egyedül kell szembeszállnia a seriffel és helyetteseivel.
+
+**2. példa:** a seriff meghalt, de az összes bandita is elesett, és csak a seriffhelyettesek és a renegát maradt életben. A játék a **banditák győzelmével ér véget**! Életük árán ugyan, de elérték céljukat!
+
+### b) Az összes bandita és a renegát is meghal
+
+A **seriff és a seriffhelyettesek nyertek**.
+
+---
+
+## Folytonos játék
+
+Ha egymás után többször játszunk, a befejezett játék végén „**életben maradt** játékosok, ha kívánják, dönthetnek a karakterük megtartása mellett (a kezükben és az előttük játékban lévő lapjaikat azonban ekkor is el kell dobniuk!); a **kiesett játékosok új karaktert húznak**.
+
+Ha mindegyik játékosnak lehetőséget akarunk biztosítani arra, hogy **seriff lehessen**, a játék kezdete előtt dönthetünk úgy, hogy játékról játékra **más-más kapja a seriff szerepét**, miközben a többi szerepet továbbra is véletlenszerűen osztjuk ki.
+
+---
+
+## A kártyák
+
+### Fegyverek
+
+A játékot mindenki egy **45-ös colttal** kezdi.
+
+A coltot **nem kártyalap képviseli**, hanem a **játékostábla jelöli**. 
+
+A **45-ös colttal csak azokat a célpontokat érhetjük el**, melyek **távolsága 1**, tehát csak a tőlünk **közvetlenül jobbra, illetve balra lévő játékosokat**.
+
+Ahhoz, hogy olyan célpontokat is elérhessünk, melyek távolsága nagyobb, mint 1, **erősebb fegyvert kell kijátszanunk**: helyezzük a 45-ös coltra a játékostáblán!
+
+[ÁBRA MAGYARÁZAT: A Remington fegyverkártya képe mutatja a lőtávolságot. A kártyán egy célkereszt ikon található, benne a szám 3, mely a fegyver hatótávolságát jelzi 3 mezőre.]
+
+A **fegyverkártyák jellemzői:**
+- **Kék szegélyükről** ismerhetők fel
+- **Fekete-fehér illusztrációról**
+- Szerepel rajtuk egy **célkeresztbe írt szám**, mely a **fegyver hatótávolságát** jelzi
+
+A **45-ös coltot a játékban lévő fegyver addig helyettesíti**, amíg valami nem semlegesíti.
+
+A **játékostáblára helyezett fegyverek ellophatók** (pl. a *Pánik!* kártya kijátszásával), illetve **semlegesíthetőek** (pl. a *Cat Balou*-val).
+
+**Egyedül a jó öreg 45-ös coltot nem lehet elveszteni soha!**
+
+Egy játékosnak **egyszerre csak egy fegyvere lehet játékban**: ha a meglévőt újra akarjuk cserélni, **el kell dobnunk a régit**!
+
+#### Fontos megjegyzés a fegyverekről
+
+**A fegyverek nem változtatják meg a játékosok közti távolságot!**
+
+A fegyverek **lőtávolsága kizárólag a BANG! kártyákkal leadott lövésekre vonatkozik**, vagyis arra, hogy az adott fegyverrel **legfeljebb milyen távol lévő játékosok vehetők célba**.
+
+#### Gyorstüzelő
+
+Akinél e kártya játékban van, **tetszőleges számú BANG! kártyát kijátszhat**.
+
+Ezek a **BANG! kártyák egymás után azonos vagy különböző célpontok ellen is felhasználhatók**, de csak akkor, ha azok **távolsága nem nagyobb mint 1**.
+
+---
+
+### BANG! és Nem talált!
+
+A **BANG! kártyákkal leadott lövés** a legfőbb módja annak, hogy csökkentsük a többi játékos életpontjainak számát.
+
+Ha lövést akarunk leadni egy **BANG! kártyával**, először állapítsuk meg:
+
+**a) a megcélozni kívánt játékos távolságát** (figyelem: ezt a játékban lévő kártyák mindkét fél részéről befolyásolhatják!)
+
+**b) hogy így a játékos belül van-e a fegyverünk lőtávolságán.**
+
+#### Példa 1 – Távolság és fegyverek
+
+Tegyük fel, hogy Ani (A) egy **BANG! kártyát kijátszva lövést akar leadni Kareszra (C)**!
+
+**Karesz távolsága Anitól:** alapsetben **2**
+
+Aninak a következő fegyverek egyikére van szüksége a lövéshez:
+- *Schofield*
+- *Remington*
+- *Karabély*
+- *Winchester*
+
+De **nem használhat Gyorstüzelőt vagy 45-ös coltot**!
+
+**Ha Aninak van Távcsöve a játékban**, akkor Karesz távolságát **1-nek látja**, ezért így rá **bármilyen fegyverrel tüzelhet**.
+
+**Csakhogy, ha közben Karesznak van Musztángja játékban**, a két kártya hatása **összegződik**, és Ani továbbra is **2-nek látja Karesz távolságát**.
+
+#### Példa 2 – Musztáng hatása
+
+Ha Daninak (D) **van Musztángja játékban**, Ani (A) az ő távolságát **4-nek látja**: hogy rálőhessen Danira, **4-es lőtávolságú fegyverre van szüksége**.
+
+#### Nem talált! ellenhúzása
+
+Ha lövést adnak le ránk egy **BANG! lappal**, a **találatot rögtön kivédhetjük egy Nem talált! lappal** – annak ellenére, hogy ilyenkor természetesen **nem mi vagyunk soron**!
+
+Ha **nem tudjuk a találatot elhárítani**, **elvesztünk egy életpontot** (le kell vennünk egy töltényt a játékostáblánkról!).
+
+Akinek ezután **nem marad több tölténye**, vagyis **elveszti az utolsó életpontját is**, **kiesik a játékból** – hacsak rögtön **ki nem játszik egy Sör lapot**.
+
+**Egy játékos csak a rá leadott lövéseket háríthatja el.**
+
+A **kijátszott BANG! kártyát akkor is el kell dobni**, ha a hatását **kivédték**.
+
+---
+
+### Sör
+
+Ezzel a kártyával **visszanyerhetünk egy életpontot** – húzzunk egy töltényt a halomból!
+
+**Több életpontra nem tehetünk szert**, annál, mint amennyivel a **játék kezdetén rendelkeztünk**!
+
+A **Sörrel más játékosokon nem segíthetünk**!
+
+A **Sör lapot kétféleképpen játszhatjuk ki:**
+
+- **Szokványos módon**, ha éppen mi vagyunk soron
+- **Soron kívül**, de csak akkor, ha **halálos lövést kapunk**, tehát, ha a találat hatására **utolsó életpontunkat is elvesztjük** (Egyszerű találatnál nem alkalmazható!)
+
+#### Megjegyzés a Sörről
+
+A **Sörnek nincs hatása**, ha már csak **2 szereplő maradt játékban**, tehát ilyenkor hiába játszunk ki egy **Sör lapot, nem kapunk vissza életpontot**.
+
+**Példa:** Aninak (A) **két életpontja maradt**, és egy **Dinamittól három életpontnyi sérülést** szenved. Ha kijátszik **2 Sör kártyát**, **életben marad 1 életponttal** (2–3+2), de **kiesik**, ha csak egy Sört játszik ki, mert a visszanyert 1 életponttal még mindig csak nullán áll!
+
+---
+
+## A kártyákon található szimbólumok
+
+A kártyákon egy vagy több szimbólum szerepel, melyek a kártyák hatását, illetve hatásait jelzik.
+
+### Szimbólumok magyarázata
+
+**Visszaad egy életpontot.** Csak a lapot kijátszó játékosra érvényes, ha a lap, vagy egyéb szabály nem utasít másként.
+
+**BANG! – elvesz egy életpontot**
+
+**Nem talált! – Semlegesíti a hatását.**
+
+**Laphúzás.** Ha a kártyán a bármely játékosra utaló jel található (lásd a lehetséges jeleket lentebb!), akkor húzhatunk véletlenszerűen egy lapot a megfelelő játékos kezéből, vagy választhatunk egyet az előtte kiterített lapokból. Ha nincs játékosra utaló jel, húzzunk a pakli tetejéről. A kártya minden esetben a kézben tartott lapjaink közé kerül.
+
+**Lapdobás kikényszerítése.** A kártyán feltüntetett jelek által meghatározott játékosok közül (lásd a lehetséges jeleket lentebb!) arra kényszeríthetünk egy játékost, hogy eldobjon a kezéből egy általunk véletlenszerűen kiválasztott lapot, vagy eldobhatunk egyet az előtte játékban lévő lapok közül.
+
+### Távolságjelölések a kártyákon
+
+**E jellel ellátott kártya hatása:**
+- A **távolságtól függetlenül bármelyik általunk kiválasztott játékosra alkalmazható.**
+
+**E jellel ellátott kártya hatása:**
+- **Minden más játékosra vonatkozik**, tehát a lapot kijátszó játékoson kívül **mindenkire, függetlenül a távolságtól.**
+
+**E jellel ellátott kártya hatása:**
+- **Bármelyik játékosra alkalmazható**, feltéve, hogy **elérhető távolságon belül van.**
+
+**E jellel ellátott kártya hatása:**
+- **Bármelyik játékosra alkalmazható** a **célkeresztben szereplő távolságon belül.**
+- **Figyelem!** A *Musztáng* és a *Távcső* **megváltoztathatja ezt a távolságot**, de a **játékban lévő fegyver nem** – annak lőtávolsága **kizárólag a BANG! kártyákkal leadott lövésekre vonatkozik**.
+
+---
+
+### Kocsma
+
+Azoknál a kártyáknál, melyek **két sorban tartalmaznak jeleket**, a **külön sorokban feltüntetett hatások egyszerre érvényesülnek**.
+
+Így a **felső sor első jele értelmében** „visszanyer egy életpontot", a **második jel szerinti** „az összes többi játékos", míg a **következő sorban** „visszanyer egy életpontot" (alapértelmezés szerint a lapot kijátszó játékos).
+
+**Összhatásként** tehát **mindegyik játékos visszanyer egy életpontot**.
+
+A **Kocsma nem játszható ki körön kívül**, még akkor sem, ha **halálos lövést kapunk**.
+
+A **Kocsma nem egyezik a Sörrel**!
+
+---
+
+### Postakocsi és Wells Fargo
+
+A jelek értelmében: **„Húzz két lapot!"** (Wells Fargo esetén **hármat**) **a pakli tetejéről**!
+
+---
+
+### Szatócsbolt
+
+Ha kijátsszuk, **fordítsunk fel a pakli tetejéről annyi lapot, ahány szereplő még játékban van**.
+
+A lapot kijátszó játékossal kezdve és az **óra járásával megegyező irányban haladva** **mindegyik játékos válasszon magának egy lapot**, és vegye kézbe.
+
+---
+
+### Pánik!
+
+A jelek értelmében: **„Húzz egy lapot!"** mégpedig **„egy olyan játékostól, melynek távolsága 1"**!
+
+Ne feledjük, a **fegyverek lőtávolsága nem változtatja meg két játékos távolságát**, kizárólag a **Musztáng és a Távcső kártyák képesek erre**!
+
+---
+
+### Cat Balou
+
+A lapot kijátszó játékos által kijelölt **„bármely játékos" arra kényszerül, hogy „eldobjon egy lapot", függetlenül a távolságtól** (lásd: „Lapdobás kikényszerítése"!).
+
+---
+
+### Gatling
+
+Gatling hatására **egy-egy „BANG!" éri „az összes többi játékost", függetlenül a távolságtól**.
+
+Hatása ellenére a lap **nem számít BANG! kártyának**, vagyis az éppen soron lévő játékos **tetszőleges számú Gatlinget kijátszhat**, míg **csupán egyetlen BANG! lapot**.
+
+---
+
+### Indiánok!
+
+A lapot kijátszó játékos **kivételével minden játékos elveszít egy életpontot**, **kivéve**, ha **eldob egy BANG! lapot**.
+
+A **Mellé!**, illetve **Hordó** kártyák **hatástalanok** ebben az esetben.
+
+---
+
+### Párbaj
+
+Ezzel a kártyával (mélyen a szemébe nézve!) **kihívhatunk bármely játékost, függetlenül a távolságtól**.
+
+A **kihívott játékos ekkor dobhat egy BANG! kártyát** (annak ellenére, hogy nem ő van soron!).
+
+Ha így tesz, a **kihívó is dobhat egyet**, aztán újra a **kihívott játékos**, és így tovább.
+
+**Aki elsőként nem tud kijátszani BANG! lapot**, **elveszít egy életpontot**, és **ezzel a párbaj véget ér**.
+
+A párbaj során **sem a Nem talált!, sem a Hordó lapok nem vehetők igénybe**.
+
+A **Párbaj kártya nem BANG! lap**, vagyis a párbaj során **eldobott BANG! lapokra nem érvényes az „egyszerre csak egy BANG!" korlátozás**.
+
+---
+
+### Musztáng
+
+Ha van valakinél egy **Musztáng lap játékban**, akkor őt a **többi játékos eggyel távolabb látja** – a játékos azonban **továbbra is a megszokott távolságban látja a többieket**.
+
+Vessünk egy pillantást a **távolságot magyarázó ábrára**!
+
+**Példa:** Ha Aninak (A) játékban van egy **Musztáng lapja**, 
+- **Béla (B) és Feri (F)** az Anitól való távolságát **2-nek** látja
+- **Karesz (C) és Emma (E)** **3-nak**
+- **Dani (D)** pedig **4-nek**
+- Míg **Ani mindenkit az eredeti távolságban lát**
+
+---
+
+### Távcső
+
+Ha játékban van valakinél egy **Távcső**, ő az **összes többi játékost eggyel közelebb látja**, míg az **ő távolsága a többiek számára változatlan marad**.
+
+**Az 1-nél kisebb távolságokat 1-nek kell tekinteni.**
+
+**Példa:** Ha Aninak (A) **van Távcsöve játékban**,
+- **Béla (B) és Feri (F)** távolságát **1-nek** látja
+- **Karesz (C) és Emma (E)** szintén **1-nek**
+- **Dani (D)** távolságát **2-nek**
+- Míg **Anit a többi játékos továbbra is szokványos távolságban észleli**
+
+---
+
+### Húzz!
+
+Egyes kártyákon (**Hordó, Börtön, Dinamit**) **kártyaszínt és/vagy számot meghatározó jel található**, utána egy **egyenlőségjel**, aztán a **megfelelő hatás**.
+
+Ha egy játékos egy ilyen kártyát használ, **„húznia" kell**, vagyis **felfordítva el kell dobnia a pakli legfelső lapját**, és **ellenőrizni a lap bal alsó sarkában lévő szimbólumot**!
+
+Ha a **felfordított lap színe kőr, káró, pikk, treff**, és a **száma megfelel az egyenlőségjel előtt álló feltételnek**, akkor a **„húzás" sikeres volt**, és az **egyenlőségjel után álló hatás érvénybe lép**.
+
+**(Magának a húzott lapnak a hatását ilyenkor mindig figyelmen kívül kell hagyni!)**
+
+Ellenkező esetben **semmi sem történik: nem volt szerencsénk**.
+
+Ha a **feltételként a kártyaszínek egy „tól–ig" tartománya szerepel**, akkor a **húzott lapnak** – a szint is figyelembe véve – **bele kell esnie a tartományba**.
+
+A **kártyákon a következő értékek szerepelhetnek:** 2-3-4-5-6-7-8-9-10-J-Q-K-A.
+
+---
+
+### Hordó
+
+Ha egy **BANG! kártyával lövést adnak le ránk**, a **Hordó lappal lehetőségünk nyílik húzni egy lapot:**
+
+- Ha **kőrt húzunk**, a golyó **célt téveszt** (mintha **Nem talált! lapot ütöttünk volna fel**)
+- **Ellenkező esetben a lövés** – ha nem védi a játékos **Nem talált! lappal** – **talál**
+
+**Példa:** Kareszt (C) Ani (A) **BANG! lappal megcélozza**, de Karesznek **van Hordója játékban**; ezzel lehetősége nyílik egy **sikeres húzással a BANG hatását elhárítani**.
+
+Karesz tehát **felüti a pakli tetején lévő lapot**, és **kiteszi az eldobott kártyák tetejére: kőr 4-es**.
+
+Sikeresen **felhasználta a Hordó adta lehetőséget**, és **kivédte a találatot**.
+
+Ha a **felütött lap más színű**, a **Hordó hatástalan marad**, de **Karesznak még mindig van lehetősége a BANG! célzást egy Nem talált!-tal kivédeni**.
+
+---
+
+### Börtön
+
+Tegyük ezt a lapot **bármelyik játékos elé, a távolságtól függetlenül**: ezzel **börtönbe zártuk**!
+
+Ha valaki **börtönben van**, **húznia kell** (lásd: **„Húzz!"**), amikor **rá kerül a sor**, még mielőtt **elkezdene játszani:**
+
+- Ha a játékos **kőrt húz**, **kiszabadul a börtönből**: eldobja a **Börtön lapot**, és **játszhat az adott körben**, mintha mi sem történt volna
+- **Ellenkező esetben eldobja a Börtön lapot**, de az **adott körben kimarad**
+
+A **börtönben lévő játékosokra lehetséges BANG! kártyával lőni**, és ha szükséges, **soron kívül szintén alkalmazhatnak védőkártyákat** (pl. *Nem talált!* vagy *Sör*).
+
+**A seriffet nem lehet börtönbe zárni**!
+
+---
+
+### Dinamit
+
+Helyezzük a lapot **magunk elé: a Dinamit ott marad egy egész körön át**.
+
+Amikor **legközelebb sorra kerülünk** (ekkor a **Dinamit már játékban van előttünk**), még a **tulajdonképpeni játék elkezdése előtt húznunk kell** (lásd: **„Húzz!"**):
+
+- Ha **pikket húzunk, 2 és 9 közti számmal**, a **Dinamit felrobban**! **Dobjuk el a lapot**, és **veszítünk 3 életpontot**
+- **Ellenkező esetben adjuk át a Dinamitot a tőlünk balra ülő játékosnak** (ha majd rá kerül a sor, ő húz, mielőtt elkezdene játszani, és így tovább), **mi magunk pedig folytassuk a játékot az első szakasszal**!
+
+A **játékosok addig adják továbbá Dinamitot egymásnak**, amíg az **fel nem robban valahol a fent kifejtett hatással**, vagy amíg **valaki semlegesíti egy Pánik! vagy Cat Balou kártya kijátszásával**.
+
+Ha **valakinél a Dinamit és a Börtön egyszerre van játékban**, **először a Dinamit lapra kell húznia**!
+
+Ha valaki egy **Dinamit kártya hatására sérül meg** (vagy éppen **esik ki a játékból!**), akkor **sérülése nem számít másik játékos által okozott kárnak**.
+
+---
+
+## A karakterek
+
+### Bart Cassidy (4 életpont)
+
+Valahányszor **elveszt egy életpontot**, rögtön **húz egy lapot a pakliból**.
+
+---
+
+### Black Jack (4 életpont)
+
+Amikor **sorra kerül és lapot húz**, **fel kell mutatnia a második húzott lapot** – ha **kőr vagy káró**, **húz egy további lapot** (amit már nem kell felmutatnia).
+
+---
+
+### Calamity Janet (4 életpont)
+
+A **BANG! kártyákat használhatja Nem talált!-ként és fordítva**.
+
+Ha azonban **Nem talált!-ot használ BANG!-ként**, több **BANG!-et az adott körben már nem játszhat ki** (hacsak **nincs Gyorstüzelője játékban**!).
+
+---
+
+### El Gringo (3 életpont)
+
+Valahányszor **elveszít egy életpontot egy másik játékos által kijátszott kártya hatására**, minden **elvesztett életpont után húz egy tetszőleges lapot az őt megtámadó játékos kezéből**.
+
+Ha **nincs a játékos kezében kártya**, a **húzás elmarad**!
+
+Ne feledjük, a **Dinamit által okozott sérülések nem köthetők egyetlen játékoshoz sem**!
+
+---
+
+### Jesse Jones (4 életpont)
+
+Amikor **sorra kerül és lapot húz**, **dönthet**, hogy az **első kártyát a pakliból húzza-e, vagy bármelyik játékos kezéből**, tetszőlegesen választva.
+
+A **második lapot a pakliból kell húznia**!
+
+---
+
+### Jourdonnais (4 életpont)
+
+Olyan, mintha **folyamatosan játékban lenne nála egy Hordó kártya**; **húzhat**, ha **lőnek rá egy BANG! kártyával**, és ha **kőrt húz**, a **lövés célt téveszt**.
+
+Ha **van egy másik igazi Hordója is játékban**, **mindkettőt használhatja**, vagyis **kétszer is van lehetősége húzni**, mielőtt egy **Nem talált! kártyához folyamodna**.
+
+---
+
+### Kit Carlson (4 életpont)
+
+Amikor **sorra kerül**, **megnézi a felső három lapot a pakliban**, **kiválaszt kettőt**, a harmadikat pedig **lefordítva visszateszi**.
+
+---
+
+### Lucky Duke (4 életpont)
+
+Valahányszor egy kártya **hatására húzásra kényszerül** (lásd: **„Húzz!"**), **megfordítja a felső két lapot a pakliban**, és **tetszés szerint választhat közülük**.
+
+Ezután **mindkét lapot el kell dobnia**!
+
+---
+
+### Paul Regret (3 életpont)
+
+Olyan, mintha **folyamatosan játékban lenne nála egy Musztáng**; az **összes többi játékos 1-gyel messzebbről látja**.
+
+Ha egy **másik valódi Musztángja is van játékban**, **mindkettőt igénybe veheti**, vagyis a **többiek 2-vel messzebbről látják**.
+
+---
+
+### Pedro Ramirez (4 életpont)
+
+Amikor **sorra kerül**, **választhat**, hogy az **első kártyát az eldobott lapok vagy a pakli tetejéről húzza-e**.
+
+A **második lapot a pakli tetejéről kell húznia**!
+
+---
+
+### Rose Doolan (4 életpont)
+
+Olyan, mintha **folyamatosan játékban lenne nála egy Távcső**; az **összes többi játékost 1-gyel közelebbről látja**.
+
+Ha egy **másik valódi Távcsöve is van játékban**, **mindkettőt igénybe veheti**, vagyis a **többieket 2-vel közelebbről látja**.
+
+---
+
+### Sid Ketchum (4 életpont)
+
+**Bármikor visszaszerezhet egy életpontot** úgy, hogy a kezében lévő lapok közül **eldob kettőt**.
+
+Ha módja van rá, **egymás után többször is élhet ezzel a lehetőséggel**.
+
+De ne feledjük: **senkinek sem lehet több életpontja**, annál, mint **ahánnyal a játékot kezdi**!
+
+---
+
+### Slab the Killer (4 életpont)
+
+A **többi játékosnak 2 Nem talált!-ot kell kijátszani** ahhoz, hogy **elhárítsák az általa leadott BANG! lövéseket**.
+
+A **Hordó hatása**, ha **sikerül érvényesíteni**, csak egy **Nem talált!-nak számít**.
+
+---
+
+### Suzy Lafayette (4 életpont)
+
+Amint **elfogytak a lapjai**, **húz egyet a pakli tetejéről**.
+
+---
+
+### Vulture Sam (4 életpont)
+
+Valahányszor **kiesik valaki a játékból**, **Sam megkapja a kieső játékos kezében és játékostáblájában lévő lapokat**, amelyeket a **kezébe vehet**.
+
+---
+
+### Willy the Kid (4 életpont)
+
+Ha **sorra kerül**, **akárhány BANG! kártyát kijátszhat**.
+
+---
+
+## Röviden
+
+### Szabálysegédlet
+
+- **Bármiyek Nem talált! jelet tartalmazó kártya felhasználható** a **BANG! jellel ellátott kártyák hatásának semlegesítésére.**
+
+- **Egy körben mindenki csak egy BANG! kártyát használhat fel**, de **bármennyit olyan lapból**, amelyen **BANG! jel látható**.
+
+- **Nem lehet előttünk két azonos nevű kártya kiterítve.**
+
+- **Egyszerre csak egy fegyverünk lehet játékban**, de ha más nincs, **mindig ott van kéznél a 45-ös colt**.
+
+- **A fegyverek nem változtatják meg a játékosok közti távolságot**, a **lőtávolság kizárólag a BANG! kártyával leadott lövésekre vonatkozik**.
+
+- **A Sörnek nincs hatása**, ha már csak **két szereplő van játékban**.
+
+- Ha az **utolsó életpontunkat is elvesztettük**, csak a **Sör kártya kijátszására van mód**, a **Kocsma ilyenkor nem alkalmazható**.
+
+### Hasznos tipp
+
+Életpontjainkat számon tarthatjuk úgy is, ha a **maradék karakterkártyák közül veszünk egyet**, **lefordítjuk**, és mint a képen látható, **változás esetén azon fedjük fel**, illetve **le karakterkártyánkkal a töltényeket (életpontokat)**.
+
+Így elég a **BANG! játékhoz a kártyákat használni**, ha kis helyen kell elférni.
+
+**Példa:** Jesse Jones 3 életponttal.
+
+---
+
+## A játékfejlesztésben közreműködöttek
+
+**Ötlet:** Emiliano Sciarra
+
+**Fejlesztők:** Roberto Corbelli, Domenico Di Giorgio
+
+**Grafika:** Alessandro Pierangelini
+
+**Művészeti vezető:** Stefano De Fazi
+
+**Szabályok:** Roberto Corbelli, Andrés J. Voicu
+
+**A magyar fordításban közreműködött:** Erődi Gergely, Kohári Zsolt, Varga Ferenc és Molnár László (Lacxox)
+
+---
+
+## Kiadási információk
+
+**Importálja és forgalmazza:** Gém Klub Kft.
+1092 Budapest, Ráday u. 30.
+www.gemklub.hu
+
+**Eredeti kiadás:**
+BANG!® Fourth edition
+Copyright© MMVIII
+daVinci Editrice S.r.l.
+Via T. Tittoni, 3
+I-06131–Perugia–Italy
+
+Minden jog fenntartva!
+
+Kérdésekkel, megjegyzésekkel, javaslatokkal vagy más nyelvű fordítások kapcsán szívesen állunk rendelkezésre a www.davincigames.com címen.
+
+Magyar nyelven a www.gemklub.hu címen.

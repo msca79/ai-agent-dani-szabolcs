@@ -1,0 +1,364 @@
+# Ticket to Ride Europe
+
+## Bevezetés
+
+Edinburgh sziklás hegyoldalaitól Konstantinápoly napos partjaiig, a szürke Pamplona szövetségtől a szeles berlini állomásig a Ticket to Ride Europe elvisz a századforduló Európájának nagy városain át egy új vasúti kalandra.
+
+Vállalod az utazás rizikóját át Svájc sötét alagútjain? Megkockáztatod az utazást egy fekete-tengeri komp fedélzetén, vagy létrehozod régi birodalmak nagy fővárosainak pompás vasútállomásait? Itt a nagy lehetőség, hogy te legyél Európa legnagyobb vasúti mágnása!
+
+Kapd fel a csomagod, üdvözöld a kalauzt és szállj fel!
+
+**Játékosok száma:** 2-5 játékos számára
+**Ajánlott életkor:** 8 éves kortól
+**Játékidő:** 30-60 perc
+
+**A játék tervezője:** Alan R. Moon
+**Illusztráció:** Julien Delval
+**Kiadó:** Days of Wonder
+
+[ÁBRA MAGYARÁZAT: A borítón egy gőzmozdony (jelzése "TZR", oldalán "4.183" felirattal) látható egy állomás előtt, havas hegyek háttérrel. A mozdony előtt korabeli, századfordulós ruhákba öltözött emberek állnak: egy cilinderes, kabátos úriember, egy piros ruhás nő, egy sárga ruhás fiatal nő, és egy munkásruhás, kalapos férfi. Baloldalon egy "V2" feliratú útjelző tábla és egy vasúti váltó jele látható. A háttérben egy tornyos, órás állomásépület áll.]
+
+---
+
+## Alkotórészek
+
+A játék a következő elemeket tartalmazza:
+
+- **1 Európa térkép** (játéktábla)
+- **240 színes vagon** (45 minden színből: kék, piros, zöld, sárga és fekete, meg néhány extra csere vagon mindegyikből)
+- **15 színes vasútállomás** (3 minden színből, a színek megegyeznek a vagonok színével)
+- **158 illusztrált kártya**, a következők:
+
+### Vasútikocsi-kártyák (vagonkártyák)
+
+[ÁBRA MAGYARÁZAT: Nyolc különböző színű vagonkártya látható egymás mellett: rózsaszín/lila, kék halványabb árnyalat, kék, narancssárga, sárga/narancs, szürke/fekete, piros, zöld — mindegyiken egy stilizált vasúti vagon vagy lokomotív rajza. A kilencedik, különálló kártya egy színes, minden színt tartalmazó mozdony-kártya, amely jokerként funkcionál.]
+
+**110 vasútikocsi-kártya (vagonkártya):** 12 mindegyikből (lila, kék, narancs, fehér, zöld, sárga, fekete, piros), plusz 14 mozdonykártya.
+
+### Menetjegykártyák
+
+[ÁBRA MAGYARÁZAT: Két minta menetjegykártya látható. Az egyik kék hátterű, hosszú útvonalat jelölő kártya (pl. két távoli város neve és egy nagy pontszám, például "20"), a másik világos hátterű normál (rövid) útvonalkártya (két közelebbi város neve és egy kisebb pontszám, például "8").]
+
+**46 menetjegykártya:**
+- 6 hosszú útvonal, kék hátterű kártya
+- 40 normál útvonal (rövid útvonal, világos hátterű) kártya
+
+### Összegzőkártya és Bónuszkártya
+
+[ÁBRA MAGYARÁZAT: Az összegzőkártya egy táblázatot mutat, amely az útvonalak hosszát és az értük járó pontokat foglalja össze (ez megegyezik a 7. oldalon található Útvonal Ponttáblával). Az Európa Expressz Bónusz kártya egy kék hátterű kártya, rajta Európa térképének vázlata és egy "10"-es pontszám, jelezve a leghosszabb folyamatos útért járó bónuszpontot.]
+
+- **1 összegzőkártya**
+- **1 Európa Expressz Bónusz** — a leghosszabb folyamatos útért (10 pont)
+
+### Egyéb elemek
+
+- **5 fa pontjelző** (1 mind az 5 játékos színéből)
+- **1 szabályfüzet**
+- **1 Days of Wonder Online access number** (a szabálykönyv legvégén)
+
+> **Fontos megjegyzés:** Akiknek az első játéka ebből a szériából a Ticket to Ride™ volt, azok a következő újdonságokra figyeljenek: **kompok, alagutak és vasútállomások.**
+
+---
+
+## A játék előkészületei
+
+[ÁBRA MAGYARÁZAT: Az előkészület-ábrán egy felülnézeti kép látható az asztalról. A számozott jelölések a következőket mutatják:
+- ❶ – A pontjelző kezdőpontja a térkép szélén körbefutó pontozósávon.
+- ❷ – A játékosok kezében lévő 4 kezdő vasútikocsi-kártya, illetve a húzópakli és a felfordított 5 lap elrendezése a tábla mellett.
+- ❸ – Az 5 felfordított vasútikocsi-kártya, amelyek egymás mellett, képpel felfelé helyezkednek el a húzópakli mellett.
+- ❹ – Az Európa Expressz Bónusz kártya és az összegzőkártya elhelyezése a tábla mellett, képpel felfelé.
+- ❺ – A 6 hosszú útvonal (kék hátterű) kártyából mindenki egyet kap.
+- ❻ – A normál (rövid útvonalú, világos hátterű) menetjegyekből mindenki hármat kap, a maradék pedig húzópakliként kerül a tábla mellé.]
+
+1. Tegyétek az asztal közepére a játéktáblát.
+2. Minden játékos kapja meg a választott színéből a 45 vagont, 3 vasútállomást, és a pontjelzőt.
+3. Mindenki helyezze a pontjelzőjét a térkép szélén körbe futó pontozósáv kezdőpontjára **❶**. A játék folyamán, amikor a játékos pontot szerez, akkor előre kell tolnia a jelzőjét ennek megfelelően.
+4. Keverjétek meg a vasútikocsi-kártyákat és osszatok minden játékosnak 4 lapot **❷**.
+5. A megmaradtakat tegyétek a tábla mellé egy pakliba, majd a felső 5 lapot fordítsátok fel, és képpel felfele tegyétek egymás mellé őket **❸**.
+6. Az Európa Expressz Bónusz és az összegzőkártyát képpel felfelé tegyétek a tábla mellé **❹**.
+7. A menetjegyek közül vegyétek ki a 6 hosszú útvonalat (kék hátterűek), keverjétek meg, és minden játékosnak osszatok egyet **❺**. A megmaradt hosszú útvonal kártyákat anélkül, hogy megnéznétek őket, tegyétek vissza a játék dobozába.
+8. Keverjétek meg a normál menetjegyeket – összes rövid útvonal, világos háttérrel –, és osszatok hármat minden játékosnak **❻**, a megmaradtakat tegyétek képpel lefelé húzópakliként a tábla mellé.
+
+Most már kezdődhet a játék!
+
+---
+
+## A játék kezdete
+
+Mielőtt az első kör elkezdődne, a játékosoknak ki kell választaniuk, hogy melyik menetjegyeket tartják meg az eredetileg nekik osztottak közül. **Minimum kettőt kell megtartaniuk**, bár tarthatnak meg többet is. A ki nem választott jegyeket tegyétek vissza a dobozba anélkül, hogy bárki látná, hogy mi van rajtuk. A jegyek, amiket félretesznek, egyaránt lehetnek hosszú útvonalú és normál menetjegyek is. Azokat a jegyeket, amelyek mellett döntöttek a játékosok, a játék végéig meg kell tartaniuk.
+
+---
+
+## A játék célja
+
+A játék célja a legtöbb pont megszerzése. Pontot a következőkkel lehet szerezni:
+
+- Két szomszédos város közötti útvonal megszerzésével;
+- Saját menetjegyeken szereplő 2 város közötti folyamatos útvonalsor sikeres kiépítésével;
+- A leghosszabb folyamatos útvonalsor létrehozásával elnyerve az Európai Expressz Bónusz kártyát;
+- És minden vasútállomásért, amit a játék végéig megmarad a játékos előtt.
+
+**Fontos:** A játékos összpontjából le kell vonni minden olyan pontot, ami a nem teljesített menetjegykártyákon található.
+
+---
+
+## A játékkör
+
+Az a játékos kezd, aki a legtöbb európai országban volt az élete során, és utána az óramutató járásának megfelelően következnek a többiek.
+
+A saját körében minden játékosnak a következő 4 akció közül kell egyet (és csak egyet) végrehajtania:
+
+1. **Vasútikocsi-kártya húzás** – A játékos húzhat 2 vasútikocsi-kártyát (vagy csak egyet, ha az a felfordított 5 lap közül egy mozdony. Lásd a mozdonyok speciális szabályait);
+2. **Egy útvonal megszerzése** – A játékos megszerez egy útvonalat, ha kijátszik a kezéből annyi és olyan színű vasútikocsi-kártyát, ami megfelel az útvonalat alkotó mezők színének és számának. Minden mezőre leteszi 1 vagonját, és megkapja az adott útvonal hossza alapján az Útvonal Ponttáblából kinézett pontot;
+3. **Menetjegy húzás** – A játékos három menetjegyet húz a jegy pakli tetejéről, és ezekből legalább egyet meg kell tartania;
+4. **Vasútállomás építése** – A játékos állomást építhet bármelyik olyan városba, ahol még nincs. Az első vasútállomása megépítéséhez a játékosnak egy tetszőleges vasútikocsikártyát kell kijátszania, majd leteszi arra a városra az egyik vasútállomását. A második állomás építésekor a játékosnak 2 ugyanolyan színű vagonkártyát kell kijátszania, a harmadiknál pedig 3 ugyanolyan színűt.
+
+---
+
+## Vasútikocsi-kártyák húzása
+
+A 8 féle vasútikocsi-kártya mindegyikéből 12 darab van, és van még 14 mozdony kártya is. A vagonkártyák színe megegyezik a táblán látható városok közti különböző útvonalak színével – **lila, kék, narancs, fehér, zöld, sárga, fekete és piros**.
+
+Ha a játékos a lehetőségei közül a vasútikocsi-kártya húzást választja, akkor kettőt húzhat egy körben. Ezeket a kártyákat, vagy a tábla melletti képpel felfelé fordított öt lapból húzhatja, vagy a pakli tetejéről (vak húzás).
+
+Ha a kitett 5 lapból választ a játékos, akkor azonnal kell a helyére húzni egyet a húzópakliból. Ha az 5 lap közt van mozdonylap és azt választja a játékos, akkor csak ezt az egy lapot húzhatja a körben (lásd: mozdonyok).
+
+Ha bármikor az 5 képpel felfelé fordított lap közt 3 mozdony lesz, akkor mind az öt lapot azonnal dobni kell, és 5 új lapot kell felfordítani a helyükre.
+
+A játékosok bármennyi lapot tarthatnak a kezükben. Ha a húzópakli elfogyott, akkor a dobott lapokat újra kell keverni, és az lesz az új húzópakli. A kártyákat alaposan meg kell keverni, mert azok többnyire szettekben voltak letéve.
+
+Abban a nagyon ritka esetben, amikor a húzópakli elfogyott, és nincs dobópakli sem (mert minden vagonkártya a játékosok kezében van), akkor nem lehet a vasútikocsi-kártyák húzását választani, ilyen esetben a másik 3 lehetőségből kell választani (egyet).
+
+### Mozdonyok
+
+A mozdonyok jokerek – minden szín rajta van a mozdonylapon, ami a vasútikocsi-lapok közt található –, ezzel is jelezve, hogy bármelyik lapot helyettesíthetik.
+
+[ÁBRA MAGYARÁZAT: A mozdonykártyán egy színes gőzmozdony rajza látható, alatta egy sávban minden lehetséges vagonszín (lila, kék, narancs, fehér, zöld, sárga, fekete, piros) kis négyzete sorban felsorolva, jelezve, hogy ez a kártya bármelyik színt helyettesítheti.]
+
+A mozdonylap betehető bármilyen kártyacsoportba az útvonalépítésnél. Létfontosságú lap a komp útvonalaknál (lásd: kompok).
+
+Ha a felfordított lapok közül egy mozdonyt vesz fel a játékos, akkor csak ezt az 1 lapot húzhatja fel ebben a körben. Ha az első felvett lap helyére mozdonyt fordít fel a játékos, vagy van letéve képpel felfelé mozdony, de első lapként (s egyetlennek) nem azt húzta fel a játékos, akkor nem húzhat másodiknak mozdonylapot.
+
+Azonban ha egy játékos elég szerencsés, akkor húzhat mozdonylapot a pakli tetejéről a vakon húzással, ami ekkor sima lapnak számít, és húzhat még egyet, mert összesen két lapot húzhat a körben. (Igen nagy szerencsével így akár 2 mozdonylaphoz is juthat.)
+
+---
+
+## Útvonalszerzés
+
+Útvonalnak hívjuk két szomszédos város közötti egyszínű, folyamatos mezők sorát. (Ideértve a szürkét is!) Aki meg akar szerezni egy útvonalat, annak annyi és olyan színű vasútikocsi-lapot kell kijátszania, amennyi mezőből áll az útvonal, és amilyen színű az.
+
+A legtöbb útvonal megszerzéséhez meghatározott színű vagonkártya-szettet kell kijátszani. A mozdonyok bármelyik adott színt helyettesíthetik.
+
+A szürke útvonalakat bármilyen egyszínű lap szett felhasználásával meg lehet szerezni.
+
+[ÁBRA MAGYARÁZAT – 1. példa: Egy kék, 3 hosszú útvonal ábrázolása látható a térképen. Az ábra mutatja a lehetséges kártyakombinációkat, amelyekkel megszerezhető: 3 kék kártya; VAGY 2 kék kártya + 1 mozdony; VAGY 1 kék kártya + 2 mozdony; VAGY 3 mozdonykártya. Az ábrán nyilak vezetik a kártyacsoportokat a térkép megfelelő útvonalára, ahol zöld/kék vagonokat helyeznek le a mezőkre.]
+
+[ÁBRA MAGYARÁZAT – 2. példa: Egy szürke, 2 hosszú útvonal ábrázolása látható. A lehetséges kombinációk: 2 piros kártya; VAGY 1 sárga lap + 1 mozdony; VAGY 2 mozdony. A nyilak a kék vagonok elhelyezését mutatják a térkép szürke mezőire.]
+
+Amikor egy útvonalat megszerez egy játékos, akkor az útvonal minden egyes mezőjére le kell tennie egy vagonját. Az összes kártya, amit felhasznált az útvonal megszerzéséhez a játékos, a dobópakliba kerül. Ezután a pontozósávon a 7. oldali Útvonal ponttáblának megfelelő mezőt lép előre a pontjelzőjével.
+
+Bármelyik szabad útvonal megszerezhető, nem kell, hogy csatlakozzon az előzőleg megszerzett útvonalhoz az új.
+
+Az útvonalat mindig az adott körön belül be kell fejezni. Nem lehet, hogy például egy körben csak 2 vagonkártyát játszik ki a játékos, és így csak 2 vagont tesz egy három hosszú útvonalra, mondván, hogy majd a következő körben befejezi a harmadik vagon lerakásával.
+
+A játékos a körében nem szerezhet meg egynél több útvonalat.
+
+### Dupla útvonalak
+
+[ÁBRA MAGYARÁZAT: Két kép látható. Az első ("Dupla útvonalak" – Coruña és környéke térségében) két párhuzamosan futó, ugyanazt a két várost összekötő útvonalat mutat (pl. egy zöld és egy piros/sárga színű útvonal), amelyek ugyanannyi mezőből állnak és ugyanazt a két várost kötik össze. A második kép ("párhuzamos útvonalak" – Essen térségében) olyan útvonalakat mutat, amelyek párhuzamosan indulnak egy közös városból, de két különböző városban érnek véget – ezek NEM számítanak dupla útvonalnak.]
+
+Néhány város dupla útvonallal van összekötve. Ezek azok az útvonalak, amelyek párhuzamosak, ugyanannyi mezőből állnak, és ugyanazon két várost kötik össze. Egy játékos soha nem veheti meg ugyanazon városok közti mindkét dupla útvonalat a játék során.
+
+Vannak olyan útvonalak, amelyek párhuzamosan indulnak, de aztán két különböző városban érnek véget. Ezek nem dupla útvonalak.
+
+> **Fontos megjegyzés:** 2 és 3 játékos esetén, a dupla útvonalaknak csak egyik fele használható. A játékos megszerezheti a városokat összekötő két útvonal bármelyikét, de a másik útvonal a játék végéig zárva marad a többi játékos számára.
+
+---
+
+## Kompok
+
+A Kompok olyan speciális szürke útvonalak, amik 2 szomszédos várost a vízen keresztül kötnek össze. Könnyen felismerhető az útvonalra rajzolt mozdony(ok)ról.
+
+[ÁBRA MAGYARÁZAT: A térkép egy részlete látható, amelyen a Smyrna és Palermo közötti komp útvonal szerepel (áthaladva Athína és Ancora városain keresztül). Az útvonal mezőin mozdony-szimbólumok láthatók (jelezve, hogy hány mozdonykártyát kell kötelezően felhasználni). A képen egy nyíl mutatja, hogy a lejátszott kártyák (4 db egyszínű rózsaszín/lila vagonkártya + 2 db mozdonykártya) alapján hogyan kerülnek a vagonok a térkép mezőire. Kis ikon (Drin folyó/kikötő szimbólum) is jelöli a komp jellegét.]
+
+Ahhoz, hogy egy Komp útvonalat megszerezzen a játékos, annyi mozdonyt kell kijátszania, amennyi az útvonalra van rajzolva, a fennmaradó mezőknek pedig a szokásos módon bármilyen egyszínű kártyasort.
+
+*Példa: A Smyrna és Palermo közötti Komp útvonal megszerzéséhez 4 db egyszínű vagonkártya kell, és 2 db mozdony.*
+
+---
+
+## Alagutak
+
+Az alagút speciális útvonal, ami könnyen felismerhető az alagút jelzésről, és az útvonal elemei körül kis sáv van.
+
+[ÁBRA MAGYARÁZAT: A térkép részlete Madrid és Pamplona között látható, ahol 2 párhuzamos alagút köti össze a két várost – az egyik fekete, a másik fehér színű. Az alagút-jelzés egy kis hegy/tunnel ikon formájában jelenik meg a mezőn, és az útvonal elemei körül vékony keretsáv húzódik, megkülönböztetve a normál útvonalaktól.]
+
+Attól speciális az alagút, hogy a játékos sohasem tudhatja biztosan milyen hosszú az az útvonal, amit megpróbál megszerezni!
+
+Amikor a játékos meg akar szerezni egy alagút útvonalat, akkor először kijátszik annyi lapot a kezéből, amilyen hosszú az útvonal, majd a vagonkártya pakli legfelső három lapját felfordítja. Minden olyan most felfordított kártyáért, ami megegyezik színben azzal, amit kijátszott már az alagútért, ki kell még egy ilyen kártyát (vagy egy mozdonyt) játszania. Ha ez sikerül, csak akkor szerzi meg az alagutat a játékos.
+
+Ha a játékosnak nincs elég plusz vasútikocsi-kártyája, vagy nem akarja azt mind kijátszani, akkor a már letett lapjait visszakapja, és vége a körének.
+
+A kör végén az alagút miatt felfordított három plusz kártya a dobottak közé kerül.
+
+Ne felejtsétek, hogy a mozdony joker kártya, ha ilyen is van a felfordított 3 lap közt, akkor az automatikusan megegyezik azzal a színnel, amit a játékos kijátszott az útvonal megszerzéséért, és kénytelen a játékos plusz lapot kijátszani miatta!
+
+Ha a játékos csak mozdonykártyákkal akart átmenni az alagúton, akkor csak abban az esetben kell plusz kártyát letennie (aminek ekkor mozdonynak kell lennie), ha mozdonykártya is van a felcsapottak közt.
+
+Abban a ritka esetben, ha nincs összesen 3 kártya a húzó- s a dobópakliban amikor egy alagutat akar megszerezni egy játékos, akkor csak annyit kell felcsapni, amennyi van. Ha netán semennyi nem lenne, akkor nincs semmi rizikó az alagút útvonal megszerzésében, mert nem kell plusz lapot letenni.
+
+[ÁBRA MAGYARÁZAT – 1. példa: A játékos 2 piros kártyát kijátszott egy alagút megszerzéséhez (Pamplona-Barcelona irányában). A pakli tetejéről felfordított 3 lap közül 1 piros van – ezért még 1 pirosat kell letennie a sikeres megszerzéshez. A képen a piros kártyák és a húzott lapok (narancssárga, kék, fehér) színesen vannak ábrázolva, nyíllal jelezve a folyamatot.]
+
+[ÁBRA MAGYARÁZAT – 2. példa: A játékos 2 zöld kártyát kijátszott. A felfordított 3 lap közül 1 mozdony van – mivel a mozdony jokerként a zöld színt is helyettesíti, még egy zöld kártyát kell letennie.]
+
+[ÁBRA MAGYARÁZAT – 3. példa: A játékos 2 mozdonykártyát kijátszott az alagút megszerzéséhez. A felfordított 3 lap közül 1 mozdony van – mivel mozdonyt kell csak mozdonnyal "párosítani", még 1 mozdonyt kell letennie.]
+
+---
+
+## Menetjegy húzás
+
+A körében a játékos húzhat plusz menetjegykártyákat. Ha ezt választja, akkor 3 lapot húz a menetjegy pakli tetejéről. Ha kevesebb van már benne, akkor csak annyit húzhat, amennyi van.
+
+[ÁBRA MAGYARÁZAT: Egy minta menetjegykártya látható "Berlin - Bucuresti" felirattal és egy "8"-as pontszámmal, alatta pedig Európa térképének kis vázlata, amelyen két piros pont jelzi a két összekötendő várost (Berlin és Bukarest), valamint egy vonal/útvonal a kettő között.]
+
+A húzott lapok közül legalább egyet meg kell tartania. (De persze megtarthat kettőt, vagy akár mind a hármat is.)
+
+Amelyik lap(ok) nem kell(enek) a játékosnak, azt a menetjegy pakli aljára kell tennie. A húzott és megtartott menetjegyeket a játék végéig meg kell tartania. Egy későbbi menetjegyhúzás alkalmával sem dobhatja el.
+
+A menetjegyen található városok egy utazási célt adnak a játékosnak; amiből származhat előnye és hátránya is. Ha a játék végéig a játékosnak sikerül egy folyamatos utat kiépítenie a vagonjaival a menetjegykártyáján szereplő két város közt, akkor annyi pontot kap érte, amennyi a jegyen látható. Ha nem sikerül befejeznie az utat, akkor annyi pontot le kell vonni az összpontjából, amennyi a jegyen van.
+
+Menetjegyeket titokban kell tartani a többi játékos elöl a játék végéig. Bármennyi menetjegyet birtokolhat egy játékos.
+
+---
+
+## Vasútállomás építése
+
+A vasútállomás lehetővé teszi, hogy a tulajdonosa egy, és csak egy az adott városba befutó (vagy kimenő) másik játékoshoz tartozó útvonalat felhasználjon, hogy annak segítségével össze tudja kötni a menetjegyein szereplő városokat.
+
+Állomást minden, még nem elfoglalt városba lehet építeni, még akkor is, ha nem vezet bele elkészült útvonal. Két játékos sohasem építhet ugyanabba a városba állomást.
+
+Minden játékos csak 1 állomást építhet egy körben, és a játék végéig is csak összesen hármat.
+
+### Vasútállomás ára
+
+[ÁBRA MAGYARÁZAT: Egy táblázat/ábra mutatja az állomások árát. Az 1. állomás ikonja mellett egy kék vagonkártya látható (jelentése: az első állomás megépítéséhez 1 tetszőleges vagonkártyát kell eldobni). A 2. állomás ikonja mellett 2 db egyforma piros vagonkártya látható (2 ugyanolyan színű kártya szükséges). A 3. állomás ikonja mellett 3 db egyforma sárga vagonkártya látható (3 ugyanolyan színű kártya szükséges).]
+
+| Állomás | Ára |
+|---|---|
+| 1. | 1 tetszőleges vagonkártya eldobása |
+| 2. | 2 ugyanolyan színű vagonkártya eldobása |
+| 3. | 3 ugyanolyan színű vagonkártya eldobása |
+
+Az első állomása megépítéséhez el kell dobnia a játékosnak egy vagonlapot a kézből, és le kell tennie a saját állomásai közül egyet a választott városra. A második állomása építéséért 2 azonos színű vasútikocsi-lapot kell eldobnia a kezéből, a harmadik állomásáért 3 azonos színű lapot. Természetesen, mint általában, bármennyi lapot ki lehet váltani mozdonnyal.
+
+Ha a játékos ugyanazon állomás segítségével több különböző jegyen levő várost szeretne összekötni, akkor neki az állomásos városnak ugyanazon útvonalát kell használnia mindegyik menetjegyhez. A vasútállomás tulajdonosának csak a játék végén kell eldöntenie, hogy melyik útvonalat akarja majd használni.
+
+A játékosoknak nem szükséges állomásokat építeniük. Sőt! Minden olyan állomás után, amit nem használ fel a játékosa, a játék végén **4 pontot kap.**
+
+---
+
+## Játék vége
+
+Amikor a körének végén valamelyik játékos raktárában a vagonok száma **2 vagy kevesebb** lesz, akkor az összes játékosnak van még egy utolsó köre, beleértve azt is, akinek először lefogyott ennyire. Ezután a játéknak vége, és a pontok kiszámítása következik.
+
+[ÁBRA MAGYARÁZAT: Egy kis kép mutat 2 db zöld vagon-figurát, alatta a szöveg: "2 vagy kevesebb vagon egy játékos raktárában jelzi a befejező kör kezdetét."]
+
+---
+
+## A pontok kiszámolása
+
+A játékosok már megkapták menetközben az elkészült útvonalakért a pontokat, ezek természetesen megmaradnak, de ha akarják a játékosok, akkor újra számolhatják az útvonalakért járókat is.
+
+Ezek után a játékosoknak meg kell mutatniuk a menetjegyeiket. Minden sikeresen teljesített jegyért a jegyen található értéket kapják még meg az eddigi pontjaikhoz. A nem befejezett jegyeken található értékeket pedig le kell vonniuk az eddigi pontjaikból.
+
+Ne felejtsétek el, hogy minden állomással a tulajdonosa felhasználhat egy, és csak egy másik játékoshoz tartozó útvonalat az adott városban, hogy sikeresen összeköthesse a menetjegyen szereplő városait.
+
+Ha a játékos ugyanazon állomás segítségével több különböző menetjegyen levő várost szeretne összekötni, akkor neki az állomásos városnak ugyanazon útvonalát kell használnia mindegyik jegyhez.
+
+Minden olyan állomásért, amit nem használt fel a játékos, azaz a talonjában van, kap **4 pontot**.
+
+Legvégül **10 pontot** kap(nak) az Európa Expresszért az(ok) a játékos(ok), aki(k) a Leghosszabb folyamatos utat létrehozta/létrehozták a táblán. Amikor megszámoljátok és összehasonlítjátok a hosszakat, akkor csak az azonos színű vagonokból kirakott folyamatos vonalakat kell figyelni. A folyamatos útban lehetnek hurkok, ugyanazon városon többször is átmehet, de soha nem vehetitek figyelembe kétszer ugyanazon a vonalon a vagonokat. Az állomások, az ellenfél útvonalaival, nem számolhatóak bele a Leghosszabb útba. Ha több játékos közt holtverseny alakul ki a leghosszabb útvonalban, akkor mindegyikük megkapja az Európa Expresszért járó 10 pontot.
+
+Akinek a legtöbb pontja van, az nyer. Ha 2 vagy több játékos közt döntetlen az állás, akkor az nyer, aki több menetjegyet fejezett be. Ha még mindig holtverseny lenne, akkor az nyer, aki kevesebb állomást használt fel. Abban a nagyon valószínűtlen esetben, ha még mindig döntetlen lenne, akkor az nyer, aki megkapta az Európa Expressz bónuszt.
+
+### Útvonal Ponttábla
+
+[ÁBRA MAGYARÁZAT: Egy táblázat, amely az útvonal hosszát (a rátett vagonok számát) és az azért kapott pontot mutatja, kis vagon-ikonokkal illusztrálva a hosszúságot.]
+
+| Útvonal hossza | Szerzett pont |
+|---|---|
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 4 |
+| 4 | 7 |
+| 6 | 15 |
+| 8 | 21 |
+
+*Megjegyzés: Az útvonal hossza az útvonal mezőinek a száma (a rátett vagonok száma). Az alagútnál is így kell számolni a pontokat.*
+
+### A végső pontok kiszámolása
+
+[ÁBRA MAGYARÁZAT: Egy összefoglaló ábra mutatja a végső pontszám kiszámításának lépéseit egyenlet formájában: "aktuális pont" (vagonkártyák/pontjelző állása, pl. 45, 46, 47 jelölve) + "menetjegy plusz/mínusz" (egy Berlin-Bucuresti menetjegykártya, "8" pontszámmal) + "+4 pont/megmaradt állomás" (egy kék vasútállomás-figura, mellette "4 PONT DARABJA" felirat) + "Európa Expressz bónusz" (egy Európa térkép ikon, "10"-es pontszámmal) = "VÉGSŐ PONT".]
+
+**Képlet:** aktuális pont + menetjegy plusz/mínusz + (4 pont × megmaradt állomások száma) + Európa Expressz bónusz = **VÉGSŐ PONT**
+
+---
+
+## Figyelmeztetés
+
+A doboz apró alkatrészeket tartalmaz, amelyek veszélyt jelentenek 3 évesnél kisebbeknek (lenyelhetik azokat). Tartsa távol tőlük!
+
+**Forgalmazó:** Gamer Café Kft.
+2030 Érd, Béke tér 4/d
+Web: www.compaya.hu
+Email: info@compaya.hu
+
+---
+
+## Online Játék
+
+Ez a Days of Wonder Online Access Number-ed: *(a kártya a szabálykönyv legvégén található)*
+
+Ahhoz, hogy használhasd, látogasd meg a **www.ticket2ridegame.com** oldalt és klikkelj a **New Player Signup** gombra a weblapon. Aztán kövesd az instrukciókat és csatlakozz az online játékos közösséghez és teszteld az elképzeléseidet más játékosok ellen szerte a világban a nap bármely szakában.
+
+Még sok más Days of Wonder játékot fedezhetsz fel a **www.daysofwonder.com** weblapon.
+
+---
+
+## Tartalomjegyzék
+
+- Alkotórészek — 2. oldal
+- A játék előkészületei — 2. oldal
+- A játék célja — 3. oldal
+- A játékkör — 3. oldal
+  - Vasútikocsi-kártyák húzása — 3. oldal
+    - Mozdonyok — 4. oldal
+  - Útvonalszerzés — 4. oldal
+    - Dupla útvonalak — 4. oldal
+    - Kompok — 5. oldal
+    - Alagutak — 5. oldal
+  - Menetjegy húzás — 6. oldal
+  - Vasútállomás építése — 6. oldal
+- Játék vége — 7. oldal
+- A pontok kiszámolása — 7. oldal
+- Online játék — 8. oldal
+
+---
+
+## Stáblista
+
+**A játék tervezője:** Alan R. Moon
+**Illusztráció:** Julien Delval
+**Fordította:** Dunda
+
+Copyright © 2004-2005 Days of Wonder, Inc. 199 First Street, Suite 340 Los Altos, CA 94022
+
+Days of Wonder and Ticket to Ride are registered trademarks of Days of Wonder, Inc. All Rights Reserved.
+
+**Földrajzi megjegyzés:** Arra törekedtünk, hogy Európa politikai határait 1901-nek megfelelően pontosan használjuk, és hogy megőrizzük a városok köznevét a helyi nyelvnek megfelelően. A játszhatóság miatt mindazonáltal arra kényszerültünk, hogy kissé elállítsuk bizonyos városok pozícióját a térképen.
+
+Szeretnénk megköszönni a következő játéktesztelőknek a segítséget:
+
+Phil Alberg, Buzz Aldrich, Dave & Jenn Bernazzani, Pitt Crandlemire, Terry Egan, Brian Fealy, Dave Fontes, Tery Gaudet, Matt Horn, Craig Massey, Janet Moon, Mark Noseworthy, Michael Robert, Bob Scherer-Hoock, Mike Schloth, Eric Schultz, Scott Simon, Rob Simons, Adam Smiles, Tony Soltis, Richard Spoonts, Brian Stormont, Rick Thornquist and everyone at Days of Wonder.
+
+*(Dokumentum azonosító: 7202-P07)*

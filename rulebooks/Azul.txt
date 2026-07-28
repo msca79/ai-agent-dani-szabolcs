@@ -1,0 +1,199 @@
+# AZUL - Társasjáték szabálykönyv
+
+## A játék előkészületei
+
+1. Minden játékos kap egy játékostáblát (A). A táblának az a fele legyen látható, amelyen színesek a fal csempéi. (Ld. a Játékváltozatot a tábla másik oldalán játszott játék extra szabályaiért.) Minden játékosnak ugyanazt az oldalt kell használnia.
+
+2. Minden játékos vegyen el 1 pontszámjelzőt (B), és tegye le a pontozósávja „0" mezőjére.
+
+3. Formáljatok a manufaktúrák elkészült csempéit kínáló manufaktúrakorongokból (C) egy kört az asztal közepe körül.
+   - 2 személyes játékban használjatok 5 korongot.
+   - 3 személyes játékban használjatok 7 korongot.
+   - 4 személyes játékban használjatok 9 korongot.
+
+4. Tegyétek a zsákba (D) a 100 csempét (minden színből 20 darabot). (E)
+
+5. Az a játékos, aki a legutóbb járt Portugáliában, magához veszi a kezdőjátékos-jelzőt (F) és minden manufaktúrakorongra lerak pontosan 4, a zsákból véletlenszerűen húzott csempét.
+
+Tegyetek vissza minden nem használt játékostáblát, pontszámjelzőt és korongot a dobozba.
+
+[ÁBRA MAGYARÁZAT: Az ábra a játékhoz szükséges alkatrészeket mutatja be, jelölésekkel: A - játékostábla (két oldala - színes fal és szürke variáció), B - pontszámjelző és pontozósáv, C - manufaktúrakorongok körben elrendezve, D - zsák a csempékhez, E - színes csempék, F - kezdőjátékos-jelző, valamint a játékostábla részletei: mintasorok, fal, pontozósáv és padlóvonal.]
+
+## A játék célja
+
+A cél az, hogy neked legyen a legtöbb pontod a játék végén. A játék azzal a fordulóval ér véget, amelyben legalább 1 játékos falán elkészül egy 5 egymással szomszédos csempéből álló vízszintes sor.
+
+## A játék menete
+
+A játék több fordulóból áll, és mindegyik forduló az alábbi három fázisból épül fel:
+
+- **A. A manufaktúrák kínálata**
+- **B. A fal csempézése**
+- **C. Előkészületek a következő fordulóra**
+
+### A. A manufaktúrák kínálata
+
+A kezdőjátékos leteszi a kezdőjátékos-jelzőt az asztal közepére, és végrehajtja az akcióját. A játék ezt követően az óramutató járásával megegyező irányban folytatódik tovább.
+
+Amikor egy játékos sorra kerül, csempéket kell szereznie, amire kétféle lehetőség áll rendelkezésére:
+
+**VAGY**
+
+**a) Magához vesz egy színből minden csempét valamelyik manufaktúrakorongról, majd az ezen lévő összes többi csempét betolja az asztal közepébe.**
+
+**VAGY**
+
+**b) Magához vesz egy színből minden csempét az asztal közepéről. Aki az adott fordulóban elsőként vesz el csempéket az asztal közepéről, a kezdőjátékos-jelzőt is elveszi, és lerakja a padlóvonala első szabad mezőjére.**
+
+#### Fontos szabály - mintasorokba való csempelekése
+
+A később fordulókban egy további szabályt is figyelembe kell venni: **tilos olyan színű csempéket rakni egy mintasorba, amilyen színű csempe már van a fal adott sorában.**
+
+Ezt követően a magához vett csempéket lerakja a saját tábláján lévő 5 mintasor egyikére (az első sorban 1 csempének van 1 hely, az ötödik sorban 5-nek).
+
+- Lerakja a csempéket egyesével, jobbról balra haladva a kiválasztott mintasorba.
+- Ha a mintasorban már vannak csempék, csak ugyanilyen színű csempéket rakhat ide.
+- Amint egy mintasor összes mezője tele van, az adott sor késznek számít. Ha a játékos több csempét vett el, mint amennyit a kiválasztott sorba le tud tenni, a fölösleget a padlóvonalára kell tennie (ld. Padlóvonal).
+
+Ebben a fázisban a játékos célja az, hogy annyi sort betöltsön, amennyit csak akar, mert a következő fázisban csak a kész mintasorokból tehet át csempéket a fal megfelelő soraiba, hogy ezekkel pontot szerezzen.
+
+[ÁBRA MAGYARÁZAT: A példa Veronika csempelekésének lehetőségeit mutatja be. 2 sárga csempe elvételéről van szó. Az ábra három lehetséges elhelyezési módot szemléltet (A, B, C jelöléssel):
+- A: 1 sárga csempe az első mintasorba, 1 a padlóvonalra (a többi sor korlátozásai miatt)
+- B: mindkét sárga csempe az ötödik mintasorba (ahol még nincs elhelyezett csempe)
+- C: mindkét csempe a padlóvonalra
+Az ábra jól szemlélteti, hogy mely sorokba lehet rakni (zöld jelölés) és mely sorokba nem (piros jelölés - már van olyan szín az adott sorban vagy már kitöltött csempe van ott).]
+
+#### Padlóvonal
+
+Minden olyan csempét, amit a játékos elvett, de nem akar vagy nem tud letenni a szabályoknak megfelelően, a padlóvonalára köteles lerakni, balról jobbra feltöltve annak a mezőit. Ezek a csempék a padlóra estek, és pontvesztést kell elkönyvelnünk miattuk a fal csempézésének fázisában.
+
+Ha a játékos padlóvonalának minden mezője foglalt, a további leesett csempéket a doboz tetejébe tegyétek, és egyelőre ott tároljátok ezeket.
+
+A fázis véget ér, amikor az asztal közepéről ÉS minden manufaktúrakorongról egyaránt elfogyott az utolsó csempe is. Ezt követően folytassátok a fal csempézésének fázisával.
+
+[ÁBRA MAGYARÁZAT: Az "Példa az első csempék elvételére" ábrázolás a játék egy konkrét pillanatát mutatja:
+1. Misi elvesz 2 fekete csempét egy manufaktúrakorongról, a maradék csempéket betolja az asztal közepébe
+2. Bori elveszi a sárga csempét egy manufaktúrakorongról, a maradék 3 piros csempét betolja az asztal közepébe
+3. Veronika felveszi a 3 piros csempét az asztal közepéről, és mivel ő az első, aki az asztal közepéről vesz fel csempét, a kezdőjátékos-jelzőt is magával veszi és a padlóvonal első (bal szélső) mezőjére rakja]
+
+### B. A fal csempézése
+
+Ezt a fázist a játékosok akár egyszerre is végrehajthatják. Minden játékos ugyanis a saját mintasorából rakja át a csempéket a saját falára.
+
+#### A) Csempék áthelyezése a falra
+
+A játékosok végignézik a saját mintasoraikat fentről lefelé haladva. Minden kész (teli) sor jobb szélső csempéjét átteszik a saját faluknak ehhez a sorhoz tartozó, azonos színű mezőjére.
+
+Valahányszor a játékos átrak egy csempét a falára, azonnal begyűjti az érte járó pontokat (ld. Pontozás).
+
+[ÁBRA MAGYARÁZAT: Misi csempelekésének fázisát mutatja:
+A) Misi végignézi a mintasorokat: a második mintasor kész 2 piros csempével, az elkészült negyedik mintasor kék csempét tartalmaz. A jobb szélső csempéket átrakja a falra (piros a második sorba, kék a negyedik sorba). A harmadik és ötödik sor nem készült el, így azokkal nem foglalkozik.
+B) Ezt követően leveszi a táblájáról a második és negyedik mintasorban maradt csempéket, és beteszi ezeket a doboz fedelébe. A harmadik és ötödik mintasor csempéi a táblán maradnak.]
+
+#### B) Teljes mintasorok csempéinek eltávolítása
+
+Ezt követően a játékos távolítson el minden csempét minden olyan mintasoráról, amelynek nincs csempe a jobb szélső mezőjén. Tegyétek be ezeket a csempéket a doboz tetejébe, és egyelőre ott tároljátok ezeket.
+
+Ha ezzel elkészült a játékos, a mintasorokon maradó csempék ott maradnak a játékostábláján a következő körre.
+
+#### C) Padlóvonal pontvesztés
+
+Végül, a fal csempézése fázis végén a játékos megnézi, hogy van-e csempe a padlóvonalán. A padlóvonal minden egyes csempéjéért (beleértve a kezdőjátékos-jelzőt is) a játékos elveszít annyi pontot, amennyi közvetlen fölötte látható. A pontszámjelzővel le kell lépni a megfelelő számú lépést (azonban a játékosok pontszáma soha nem csökkenhet 0 pont alá).
+
+Ezt követően a padlóvonal csempéit mind tegyétek be a játék dobozának fedelébe.
+
+**Megjegyzés:** Akinél a kezdőjátékos-jelző van, annak ez a jelzőlap sima csempének számít a padlóvonalán, azonban ahelyett, hogy a dobozfedélbe rakná, a játékos tegye maga elé.
+
+[ÁBRA MAGYARÁZAT: Az ábra Misi padlóvonalát mutatja, ahol 4 csempe és a kezdőjátékos-jelző van. A pontvesztés képlete: az első csempe 1 pont vesztés, a második 1 pont, a harmadik 2 pont, a negyedik 3 pont, és a kezdőjátékos-jelző 1 pont = összesen 8 pont vesztés.]
+
+### C. Előkészületek a következő fordulóra
+
+Ha senki nem fejezett be egyetlen vízszintes sort sem 5 csempével a falán (ld. A játék vége), készítsétek elő a következő fordulót. A kezdőjátékos-jelzőt begyűjtő játékos újra 4-4 csempét tesz a zsákból minden manufaktúrakorongra, mint a játék előkészületeinél.
+
+Amikor a zsák kiürül, a dobozfedélbe rakott csempéket bele kell tenni a zsákba, majd a játékos folytassa a manufaktúrakorongok feltöltését. Ezt követően kerül sor a következő fordulóra.
+
+Abban a ritka esetben, ha megint elfogynak a csempék, és nincs már több csempe a doboz fedelében sem, a következő forduló akkor is a szokásos módon zajlik, csak nem lesz minden manufaktúrakorong teljesen feltöltve.
+
+## Pontozás
+
+Minden csempe, amit a játékos átrak a falára, mindig a megfelelő színű mezőre kerül, és azonnal jár érte a pont, az alábbiak szerint:
+
+### Elszigetelt csempe
+
+Ha nincsenek a csempe közvetlen oldalszomszédságában (alatta, fölötte vagy mellette) csempék, **1 pont jár érte** a pontozósávon.
+
+### Szomszédos csempékkel:
+
+Ha azonban van szomszédos csempe, a következők szerint kell eljárni:
+
+**Először** a játékos ellenőrzi, hogy van-e az újonnan lerakott csempével vízszintes irányban közvetlen kapcsolatban 1 vagy több csempe. Ha igen, megszámolja, hogy mennyi ilyen összekapcsolt csempe van a sorban (beleértve az újonnan lerakott csempét is), és **kap ennyi pontot**.
+
+**Ezt után** a játékos ellenőrzi, hogy van-e az újonnan lerakott csempével függőleges irányban közvetlen kapcsolatban 1 vagy több csempe. Ha igen, megszámolja ezeket az összekapcsolódó csempéket az oszlopban (beleértve az újonnan lerakott csempét is), és **kap ennyi pontot**.
+
+[ÁBRA MAGYARÁZAT: Az ábra a pontozás mechanikáját szemlélteti:
+1. Első példa: A piros csempe lerakásáért 1 pont jár (elszigetelt).
+2. Második példa: A sárga csempe lerakásakor 3 pont jár a 3, egymáshoz vízszintes irányban kapcsolódó csempéért (beleértve az újonnan lerakott sárga csempét).
+3. Harmadik példa: A sárga csempe lerakásakor nemcsak 4 pont jár a vízszintesen kapcsolódó csempékért, de 3 pont is a függőlegesekért, így összesen 7 pont.]
+
+[ÁBRA MAGYARÁZAT: A kék csempe lerakásakor 3 pont jár a függőlegesen kapcsolódó csempékért.]
+
+## A játék vége
+
+A játék véget ér közvetlenül egy „A fal csempézése" fázist követően, amennyiben abban legalább egy játékos kitöltötte legalább egy vízszintes sorát 5 egymás melletti csempével a falán.
+
+Amint a játék véget ért, könyveljetek el további pontokat, ha egy vagy több játékosnak sikerült elérnie az alábbi célokat:
+
+- **2 pont** jár minden kész (teli) vízszintes sorért, amely 5 egymás melletti csempéből áll a játékos falán.
+- **7 pont** jár minden kész (teli) függőleges sorért, amely 5 egymás alatti csempéből áll a játékos falán.
+- **10 pont** jár minden olyan színért, amelyből a játékos feltette mind az 5 csempét a falára.
+
+A pontozósávján legtöbb pontot elérő játékos megnyeri a játékot. Döntetlen esetén az érintett játékosok közül az nyer, akinek több vízszintes sora készült el. Ha ez nem dönti el a helyzetet, ezek a játékosok osztoznak a győzelemben.
+
+## Játékvariáció
+
+Kis mértékben változtat a játékélményen, ha a játékostáblák szürke oldalát használják a játékosok. A szabályok pontról pontra megegyeznek az eredeti játékéval, annyi különbséggel, hogy amikor egy mintasorból a játékos átrak egy csempét a falára, az adott sorban bármelyik mezőre lerakhatja azt.
+
+Azonban a játék előrehaladtával a fal egyetlen függőleges sorában (vagyis oszlopában) sem szerepelhet egyazon szín egynél többször. Az a szabály pedig továbbra is fennáll, hogy egyetlen vízszintes sorban sem szerepelhet egyazon szín egynél többször.
+
+### Különleges eset
+
+A csempelerakás fázisában előfordulhat, hogy egy mintasor jobb szélső csempéjét nem lehet átraknia a falra, mert abban a sorban már nincs olyan hely, ahová szabályosan le lehetne tenni azt. Ebben az esetben a játékosnak az adott mintasor összes csempéjét azonnal be kell tennie a padlóvonalára (ld. Padlóvonal).
+
+[ÁBRA MAGYARÁZAT: A szürke oldali játékvariáció szabályait szemléltető ábra, amely a csempelekés szabadabb lehetőségét (vízszintes és függőleges sorok szabályai) és a különleges eseteket mutatja be.]
+
+## A játék történeti háttere
+
+A mórók által Európában elterjesztett azulejókat (eredetileg fehér-kék csempéket) a portugálok nagyon megkedvelték, készítésének módját elsajátították, miután királyuk, I. Mánuel a dél-spanyolországi Alhambra palotában tett látogatásakor elámult a mór díszítőcsempék szembeszökő szépsége láttán. Az Alhambra belsőépítészeti szépségétől elvarázsolt király azonnal elrendelte, hogy saját portugáliai palotáját hasonló fali csempékkel díszítsék ki. Az Azulban csempeművészekként az évórai királyi palota falait kell kidíszítenetek.
+
+## Készítők és szerzők
+
+- **Játéktervező:** Michael Kiesling
+- **Producer:** Sophie Gravel
+- **Fejlesztők:** Viktor Kobilke & Philippe Schmit
+- **Művészeti vezető:** Philippe Guérin
+- **Illusztrációk:** Chris Quilliams
+- **Grafikai tervezés:** Philippe Guérin, Karla Ron & Marie-Eve Joly
+- **Kommunikáció:** Mike Young
+- **Külügyek:** Andrea Ahlers & Katja Wienicke
+- **Szerkesztés:** Sophie Gravel, Viktor Kobilke
+- **Marketing:** Martin Bouchard
+- **Fordította:** Molnár László (Lacxox)
+
+## Licencia és gyártási információ
+
+© 2018 Plan B Games Inc.
+
+A játék egyetlen részlete sem reprodukálható különleges engedély nélkül.
+
+**Gyártó:** 19 rue de la Coopérative, Rigaud, QC. J0P 1P0, Kanada.
+- info@nextmovegames.com
+- www.nextmovegames.com
+
+Kérjük, őrizze meg ezt az információt.
+
+Made in China.
+
+**Importálja:** GémKer-Gémklub Kft.
+- 1092 Budapest, Ráday utca 30.
+- www.gemker.hu
+- info@gemker.hu

@@ -1,0 +1,855 @@
+# 7 Csoda (7 Wonders) - Szabálykönyv
+
+## Tartalom
+
+- 7 db tábla, mindegyiken a 7 csoda egyike
+- 7 db kártya, mindegyiken a 7 csoda egyike
+- 49 db „I. kor" kártya
+- 49 db „II. kor" kártya
+- 50 db „III. kor" kártya
+- 46 db konfliktusjelző
+- 24 db 3-as értékű érme
+- 46 db 1-es értékű érme
+- 1 db pontozófüzet
+- 1 db szabálykönyv
+- 2 db kártya a kétszemélyes játékhoz
+
+## A játék lényege és célja
+
+A 7 Wonders, vagyis 7 csoda egy játéka 3 korból áll. Mindegyikben egyet használunk a 3 kártyapakliból (először az I. kor kártyáit, majd a II. kor kártyáit és végül a III. kor kártyáit).
+
+Minden kor menete hasonló: a játékosoknak lehetőségük lesz 6 kártya kijátszására, hogy fejlesszék városukat és megépítsék saját csodájukat. A körök végén minden játékos összehasonlítja katonai erejét a két szomszédos városéval (a jobb és bal oldalukon lévő játékosokéval).
+
+A harmadik kor végén a játékosok összeszámolják győzelmi pontjaikat; a legtöbb pontot gyűjtő játékos lesz a nyertes.
+
+---
+
+## A játék elemei
+
+### A csodák táblái
+
+Minden egyes tábla egy csodát képvisel, amelyet a játékos megépíthet, továbbá jelzi azt a nyersanyagot vagy terméket is, amelyet a csoda a játék kezdetétől termel (ez a tábla bal felső sarkában látható). Ezeknek a tábláknak a két oldalán a csoda két különböző változata látható. Minden csoda kettő, három vagy négy szintből áll, ami a tábláról leolvasható. Minden szintnek látható az építési költsége, és amikor ezek elkészültek, bónuszt adnak.
+
+### Érmék
+
+Az érméket egy adott város és a vele szomszédos városok közötti kereskedelemre használjuk.
+
+A játék során összegyűjthető érmék száma nincs korlátozva. Az összegyűjtött érmék a játék végén győzelmi pontokat érnek.
+
+### Konfliktusjelzők
+
+A konfliktusjelzőket a szomszédos városok közötti katonai győzelem vagy vereség jelölésére használjuk.
+
+4 féle jelzőt használunk:
+- -1 értékű vereségjelzőket mindhárom kor végén
+- +1 értékű győzelemjelzőket az I. kor végén
+- +3 értékű győzelemjelzőket az II. kor végén
+- +5 értékű győzelemjelzőket a III. kor végén
+
+### Kártyák
+
+A 7 Wondersben a három kor kártyái létesítményeket képviselnek. 7 különböző típusú létesítmény létezik – a típus könnyen beazonosítható a kártyák keretének színéről.
+
+#### Kártyatípusok:
+
+- **Nyersanyagok (barna kártyák)**: Ezek a létesítmények alapanyagokat termelnek
+- **Kézműves termékek (szürke kártyák)**: Ezek a létesítmények termékeket állítanak elő
+- **Civil létesítmények (kék kártyák)**: Ezek a létesítmények győzelmi pontokat hoznak
+- **Tudományos létesítmények (zöld kártyák)**: Ezek a létesítmények győzelmi pontokat érnek a három különböző tudományágban elért fejlődésednek megfelelően
+- **Kereskedelmi létesítmények (sárga kártyák)**: Ezekkel az épületekkel érméket gyűjthetsz, alapanyagokat termelhetsz, termékeket állíthatsz elő, megváltoztathatod a kereskedelem szabályait, és néha győzelmi pontokat szerezhetsz
+- **Katonai létesítmények (piros kártyák)**: Ezek az épületek növelik a katonai erődet. Ez a konfliktusok lejátszásakor lép életbe
+- **Céhek (lila kártyák)**: A játékosok ezekkel pontokat gyűjthetnek meghatározott feltételek mellett
+
+**Megjegyzés**: A III. kor kártyái között nincsenek nyersanyagok (barna kártyák), sem kézműves termékek (szürke kártyák), viszont vannak céhek (lila kártyák).
+
+### A kártyák költségei
+
+A bal felső sarokban láthatjuk az építési költségeket. Ha ez a terület üres, a létesítmény ingyenes, és nincs szükség alapanyagra a megépítéséhez.
+
+**Példák**:
+- A Piac (Marketplace) ingyenes
+- A Bánya (Mine) egy érmébe kerül
+- A Fürdő (Baths) megépítéséhez egy kőre van szükség
+- Az Arénához (Arena) pedig két kőre és egy ércre
+
+A II. kortól kezdve akad néhány olyan létesítmény, amelyet felépíthetünk a szükséges alapanyag(ok) és/vagy termékek befizetésével, vagy megépíthetjük ingyen is, ha a játékos az előző korban megépítette a kártyán megjelölt létesítményt.
+
+**Például**: Az Istálló (Stables) megépítéséhez egy tégla, egy fa és egy érc szükséges, VAGY az, hogy nálunk legyen a Patikus (Apothecary).
+
+A jobb alsó sarokban látható (ha van ilyen), hogy melyik létesítményeket építhetjük meg ingyen a következő korban ennek a kártyának a segítségével.
+
+**Például**: Ha a Scriptoriumot az I. korban felépítjük, a II. korban ingyen építhetjük meg a Könyvtárat (Library) és a Bíróságot (Courthouse).
+
+A kártya alján, alul láthatjuk, hogy hány játékos esetén használjuk az adott kártyát.
+
+**Például**: Egy 4 személyes játékhoz a 3+ és a 4+ jelölésű kártyákat használjuk.
+
+---
+
+## A játék előkészületei
+
+### Koronként egy pakli kártya
+
+Mindhárom pakliból tegyétek vissza azokat a kártyákat a dobozba, amelyeket a játékosok száma alapján nem fogtok használni.
+
+**Például**: egy 6 személyes játékban a 3+, 4+, 5+ és a 6+ jelölésű kártyákat használjuk. A 7+ jelölésű kártyákat visszatesszük a dobozba.
+
+Ezenkívül:
+- A III. kor paklijából vegyétek ki a 10 céhkártyát (lila kártyák), majd véletlenszerűen (és titokban) válasszatok ki közülük annyi kártyát, amennyit az adott játékosszám esetén meg kell tartani.
+- Ezután keverjétek össze ezeket a céhkártyákat a többi kártyával, hogy megalkossátok a III. kor pakliját (a többi lapot tegyétek vissza a dobozba).
+
+**Megjegyzés**:
+- Ha a játék elején megfelelően távolítottátok el a kártyákat, a paklik összes kártyáját ki fogjátok osztani a korok elején (játékosonként 7 kártyát).
+- A megtartandó céhek száma mindig kettővel több, mint a játékosok száma.
+
+**Céhek száma játékosok szerint**:
+- 3 játékos: 5 céh
+- 4 játékos: 6 céh
+- 5 játékos: 7 céh
+- 6 játékos: 8 céh
+- 7 játékos: 9 céh
+
+### Csodák
+
+Keverjétek meg a 7 csodát ábrázoló hét kártyát képpel lefelé, és osszatok ki egyet minden játékosnak. A kártya és annak állása fogja meghatározni, melyik táblát osszuk ki a játékosnak, és melyik oldalát használjuk a játék során.
+
+**Megjegyzések**:
+- Az első néhány játék alkalmával használjátok a táblák A oldalát, mivel ezek használata egyszerűbb.
+- Ha minden játékos beleegyezik, a véletlenszerű kiosztás helyett ki is választhatjátok a táblákat.
+
+### Érmék
+
+A játékot minden játékos 3 darab 1-es értékű érmével kezdi, amelyet a táblájára helyez.
+
+A megmaradt érmék alkotják a bankot (a játékosok szükség esetén válthatnak a 3-as és 1-es értékű érmék között).
+
+### Konfliktusjelzők
+
+A konfliktusjelzőkből hozzunk létre egy közös készletet az érmék mellett.
+
+---
+
+## Építkezés a 7 Wondersben
+
+A játék során 3 korban lesz a játékosoknak lehetősége létesítmények (kártyák) és csodák (táblák) megépítésére.
+
+- A legtöbb létesítménynek alapanyag- vagy termékköltsége van. Némelyik ingyenes és vannak olyanok, melyek érmékbe kerülnek. Néhánynak bizonyos feltételekkel ingyenes a megépítése, vagy alapanyagot/terméket igényel.
+- A csodák mindegyike alapanyagok és termékek felhasználásával megépíthető.
+
+### Érmeköltségek
+
+Néhány barna kártya érmébe kerül, amit a banknak kell befizetnünk akkor, amikor megépítjük.
+
+**Például**: A Fatelep (Timber Yard) megépítése 1 érmébe kerül.
+
+### Ingyenes építés
+
+Néhány kártyának nincs költsége és ingyenesen kijátszható.
+
+**Például**: A Keleti Kereskedelmi Ügynökség (Eastern Trading Post) megépítése ingyenes.
+
+### Anyagköltség
+
+Néhány kártyának alapanyag- vagy termékköltsége van.
+
+Megépítésükhöz a játékosnak meg kell termelnie, elő kell állítania a megfelelő alapanyagokat, termékeket ÉS/VAGY meg kell vásárolnia őket a két, vele szomszédos városból.
+
+### Termelés
+
+Egy város alapanyagait, termékeit a csodatáblája, a barna kártyái, szürke kártyái és némelyik sárga kártyája termeli.
+
+Egy létesítmény megépítéséhez a játékos városának ki kell termelnie a kártyán megjelölt alapanyagokat, termékeket.
+
+**Például**: Gíza 2 követ, 1 agyagot, 1 ércet, 1 papiruszt és 1 szövetet termel:
+- Ez a játékos meg tudja építeni a Barakkot (Barracks) (költsége: 1 érc) vagy a Scriptoriumot (költsége: 1 papirusz), mivel városa megtermeli a szükséges alapanyagokat.
+- A játékos nem tudja megépíteni a Vízvezetéket (Aqueduct) (költsége: 3 kő), mivel városa csak kettőt termel a létesítményhez szükséges három kőből.
+
+**Fontos**: Az alapanyagok nem „használódnak el" az építkezések során. Minden körben újra használhatóak lesznek az egész játékban. A város termelése sosem csökken (a kijátszott kártyákat sosem dobjuk el).
+
+### Kereskedelem
+
+Gyakran előfordul, hogy egy játékos olyan létesítményt szeretne megépíteni, amelyhez nem termel megfelelő alapanyagot, terméket.
+
+Ha ezeket az alapanyagokat, termékeket előállítják a szomszédos városok – közvetlenül a játékos jobb és bal oldalán ülő játékosok –, a játékos kereskedelem útján megvásárolhatja a hiányzó nyersanyagokat.
+
+#### Az alapanyagok, termékek, amelyeket egy játékos megvásárolhat a szomszédos városokból:
+
+- Az adott város által alapvetően termelt alapanyagok, előállított termékek (a táblán láthatók)
+- Az adott város barna kártyáin látható alapanyagok (nyersanyagok)
+- A szürke kártyáin látható termékek (kézműves termékek)
+
+Ezzel szemben **nem lehet** olyan alapanyagokat vásárolni, amelyeket egyes kereskedelmi létesítmények (sárga kártyák) vagy néhány csoda megépített szintjei termelnek: ezek az alapanyagok a tulajdonosuknak vannak fenntartva.
+
+#### Kereskedelem szabályai:
+
+- A játékosnak minden megvásárolt alapanyagért, termékért **2 érmét** kell adnia az anyag vagy termék tulajdonosának.
+- Egy nyersanyag vagy termék szomszédnak való eladása **NEM akadályozza meg** a várost abban, hogy ugyanabban a körben felhasználja azt saját építkezéséhez.
+- Ugyanabban a körben **lehetséges** egy vagy több alapanyag, termék vásárlása akár mindkét szomszédos várostól.
+- A megvásárolt alapanyagokat, termékeket **csak abban a körben lehet felhasználni**, amelyben vásároltuk azokat.
+- A játékosok **soha nem tagadhatják meg** az alapanyagok, termékek eladását.
+- Néhány kereskedelmi létesítmény (sárga kártyák) **lecsökkenti** a vásárlás költségeit 2 helyett 1 érmére.
+- Ha egy játékos mindkét szomszédos városa megtermeli a kívánt alapanyagot, terméket, a játékos **szabadon dönthet**, hogy kitől vásárol.
+- Az alapanyagok megvásárlásához a játékosnak **a köre elején** rendelkeznie kell a megfelelő számú érmével. Azok az érmék, melyeket kereskedelem útján szerzünk az adott körben, **nem használhatók fel**, csak a következő körben.
+
+#### Kereskedelem példái:
+
+**"A" Példa**: A játékos az Egyetemet (University) szeretné megépíteni (költsége: 2 fa+1 üveg+1 papirusz). Saját városa csak egyetlen fát és egyetlen üveget termel. Egyik szomszédos városa fát termel, míg a másik papiruszt. A játékos 2 érmét fizet mindkét szomszédos játékosnak, hogy megkapja a megfelelő erőforrásokat és megépíthesse létesítményét.
+
+**"B" Példa**: Egy kör alatt a játékostól mindkét szomszédos városa vásárol 2 követ összesen 8 érméért (alapanyagonként 2-ért). Ugyanebben a körben megépítheti a Könyvtárat (Library) (költsége: 2 kő és 1 szövet) a saját erőforrásainak köszönhetően, annak ellenére is, hogy eladta őket a szomszédos városoknak.
+
+**"C" Példa**: Az előzőekben említett játékos meg szeretné építeni a Fórumot (Forum) (költsége: 2 agyag); ő 1 agyagot termel és egy szomszédos város is termel agyagot. Köre elején nincs elég érméje a kincstárában. Ha egy szomszédos város meg is venné az egyik alapanyagát ebben a körben, akkor sem költhetné el azonnal az érte kapott érmét a hiányzó agyag megvásárlására. Ezt a pénzt csak a következő körben kezdődő kereskedelemre használhatja fel. Tehát a Fórum megépítése ebben a körben számára lehetetlen, a játékosnak más akciót kell végrehajtania.
+
+### Ingyen építés (láncok)
+
+A II. és III. korban néhány létesítmény költsége mellett jobbra látható egy előző kori létesítmény neve is.
+
+Ha egy játékos megépítette az itt megnevezett, előző kori létesítményeket, **ingyen megépítheti a létesítményt**, vagyis nem kell kifizetnie az alapanyagköltséget.
+
+**Például**: A Könyvtárat (Library) ingyenesen megépíthető a II. korban, ha a játékos megépítette a Scriptoriumot az I. kor során.
+
+**Például**: Az I. kor alatt megépített Színház (Theater) lehetővé teszi a játékosnak a II. korban a Szobor (Statue) ingyenes megépítését, és az pedig lehetővé teszi a játékosnak a III. korban a Kertek (Gardens) ingyenes megépítését.
+
+---
+
+## A játék áttekintése
+
+A játék az I. korral kezdődik, a II. korral folytatódik és a III. korral fejeződik be. A győzelmi pontokat csak a III. kor végén számoljuk össze.
+
+### Egy kor áttekintése
+
+Minden kor kezdetén a játékosoknak 7 kártyát osztunk véletlenszerűen a megfelelő pakliból.
+
+Minden kor **6 körből** áll. A játékosok minden körben 1 kártyát helyeznek le egyidejűleg.
+
+#### Egy kör a következők szerint zajlik le:
+
+1. Egy kártya kiválasztása
+2. Akció
+3. A kezedben maradt kártyákat továbbadod a melletted balra vagy jobbra ülő játékosnak, és megkapod a másik melletted ülő játékos megmaradt kártyáit.
+
+### 1. Egy kártya kiválasztása
+
+Minden játékos megnézi a kártyáit anélkül, hogy a többieknek megmutatná, és választ egy kártyát, majd azt képpel lefelé maga elé helyezi.
+
+A megmaradt kártyákat a tőlük balra ülő játékos és maguk közé teszik az asztalra.
+
+### 2. Akció
+
+Ha minden játékos kiválasztott egy kártyát, egyidejűleg hajtják végre az akciójukat.
+
+Három akciót hajthatnak végre a kiválasztott kártyával:
+
+#### a) Egy létesítmény megépítése
+
+A játékosok legtöbbször a kártyán látható létesítményt fogják megépíteni.
+
+**Fontos**: Egy játékos sosem építhet két egyforma létesítményt (vagyis amelyeknek nevük/illusztrációjuk megegyezik).
+
+#### b) A saját csoda egy szintjének megépítése
+
+Ahhoz, hogy egy játékos megépítse csodájának egy szintjét, egy kártyát fog használni építésjelzőként:
+
+A játékosnak ehhez a csodatáblán látható árat kell befizetnie és nem azt, ami a létesítmény kártyáján látható.
+
+A játékos ezután kijátssza a kártyát képpel lefelé, félig a csodatábla alá csúsztatva, ezzel jelezve, hogy a csodának ez a szintje megépült. Ezután a kártyának más hatása nem lesz, és nem tekintjük létesítménynek.
+
+**Például**: Egy játékos meg szeretné építeni csodájának, az alexandriai világítótoronynak a második szintjét. Kiválaszt egy kártyát a kezéből. Városa biztosítja neki a megépítéshez szükséges két ércet, ezért lehelyezi kártyáját a csoda adott szintjéhez, félig a tábla alá csúsztatva, ezzel jelezve, hogy az a szint megépült.
+
+#### További részletek a csoda építéséhez:
+
+- Egy csoda szintjeit **sorban KELL** megépíteni, vagyis balról jobbra.
+- Egy csoda megépítése **nem kötelező**. Egy játékos anélkül is nyerhet, hogy befejezné (vagy akár csak elkezdené) a csodájának megépítését.
+- A csoda szintjeinek megépítését jelző kártyák **rejtve maradnak**. Azt tanácsoljuk a játékosoknak, hogy olyan kártyát használjanak, amelyet nem akarnak átadni szomszédjuknak.
+- A legtöbb csodának 3 szintje van, de ezek nincsenek összefüggésben a korokkal. Tehát egy koron belül egy csodának több szintje is megépíthető, vagy az építkezést akár a III. korban is elkezdhetjük.
+- Egy játék során minden szint csak egyszer építhető meg.
+
+#### c) A kártya eldobása 3 érméért
+
+Egy játékos dönthet úgy, hogy eldobja kártyáját 3 érméért, amit a banktól kap meg, és saját kincstárába helyez.
+
+Az ilyen módon eldobott kártyákból hozzunk létre egy képpel lefelé fordított dobópaklit az asztal közepén. Olyan kártyákat érdemes eldobni, amelyeket nem tudunk megépíteni, de a szomszédunkat érdekelhetné.
+
+**Megjegyzés**: Ha egy játékos kiválasztott egy kártyát, de nem tudja sem a létesítményt, sem a csodájának egy szintjét megépíteni, akkor a játékosnak **kötelezően el kell dobnia** a kártyát és 3 érmét elvenni a banktól.
+
+### 3. Haladjunk tovább a következő kártyákra
+
+Minden játékos elveszi a szomszédja által továbbadott kártyákat.
+
+**Vigyázat**: A kártyák cseréjének sorrendje koronként változik:
+
+- **Az I. kor során** a kártyákat a bal oldalunkon ülő játékosnak adjuk át (az óramutató járása szerint).
+- **A II. kor során** a kártyákat a jobb oldalunkon ülő játékosnak adjuk át (az óramutató járásával ellenkezőleg).
+- **A III. kor során** a kártyákat a bal oldalunkon ülő játékosnak adjuk át (az óramutató járása szerint).
+
+#### Különleges eset: hatodik kör
+
+Egy kor hatodik, egyben utolsó körének elején a játékosok a szomszédjuktól mindössze két kártyát kapnak.
+
+Minden játékos kiválaszt egy kártyát (az előző köröknek megfelelően), a második kártyát pedig képpel lefelé eldobja.
+
+A kiválasztott kártyát mindenki kijátssza a rendes szabályok szerint.
+
+Ezzel a kor véget ér.
+
+**Figyelem!** A ki nem választott és eldobott kártyáért a játékosok nem kapnak 3 érmét.
+
+**Például**: Gergő az első kor elején kap 7 kártyát. Az első körben kiválasztja kijátszásra az egyik kártyáját. Ezután a megmaradt 6 kártyát továbbadja a bal oldalán ülő játékosnak és kap másik 6 kártyát a jobb oldalán ülő játékostól. Később, a hatodik körben 2 kártyát kap kézbe a jobb oldalán ülő játékostól. Az egyiket eldobja, a másikat pedig kijátssza a játék szabályainak megfelelően.
+
+### Egy kor vége
+
+Minden kor a hatodik köre után ér véget.
+
+Ekkor lejátsszuk a katonai konfliktusokat.
+
+Minden játékos összehasonlítja a katonai létesítményein (piros kártyák) lévő pajzsok számát mindkét szomszédos város pajzsainak számával:
+
+- **Ha egy játékos pajzsainak száma magasabb**, mint egy szomszédos városé, a játékos megkap egy, az éppen lejátszott korhoz tartozó győzelemjelzőt (I. kor: +1, II. kor: +3 és III. kor: +5).
+- **Ha egy játékos pajzsainak száma alacsonyabb**, mint a szomszédos városé, a játékos elvesz egy vereségjelzőt (-1 győzelmi pont).
+- **Ha egy játékosnak ugyanannyi pajzsa van**, mint a szomszédos játékosnak, nem kap semmilyen jelzőt.
+
+**Például**: A II. kor éppen véget ért. Alexandria (3 pajzs) baloldalt Rodosszal (5 pajzs), jobboldalt pedig Epheszosszal (2 pajzs) határos. Alexandria elvesz egy vereségjelzőt (-1 győzelmi pont) és lehelyezi táblájának bal oldalára, valamint elvesz egy győzelemjelzőt is (a II. korban +3 győzelmi pont), és lehelyezi táblájának jobb oldalára.
+
+#### Kártyalehelyezés
+
+A barna és szürke kártyákat egymás alá helyezzük le a csodatábla bal felső sarkától kezdve. Így a játékosok könnyen láthatják, hogy melyik játékos mit termel.
+
+A többi kártyát képpel felfelé helyezzük le a játékos csodatáblája fölötti területre. Ez a terület a játékos városának felel meg.
+
+Hogy spóroljunk a hellyel, a kártyákat színenként tegyük egymásra, a létesítmények neveit láthatóan hagyva.
+
+---
+
+## A játék vége
+
+A játék a harmadik kor végén ér véget, miután a Konfliktusjelzőket kiosztottátok.
+
+Minden játékos összeadja civilizációjának pontjait, és az győz, aki a legnagyobb pontszámot érte el.
+
+**Döntetlen esetén** közülük az nyer, akinek a kincstárában a legtöbb érme van. Ha továbbra is döntetlen az állás, többen osztoznak a győzelemben.
+
+**Megjegyzés**: A dobozban egy pontozótáblákat tartalmazó füzetet is találtok, hogy az első néhány játékotok alkalmával könnyebb legyen a számolás… vagy hogy lejegyezzétek emlékezetesebb játékaitokat!
+
+### A pontok összesítése
+
+A győzelmi pontokat a következő sorrendben számoljátok össze:
+
+1. Katonai konfliktusok
+2. A kincstár tartalma
+3. Csoda
+4. Civil létesítmények
+5. Tudományos létesítmények
+6. Kereskedelmi létesítmények
+7. Céhek
+
+#### 1. Katonai konfliktusok
+
+Minden játékos összeadja a győzelem- és vereségjelzőin szereplő pontokat (ez az összeg negatív is lehet!).
+
+**Például**: Alexandria a következő jelzőkkel fejezte be a játékot: +1, +3, +5, -1, -1, -1, melyeknek összege 6 pont.
+
+#### 2. A kincstár tartalma
+
+A játék végén a játékosok a tulajdonukban lévő pénz után **3 érménként kapnak 1 győzelmi pontot**. A kimaradt érmék nem hoznak pontot.
+
+**Például**: Alexandria 14 érmével a kincstárában fejezte be a játékot, amivel 4 győzelmi pontot szerez (4×3 érme, plusz a kimaradt érmék).
+
+#### 3. Csodák
+
+Ezután minden játékos hozzáadja pontjaihoz a csodájából szerzett pontokat.
+
+**Például**: Alexandria kiépítette csodájának mindhárom szintjét (A oldal), ezért pontszámához 10 győzelmi pontot adhat (3-at az első szintért és 7-et a harmadikért).
+
+#### 4. Civil létesítmények
+
+Minden játékos összeadja civil létesítményeinek győzelmi pontjait. A pontokat a civil létesítmények kártyáin láthatjuk.
+
+**Például**: Alexandria a következő civil létesítményeket építette meg: Oltár (Altar) (2 pont), Csatornahíd (5 pont) és Városháza (6 pont). Ez összesen 13 győzelmi pontot ér.
+
+#### 5. Tudományos létesítmények
+
+A tudományos kártyák kétféleképpen hoznak győzelmi pontot: az azonos szimbólumú lapok csoportjai után, valamint a 3 különböző szimbólumú kártyák csoportjai után.
+
+**Figyelem!** A két módszerrel szerzett győzelmi pontok összeadódnak.
+
+##### Egyforma szimbólumú kártyákból álló csoport
+
+A játékos a következő pontokat nyeri meg a 3 létező tudományos szimbólum mindegyike esetén:
+
+- 1 szimbólum esetén: 1 győzelmi pont
+- 2 azonos szimbólum esetén: 4 győzelmi pont
+- 3 azonos szimbólum esetén: 9 győzelmi pont
+- 4 azonos szimbólum esetén: 16 győzelmi pont
+
+**Megjegyzés**:
+- A kapott pontszámok megegyeznek a szimbólumok számának négyzetével.
+- Minden szimbólumból 4 kártya van, tehát szimbólumonként legfeljebb 16 győzelmi pont gyűjthető.
+- A Tudományos céhvel és Babilon csodájával ez a maximum érték növelhető: 5 azonos szimbólum esetén 25 győzelmi pontot, 6 azonos szimbólum esetén 36 győzelmi pontot gyűjthetünk.
+
+**Például**: Alexandria 6 tudományos létesítményt épített meg a következő szimbólumokkal: 3 (összadás jel), 2 (szorzás jel), 1 (szögletes jel). 9 pontot kap a 3 csoportjáért (3×3), 4 pontot hoz a (2×2) és végül 1 pontot hoz a (1×1), vagyis összesen 14 pontot.
+
+##### 3 különböző szimbólumú kártyából álló csoportok
+
+A játékosoknak minden 3 különböző szimbólumból álló csoport **7 pontot** hoz.
+
+**Például**: A felső példát folytatva, Alexandria 6 tudományos létesítményt épített meg, de csak egyetlen olyan csoportja van, amely 3 különböző szimbólumból áll. Ez további 7 pontot hoz, amivel összesen 21 pontja lesz. Ha Alexandria városa épített volna még egy szimbólumú létesítményt, pontszámai a következőképpen alakultak volna: (9+4+4)+(7+7)= 31 győzelmi pont.
+
+#### 6. Kereskedelmi létesítmények
+
+Néhány kereskedelmi létesítmény, amely a III. korban épült meg, győzelmi pontokat hoz.
+
+**Például**: Alexandria megépíti a Kereskedelmi kamarát (Chamber of Commerce). Ez az épület a városban lévő szürke kártyák mindegyike után 2 győzelmi pontot hoz. Alexandria két szürke kártyát játszott ki: ez 4 győzelmi pontot jelent.
+
+#### 7. Céhek
+
+A játékos városának és/vagy a szomszédos városoknak a kártyáitól függően minden céh bizonyos számú győzelmi pontot hoz (lásd a létesítmények leírását).
+
+---
+
+## Stratégiai tanácsok
+
+- **Blokkold ellenfeledet**: A 7 Wonders megnyeréséhez mindkét szomszéd városon rajta kell tartanod a szemed, hogy megfigyeld stratégiájukat. Próbáld őket blokkolni olyan kártyák használatával, amelyekkel előnyökhöz juthatnának. Használhatod ezeket csodád szintjeinek kiépítésére, vagy eldobhatod őket, ha érmére van szükséged.
+
+- **Stratégiák**: Többféle stratégia vezethet a győzelemhez. Szakosodj egy-egy szín létesítményeire vagy gyűjts különböző típusú építményeket, viselj hadat vagy hagyd a hadsereget figyelmen kívül, termelj árukat bőségesen vagy támaszkodj a kereskedelemre…
+
+- **A fejlődés menete**: Ha tudományos létesítményeket építesz, próbálj különböző szimbólumokat gyűjteni, mivel többnyire azok hoznak több pontot.
+
+---
+
+## "Haladó" változat 2 játékosnak
+
+A következő szabályváltoztatásokkal a játék 2 személlyel is játszható lesz.
+
+A játék alapelemein kívül szükség lesz a dobozban található két különleges kártyára.
+
+**Vigyázat**: Azt tanácsoljuk, hogy előbb játsszatok pár játékot 3–7 játékossal, mielőtt kipróbáljátok a játék kétszemélyes variánsát!
+
+### A játék előkészületei (2 játékos)
+
+A játékosok ugyanazokat a kártyákat fogják használni, mint egy háromszemélyes játék során (csak a 3+-os kártyákat).
+
+Mindkét játékos kap egy táblát, és lehelyeznek egy harmadik táblát maguk mellé. A variáns hátralévő részében ezt a táblát a **Szabad városnak** fogjuk hívni.
+
+A **Határkártyát** a két játékos közé helyezzük.
+
+Minden játékos 7 kártyát kap, a maradék 7 kártya húzópakli lesz, amit képpel lefelé helyeznek el a Határkártya jobb oldalára.
+
+A Szabad város bal oldalán ülő játékos kezébe veszi a **Szabad város kártyát**.
+
+A játék kezdetén mindkét játékos, valamint a Szabad város is kap **3 érmét** a banktól.
+
+### A játék áttekintése (2 játékos)
+
+A játék menete hasonló, mint 3–7 játékos esetén.
+
+A különbség a Szabad város kezelésében van: a játékosok kijátszanak egy saját kártyát, majd a Szabad városnak még egyet.
+
+#### 1. Egy kártya kiválasztása (2 játékos)
+
+Az a játékos, akinek a kezében van a Szabad város, felhúzza a húzópakli első kártyáját, és a kezébe veszi.
+
+Ezután a játékos választ **két kártyát** a kezéből – egyet a saját városának, egyet pedig a Szabad városnak, míg ellenfele a szokásos módon választja ki a kártyáját.
+
+Ezután mindkét játékos a Határkártya mellé, a saját oldalára helyezi le a megmaradt kártyáit, saját oldalára.
+
+##### További részletek:
+
+A Szabad város **nem dobhat el kártyát**, hogy 3 érmét kapjon érte, csak akkor, ha nem tud kártyát kijátszani. Ekkor a játékosnak, ha lehetséges, olyan kártyát kell választania, amelyet a Szabad város ki tud játszani (létesítmény vagy a csoda építésére). Ezt a kártyát AZUTÁN választja ki, hogy a saját városához kijátszandó kártyát már kiválasztotta.
+
+#### 2. Akció (2 játékos)
+
+Az a játékos, akinél a Szabad város van, kijátssza a Szabad város kártyáját, majd saját kártyáját, miközben ellenfele a saját akcióját végrehajtja.
+
+##### A Szabad városra vonatkozó szabályok:
+
+- A kereskedelmi szabályoknak megfelelően a Szabad város **vásárolhat mindkét szomszédos várostól**. Ha egy alapanyag mindkét városban elérhető, a Szabad várost irányító játékos szabadon vásárolhat bármelyik szomszédjától (még akkor is, ha az ára a másik városban kevesebb lenne).
+
+- Ha a kártya, amely a Szabad város számára lett kiválasztva, az ingyenes építkezés előnyéhez juttatja a várost (lánc), ezt az ingyenes építkezést **KELL választani**.
+
+**Megjegyzés**: Egy kor hatodik körére csak egy kártya marad a Szabad város húzópaklijában. Ezt a kártyát ugyanakkor dobjuk el, amikor a játékosok hetedik és egyben utolsó lapját.
+
+#### 3. Haladjunk tovább a következő kártyákra (2 játékos)
+
+Miután mindhárom kártyát kijátszották, a játékosok elveszik a határ túloldalán lévő kártyákat. A következő körben a másik játékos fog a Szabad város képviseletében játszani, és így tovább, a játék végéig.
+
+**Például**: Gábor és Kriszti új játékba kezd. Mindketten kapnak 7 kártyát, és a maradék 7 kártyából létrehoznak egy húzópaklit a Határkártya jobb oldalán. A Szabad város bal oldalán (jobbra) ülő Kriszti a kezébe veszi a Szabad város kártyáját. A játék első körében Gábor kiválaszt egy kártyát a kezéből, és kijátssza azt, majd Kriszti felhúzza a húzópakli első kártyáját, és a kezébe veszi. Ezután választ egy kártyát a Szabad városnak, és egyet a saját városának. A játékosok felfedik kiválasztott kártyáikat a Szabad várossal kezdve, majd kijátsszák őket. Ezután felveszik a Határkártya túloldalán lévő kártyákat, így a Szabad város kártya Gáborhoz kerül a játék második körére. Így rajta a sor, hogy húzzon egy kártyát, és kijátsszon egyet a saját városának és a semleges városnak…
+
+### Egy kor vége (2 játékos)
+
+Minden korban cserélődik, hogy ki kezd a Szabad város kártyájával:
+
+- **I. kor**: A Szabad várostól balra ülő játékos kapja meg a kártyát.
+- **II. kor**: A Szabad várostól jobbra ülő játékos kapja meg a kártyát.
+- **III. kor**: A Szabad várostól balra ülő játékos kapja meg a kártyát.
+
+A Konfliktusok eldöntésére vonatkozó szabályok változatlanok maradnak.
+
+### A játék vége (2 játékos)
+
+Az a játékos nyeri meg a játékot, akinek a legtöbb győzelmi pontja van. Döntetlen esetén az a játékos lesz a győztes, aki a kincstárába több érmét gyűjtött.
+
+---
+
+## A csodák leírása
+
+A változatos játék érdekében a városokat és azok csodáit 7 db kétoldalú tábla (A és B) jelképezi.
+
+[ÁBRA MAGYARÁZAT: Minden csoda táblán látható az építési költségek szintenkénti bontása, a bónuszok, és a táblán baloldalt látható az az alapanyag vagy termék, amelyet a csoda termel a játék kezdetétől.]
+
+### [A] Oldal
+
+A Csodák "A" oldala azonos elv alapján van elrendezve:
+- Az első szint 3 győzelmi pontot ér.
+- A harmadik szint 7 győzelmi pontot ér.
+- A második szint a Csoda saját különleges hatásait biztosítja.
+
+**Figyelem!** A táblák által előállított nyersanyagok vagy termékek nem számítanak kártyának.
+
+#### A rodoszi Kolosszus (A oldal)
+
+A játékos minden katonai konfliktus lejátszása során 2 pajzsot adhat pajzsai számához.
+
+#### Az alexandriai világítótorony (A oldal)
+
+A játékos minden körben kaphat egy választása szerinti alapanyagot a 4 nyersanyagtípus (kő, agyag, fa, érc) valamelyikéből.
+
+**Magyarázat**: Ezt az alapanyagot nem lehet kereskedelem útján eladni.
+
+#### Az epheszoszi Artemisz-templom (A oldal)
+
+A játékos elvesz 9 érmét a bankból, és a saját kincstárához adja.
+
+**Figyelem!** A 9 érmét csak egyszer vesszük el a bankból, rögtön a szint megépítése után.
+
+#### A babiloni függőkertek (A oldal)
+
+A játék végén a játékos egy választása szerinti extra tudományos szimbólumhoz juthat.
+
+**Figyelem!** A szimbólumot a játék végén, a győzelmi pontok összeszámolásakor kell kiválasztani, és nem akkor, mikor a csoda szintje megépül.
+
+#### Az olümpiai Zeusz-szobor (A oldal)
+
+A játékos minden korban egyszer ingyen építhet meg egy választása szerinti létesítményt.
+
+A játékos áthelyezheti a szint megépítését jelző kártyát a csodatábla fölé, majd koronként áthelyezheti alá, amikor kihasználja ezt a képességet.
+
+#### A halikarnasszoszi mauzóleum (A oldal)
+
+A játékos átnézheti a játék elejétől eldobott kártyákat (azokat, amelyeket érmékért dobtak el és azokat is, melyeket a korok végén), választhat egyet és megépítheti ingyen.
+
+Ez a különleges képesség annak a körnek a végén lép életbe, amelyben a szint megépül. Ha a játékosok ebben a körben dobnak el kártyákat (pl. ha ez egy kor hatodik köre volt), a játékos ezek közül is választhat.
+
+#### A gízai piramisok (A oldal)
+
+A piramisoknak nincsenek különleges képességeik, második szintjük 5 győzelmi pontot hoz.
+
+### [B] Oldal
+
+A Csodák "B" oldala némileg összetettebb. Ennek ellenére mindkét oldal kiegyensúlyozott marad és "A" és "B" oldalak egyaránt használhatók ugyanabban a játékban.
+
+#### A rodoszi Kolosszus (B oldal)
+
+A Kolosszust két szintből építjük meg:
+- Az első szint 1 pajzsot, 3 érmét és 3 győzelmi pontot hoz.
+- A második szint 1 pajzsot, 4 érmét és 4 győzelmi pontot hoz.
+
+#### Az alexandriai világítótorony (B oldal)
+
+- Az első szintért a játékos minden körben egy választása szerinti alapanyagot kap a 4 fajta nyersanyagtípus (kő, agyag, fa, érc) valamelyikéből.
+- A második szintért a játékos minden körben egy választása szerinti alapanyagot kap a 3 fajta kézműves terméktípus (üveg, szövet, papirusz) valamelyikéből.
+- A harmadik szint 7 győzelmi pontot ér.
+
+**Figyelem!** Ezeket az alapanyagokat és termékeket nem vásárolhatják meg a szomszédos városok.
+
+#### Az epheszoszi Artemisz-templom (B oldal)
+
+- Az első szint 4 érmét és 2 győzelmi pontot hoz.
+- A második szint 4 érmét és 3 győzelmi pontot hoz.
+- A harmadik szint 4 érmét és 5 győzelmi pontot hoz.
+
+Az érméket csak egyszer vesszük el a bankból, rögtön a szint megépítése után.
+
+#### A babiloni függőkertek (B oldal)
+
+- Az első szint 3 győzelmi pontot hoz.
+- A második szint lehetővé teszi, hogy a játékos a hetedik kártyáját ne dobja el, hanem kijátszhassa azt. Ezt a kártyát kijátszhatja költségei kifizetésével, eldobhatja 3 érméért vagy megépítheti vele a csodája harmadik szintjét.
+- A harmadik szintért a játékos kap egy választása szerinti tudományos szimbólumot.
+
+##### További részletek:
+
+- Így a hatodik kör során a játékos kijátszhatja a kezében lévő mindkét kártyáját. Ha a csoda második szintje még nem épült meg, a babiloni játékos megépítheti a hatodik körében is, majd rögtön kijátszhatja a hetedik kártyáját ahelyett, hogy eldobná azt.
+- A szimbólumot a játék végén kell kiválasztani, és nem abban a körben, mikor a csoda szintje megépül.
+
+#### Az olümpiai Zeusz-szobor (B oldal)
+
+- Az első szint megépítésével a játékos 2 érme helyett 1-ért vásárolhat nyersanyagokat (kő, agyag, fa, érc) a két szomszédos városból.
+- A második szint 5 győzelmi pontot hoz.
+- A harmadik szint megépítéséért a játékosok „lemásolhatnak" egy választásuk szerinti céhet (lila kártya), amelyet valamelyik szomszédos városban építettek fel.
+
+##### További részletek:
+
+- Az első szint egyenértékű a keleti vagy nyugati kereskedelmi ügynökséggel (sárga kártyák): hatásuk összeadódik, de a két ügynökség megépítésére továbbra is lehetőség van…
+- A harmadik szintért a játék végén választanak céhet, a győzelmi pontok összeszámolásánál. A játékos úgy adja össze pontszámait, mintha megépítette volna azt a céhet.
+- A céh lemásolása nem lesz hatással a céh tulajdonosára.
+
+#### A halikarnasszoszi mauzóleum (B oldal)
+
+- Az első szint 2 győzelmi pontot hoz, és a játékos megnézheti a játék eleje óta eldobott összes lapot, kiválaszthat egyet közülük és ingyen megépítheti azt.
+- Az második szint 1 győzelmi pontot hoz, és a játékos megnézheti a játék eleje óta eldobott összes lapot, kiválaszthat egyet közülük és ingyen megépítheti azt.
+- A harmadik szint megépítésekor a játékos megnézheti a játék eleje óta eldobott összes lapot, kiválaszthat egyet közülük, és ingyen megépítheti azt.
+
+Ezt a különleges akciót annak a körnek a végén hajtjuk végre, amelyben a szint megépül. Ha a játékosok kártyákat dobnak el ebben a körben (például ha ez egy kor hatodik köre), a játékos azokból a kártyákból is választhat.
+
+#### A gízai piramisok (B oldal)
+
+A piramisok 4 szintből épülnek fel, és mindegyikük győzelmi pontot ér (3, 5, 5, 7), összesen 20 pontot.
+
+---
+
+## A szimbólumok leírása
+
+### Az I. kor kártyái szimbólumai
+
+**Nyersanyagok**:
+- Agyag
+- Érc
+- Kő
+- Fa
+
+A kártya minden körben a képen látható **két alapanyag egyikét** termeli.
+
+**Magyarázat**: A játékos használhatja az egyik VAGY a másik alapanyagot egy létesítmény (vagy egy csoda szintjének) megépítésére, de egy körben NEM használhatja fel mindkettőt. A szomszédos városok bármelyikét megvásárolhatják, attól függetlenül, hogy tulajdonosa melyik termelését választja.
+
+**Kézműves termékek**:
+- Üveg
+- Szövet
+- Papirusz
+
+A kártya a képen látható kézműves termékek egyikét termeli.
+
+**Egyéb szimbólumok**:
+- A kártya a képen látható győzelmi pontot ér.
+- A kártya 1 pajzsot ad.
+- A kártyát a győzelmi pontok számolásakor vesszük figyelembe.
+- A kártyát a győzelmi pontok számolásakor vesszük figyelembe.
+- A kártyát a győzelmi pontok számolásakor vesszük figyelembe.
+- A kártya a képen látható érméket ér, az érméket csak egyszer vesszük ki a bankból, a kártya kijátszásakor.
+
+### A II. kor kártyái szimbólumai
+
+- A kártya a képen látható két nyersanyagot termeli.
+- A kártya 2 pajzsot ad.
+- A kártya 1 érmét hoz a játékosnak a városában ÉS a két szomszédos városban megépített minden barna kártyáért.
+
+**Magyarázat**: A szomszédos városnak azok a barna kártyái számítanak, melyek abban a körben már megépültek, amelyikben a Nyomdát (Vineyard) számoljuk el.
+
+- A kártya 2 érmét hoz a játékosnak a városában ÉS a két szomszédos városban megépített minden szürke kártyáért.
+
+**Magyarázat**: A szomszédos városnak azok a szürke kártyái számítanak, melyek abban a körben már megépültek, amelyikben a Bazárt (Bazaar) számoljuk el.
+
+- A kártya a képen látható négy nyersanyag egyikét fogja termelni minden körben, a játékos választásának megfelelően.
+
+**Figyelem!** Ezeket az alapanyagokat nem vásárolhatják meg a szomszédos városok.
+
+- A kártya a képen látható három kézműves termék egyikét fogja termelni, a játékos választásának megfelelően.
+
+**Figyelem!** Ezeket az alapanyagokat nem vásárolhatják meg a szomszédos városok.
+
+### A III. kor kártyái szimbólumai
+
+- A kártya 3 pajzsot ad.
+- A kártya 3 érmét hoz a saját városában megépített csodának minden megépített szintjéért, amely a kártya kijátszásának pillanatában már elkészült (3, 6, 9 vagy 12 pont). A játék végén a kártya 1 győzelmi pontot fog hozni a saját város csodájának megépített szintjeiért (1, 2, 3 vagy 4).
+- A kártya 1 érmét hoz kijátszásakor a játékos városában megépített barna kártyákért. A játék végén a kártya 1 győzelmi pontot hoz a játékos városában megépített minden barna kártyáért.
+- A kártya 2 érmét hoz kijátszásakor a játékos városában megépített szürke kártyákért. A játék végén a kártya 2 győzelmi pontot hoz a játékos városában megépített minden szürke kártyáért.
+- A kártya 1 érmét hoz kijátszásakor minden, a játékos által korábban kijátszott sárga kártyáért. A játék végén a kártya 1 győzelmi pontot hoz a játékos városában megépített minden sárga kártyáért.
+
+**Magyarázat az Arénához (Arena), a Kikötőhöz (Port), a Kereskedelmi Kamarához (Chamber of Commerce) és a Világítótoronyhoz (Lighthouse)**: Az érméket csak egyszer vesszük el, akkor, amikor a létesítmény megépül. A győzelmi pontokat a játék végén számoljuk össze a megépült kártyák és a Csodák szintjei szerint.
+
+### Céhek szimbólumai
+
+A legtöbb céh győzelmi pontokat hoz a szomszédjaid által megépített épületek után.
+
+**Megjegyzés**: Az ábrázolt kártya két oldalán lévő két nyíl azt jelenti, hogy a szomszédos város kártyáit számítjuk, de annak a játékosnak a kártyáit nem, akinek a kártya a tulajdonában van.
+
+#### Céhek leírása:
+
+- **Kémek céhe**: 1 győzelmi pont minden szomszédos városban leépített piros kártyáért.
+- **Elöljárók céhe**: 1 győzelmi pont minden szomszédos városban leépített kék kártyáért.
+- **Munkások céhe**: 1 győzelmi pont minden szomszédos városban leépített barna kártyáért.
+- **Kézművesek céhe**: 2 győzelmi pont minden szomszédos városban leépített szürke kártyáért.
+- **Kereskedők céhe**: 1 győzelmi pont minden szomszédos városban leépített sárga kártyáért.
+- **Filozófusok céhe**: 1 győzelmi pont minden szomszédos városban leépített zöld kártyáért.
+
+#### Különleges céhek:
+
+- **Építők céhe**: 1 győzelmi pontot kapsz a saját ÉS a szomszédos városokban lévő csodák minden megépült szintjéért.
+- **Hajótulajdonosok céhe**: 1 győzelmi pontot kapsz a városodban lévő mindegyik barna, szürke és lila kártyáért. **Figyelem!** Ebbe a Hajótulajdonosok céhe kártya is beleszámít.
+- **Hadvezérek céhe**: 1 győzelmi pontot kapsz minden vereségjelzőért, ami a két szomszédos városban van.
+- **Tudósok céhe**: A játékos kap egy választása szerinti extra tudományos szimbólumot. A szimbólum kiválasztása a játék végén történik és nem a Céh megépítésekor.
+
+**Figyelem!** A táblák által termelt alapanyagokat NEM tekintjük kártyáknak (Szőlőskert (Vineyard), Bazár, céhek, …).
+
+---
+
+## Kártyák listája és láncok
+
+### I. Kor kártyák
+
+**Barna kártyák (Nyersanyagok)**:
+- Lumber Yard (Fatelep) - 3+
+- Stone Pit (Kőbánya) - 3+
+- Clay Pool (Agyaggyűjtő) - 3+
+- Ore Vein (Ércforrás) - 3+
+- Tree Farm (Fatenyészet) - 6+
+- Excavation (Ásatás) - 4+
+- Clay Pit (Agyagbánya) - 3+
+- Timber Yard (Fatelep) - 3+
+- Forest Cave (Erdei barlang) - 5+
+- Mine (Bánya) - 6+
+
+**Szürke kártyák (Kézműves termékek)**:
+- Loom (Szövőszék) - 3+, 6+
+- Press (Nyomda) - 3+, 6+
+- Glassworks (Üveggyár) - 3+, 6+
+
+**Kék kártyák (Civil létesítmények)**:
+- Altar (Oltár) - 3+
+- Apothecary (Patikus) - 3+, 5+
+- Barracks (Barakk) - 3+
+- Baths (Fürdő) - 3+
+- Theater (Színház) - 3+, 6+
+- Pawnshop (Zálogház) - 4+, 7+
+
+**Sárga kártyák (Kereskedelmi létesítmények)**:
+- Marketplace (Piac) - 3+
+- East Trading Post (Keleti Kereskedelmi Ügynökség) - 3+
+- West Trading Post (Nyugati Kereskedelmi Ügynökség) - 3+
+- Tavern (Fogadó) - 4+, 5+, 7+
+
+**Piros kártyák (Katonai létesítmények)**:
+- Stockade (Cölöpkerítés) - 3+, 4+
+- Guard Tower (Őrtorony) - 3+, 7+
+
+### II. Kor kártyák
+
+**Barna kártyák**:
+- Sawmill (Fűrésztelep) - 3+, 4+
+- Quarry (Kőfejtő) - 3+, 4+
+- Brickyard (Téglagyár) - 3+, 4+
+- Foundry (Öntöde) - 3+, 4+
+
+**Szürke kártyák**:
+- Loom (Szövőszék) - 3+, 5+
+- Press (Nyomda) - 3+, 5+
+- Glassworks (Üveggyár) - 3+, 5+
+
+**Kék kártyák (Civil)**:
+- Aqueduct (Vízvezeték) - 3+
+- Archery Range (Íjászterület) - 3+, 6+
+- Bazaar (Bazár) - 3+, 7+
+- Dispensary (Gyógyszertár) - 3+, 4+
+- Forum (Fórum) - 3+, 6+
+- Haven (Kikötő) - 3+, 6+
+- Library (Könyvtár) - 3+, 6+
+- Lodge (Kunyhó) - 3+, 6+
+- School (Iskola) - 3+, 7+
+- Statue (Szobor) - 3+, 6+
+- Temple (Templom) - 3+, 7+
+- Training Ground (Gyakorló terep) - 3+, 7+
+- Courthouse (Bíróság) - 3+, 5+, 4
+- Senate (Szenátus) - 3+, 5+, 6
+
+**Zöld kártyák (Tudományos)**:
+- Scriptorium (Scriptorium) - 3+, 4+
+- Laboratory (Laboratórium) - 3+, 5+
+- School (Iskola) - 3+, 7+
+- Observatory (Csillagvizsgáló) - 3+, 7+
+- University (Egyetem) - 3+, 4+
+- Study (Dolgozószoba) - 3+, 5+
+- Academy (Akadémia) - 3+, 7+
+
+**Sárga kártyák (Kereskedelmi)**:
+- Caravansery (Karavánszeráj) - 3+, 5+, 6+
+- Vineyard (Szőlőskert) - 3+, 6+
+- Bazaar (Bazár) - 4+, 7+
+- Chamber of Commerce (Kereskedelmi kamara) - 4+, 6+
+- Lighthouse (Világítótorony) - 3+, 7+
+
+**Piros kártyák (Katonai)**:
+- Walls (Falak) - 3+, 7+
+- Training Ground (Gyakorló terep) - 4+, 7+
+- Circus (Cirkusz) - 4+, 6+, 7+
+- Armory (Fegyvertár) - 3+, 5+
+- Stables (Istálló) - 3+, 5+
+- Siege Workshop (Ostromműhely) - 3+, 5+
+- Arsenal (Arzenál) - 3+, 4+
+
+### III. Kor kártyák
+
+**Kék kártyák (Civil)**:
+- Pantheon (Panteon) - 3+, 7+
+- Gardens (Kertek) - 4+, 7+
+- Town Hall (Városháza) - 3+, 7+
+- Palace (Palota) - 3+, 7+
+- Circus (Cirkusz) - 3+, 5+, 6+
+
+**Zöld kártyák (Tudományos)**:
+- Observatory (Csillagvizsgáló) - 3+, 7+
+- Academy (Akadémia) - 3+, 7+
+
+**Sárga kártyák (Kereskedelmi)**:
+- Chamber of Commerce (Kereskedelmi kamara) - 4+, 6+, 7+
+- Lighthouse (Világítótorony) - 3+, 7+
+
+**Piros kártyák (Katonai)**:
+- Fortifications (Erőd) - 3+, 7+
+- Circus (Cirkusz) - 3+, 6+, 7+
+- Arsenal (Arzenál) - 3+, 4+
+
+**Lila kártyák (Céhek)**:
+- Workers Guild (Munkások céhe)
+- Traders Guild (Kereskedők céhe)
+- Craftsmens Guild (Kézművesek céhe)
+- Philosophers Guild (Filozófusok céhe)
+- Spies Guild (Kémek céhe)
+- Strategists Guild (Hadvezérek céhe)
+- Scientists Guild (Tudósok céhe)
+- Shipowners Guild (Hajótulajdonosok céhe)
+- Magistrates Guild (Elöljárók céhe)
+- Builders Guild (Építők céhe)
+
+---
+
+## Készítők
+
+- **Tervező**: Antoine Bauza
+- **Fejlesztés**: "A sombrerót viselő belgák", azaz Cédrick Caumont & Thomas Provoost
+- **Illusztráció**: Miguel Coimbra
+- **Tördelés**: Alexis – Halicarnassius 70 – Vanmeerbeeck
+
+Ezt a játékot Vincent Moirin emlékének ajánljuk, aki elhagyott bennünket a játék megjelenése előtt, de sok tesztelés során adta bele érzéseit a játékba.
+
+**A játék tesztelői**: Mikaël Bach, Fançoise Sengissen, Matthieu Houssais, Michaël Bertrand, Mathias Guillaud, Dominique Figuet, Jenny Godard, Maïa Houssais, Florian Grenier, Bruno Goube, Julie Politano, Bruno Cathala, Ludovic Maublanc, Milou, Fred, Cyberfab, Mimi, Thomas Cauet, Yves Phaneuf, a grenoble-i "Jeux en Société" klub tagjai, a Dragons Nocturnes játékest találkozók tagjai, a Belgo-Ludiques 2010 játékosai, a Cannes FIJ "Offs" résztvevői, a Gathering of Friends 2010 játékosai, a ludopathique találkozók játékosai, a Toulouse fesztivál játékosai.
+
+**Javítások**: Didier Aldebert, Bruno Goube
+
+**Angol fordítás**: Eric Harlaux
+
+**Átnézés**: Eric Franklin, Konstantinos Theodorakakos
+
+**Fordítás**: Csikós Krisztina (X-ta) és Molnár László (Lacxox)
+
+A szerző köszönetet mond Bruno Cathalának a kétszemélyes játékszabályokhoz adott ötleteiért.
+
+A Sombrerót viselő belgák köszönetet mondanak Geoff – Imma break your face – Picardnak, Alexis – bocce – Desplats-nak, Philippe Mouret-nak, John – I cut prototypes – Bernynek, A la guerre-nek, aki magára fog ismerni, ahogy a saját Cyborgjára is, a Liège Objectifseux Clubnak, 20.100-nak, A Feu.F.L.AN szervezőinek, Stefan Glaubitznak.
+
+**Importálja és forgalmazza**: Gém Klub Kft, 1092 Bp Ráday u. 30/B. www.gemklub.hu
+
+© REPOS PRODUCTION 2010 MINDEN KIADÁSRA. MINDEN JOG FENNTARTVA A REPOS PRODUCTION KIZÁRÓLAGOS ENGEDÉLYÉVEL.
+
+7 WONDERS is a game of REPOS PRODUCTION.
+
+Tel. +32 (0) 477254518 • 7, Rue Lambert Vandervelde • 1170 Bruxelles - Belgique • www.rprod.com
+
+© REPOS PRODUCTION 2010. ALL RIGHT RESERVED.
+
+This material may only be used for private entertainment.
