@@ -8,6 +8,7 @@
   "scripts": {
     "cli": "tsx src/apps/cli/main.ts",
     "web": "vite --config src/apps/web/vite.config.ts",
+    "convert-rulebooks": "tsx src/apps/rule-book-converter/main.ts",
     "test": "vitest run",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit"

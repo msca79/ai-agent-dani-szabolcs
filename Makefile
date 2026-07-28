@@ -6,3 +6,6 @@ cli:
 
 web:
 	npm run web
+
+pdf:
+	npm run convert-rulebooks -- rulebooks
