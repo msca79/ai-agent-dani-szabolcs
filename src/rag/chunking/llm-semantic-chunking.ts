@@ -2,9 +2,9 @@ import type Anthropic from '@anthropic-ai/sdk';
 import { zodOutputFormat } from '@anthropic-ai/sdk/helpers/zod';
 import { z } from 'zod';
 import { getAnthropicClient } from '../../agents/client/anthropic-client';
+import { RAG_LLM_MODEL } from '../rag-llm-model';
 import type { Chunk, ChunkingResult } from './chunk';
 
-const MODEL = 'claude-haiku-4-5';
 const MAX_TOKENS = 4096;
 
 const sectionsSchema = z.object({
@@ -51,7 +51,7 @@ export async function chunkLlmSemantic(
   const numberedText = lines.map((line, index) => `${index + 1}: ${line}`).join('\n');
 
   const response = await client.messages.parse({
-    model: MODEL,
+    model: RAG_LLM_MODEL,
     max_tokens: MAX_TOKENS,
     system: SYSTEM_PROMPT,
     messages: [{ role: 'user', content: numberedText }],
