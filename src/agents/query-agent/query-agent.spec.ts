@@ -54,7 +54,10 @@ describe('queryAgent', () => {
     await queryAgent('szia', { client, pool });
 
     expect(stream.mock.calls[0][0].system).toEqual(QUERY_AGENT_SYSTEM_PROMPT);
-    expect(stream.mock.calls[0][0].tools).toEqual([expect.objectContaining({ name: 'run_sql' })]);
+    expect(stream.mock.calls[0][0].tools).toEqual([
+      expect.objectContaining({ name: 'run_sql' }),
+      expect.objectContaining({ name: 'search_knowledge' }),
+    ]);
   });
 
   it('should execute run_sql against the given pool and return the final answer', async () => {

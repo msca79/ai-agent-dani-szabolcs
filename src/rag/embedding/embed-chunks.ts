@@ -1,8 +1,7 @@
 import type OpenAI from 'openai';
 import type { Chunk } from '../chunking/chunk';
+import { EMBEDDING_MODEL } from './embedding-model';
 import { getOpenAiClient } from './openai-client';
-
-const MODEL = 'text-embedding-3-small';
 
 export interface EmbeddedChunk {
   chunk: Chunk;
@@ -20,7 +19,7 @@ export async function embedChunks(chunks: Chunk[], client: OpenAI = getOpenAiCli
   }
 
   const response = await client.embeddings.create({
-    model: MODEL,
+    model: EMBEDDING_MODEL,
     input: chunks.map((chunk) => chunk.text),
   });
 
