@@ -7,13 +7,13 @@ AI: 5%
 - Sajnos közben a commit history szétesett, kerültek bele olyan kommitok amik nem túl összeszedettek.  Még ha lesz időm squasholok egyet rajta. 
 
 ## Linkek, ha sietsz :)
-https://github.com/msca79/ai-agent-dani-szabolcs/blob/main/docs/hazifeladat3-run1.md
-https://github.com/msca79/ai-agent-dani-szabolcs/tree/main/golden-set-runs/20260729-140431
-https://github.com/msca79/ai-agent-dani-szabolcs/tree/main/rulebooks
-https://github.com/msca79/ai-agent-dani-szabolcs/blob/main/docs/architektura.md
-https://github.com/msca79/ai-agent-dani-szabolcs/tree/main/src/rag
-https://github.com/msca79/ai-agent-dani-szabolcs/tree/main/src/apps/rule-book-converter
-https://github.com/msca79/ai-agent-dani-szabolcs/tree/main/src/tools/search-knowledge
+https://github.com/msca79/ai-agent-dani-szabolcs/blob/main/docs/hazifeladat3-run1.md   
+https://github.com/msca79/ai-agent-dani-szabolcs/tree/main/golden-set-runs/20260729-140431   
+https://github.com/msca79/ai-agent-dani-szabolcs/tree/main/rulebooks   
+https://github.com/msca79/ai-agent-dani-szabolcs/blob/main/docs/architektura.md   
+https://github.com/msca79/ai-agent-dani-szabolcs/tree/main/src/rag   
+https://github.com/msca79/ai-agent-dani-szabolcs/tree/main/src/apps/rule-book-converter  
+https://github.com/msca79/ai-agent-dani-szabolcs/tree/main/src/tools/search-knowledge    
 
 
 ## 1., Use case és tudásbázis
