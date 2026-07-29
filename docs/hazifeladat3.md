@@ -65,11 +65,6 @@ melyik modell mit csinál, és miért pont az.
  - példa futás a `hazifeladat3-run1.md` fájlban
 
 
-A grounding réteg (GROUNDING_ENABLED=false) ugyanígy kikapcsolható — ez főleg a negatív teszt bemutatásához hasznos: futtasd egyszer bekapcsolva (lásd, hogy a       
-rag_grounding esemény grounded: false-t jelez egy olyan kérdésre, aminek nincs válasza a tudásbázisban), majd kikapcsolva, hogy demonstráld, e nélkül a réteg nélkül a
-prompt-szabály "csak dísz" — a válasz ugyanaz marad, de nincs, ami jelezze, hogy nem megalapozott.
-
-
 ## 4., Golden Set
 ```
 Állíts össze 5–10 kérdésből álló tesztkészletet a saját domainedből, és futtasd le mindet kétféleképpen:
