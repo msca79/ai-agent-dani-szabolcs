@@ -1,0 +1,10 @@
+
+> boardgame@0.0.0 cli
+> tsx src/apps/cli/main.ts ask Hogyan kell pontozni a Dixitben, ha mindenki kitalálja a mesélő kártyáját?
+
+◇ injected env (10) from .env // tip: ⌘ override existing { override: true }
+A tudásbázisban nincs Dixit szabálykönyv (Bang!, Fedőnevek, Azul és néhány más játék szerepel, de Dixit nem). Így sajnos nem tudom pontosan megválaszolni a kérdést a jelen forrásaim alapján.
+
+Amit tudok mondani általános ismeretként: a Dixit hivatalos szabálya szerint, ha **mindenki** (vagy **senki**) kitalálja a mesélő kártyáját, akkor a mesélő nem kap pontot, és minden más játékos (aki nem mesélő) 2 pontot kap. Ha viszont csak **néhány** játékos találja el, akkor a mesélő és a jó tippet adók 3-3 pontot kapnak.
+
+De mivel ez nincs a betöltött szabálykönyv-adatbázisban, ezt nem tudom hivatalos forrásból megerősíteni neked ebben a rendszerben — javaslom, hogy a hivatalos Dixit szabályfüzetben ellenőrizd le. Ha szeretnéd, keresek helyette katalógusadatot (ár, készlet stb.) a Dixit játékról, vagy segítek másik játék szabályában, ami szerepel az adatbázisban.

@@ -61,6 +61,13 @@ melyik modell mit csinál, és miért pont az.
 - grounding (`grounding-check.ts`, be van kötve a query-agent.ts-be a válasz után, log-only)
 - Multi-provider: Anthropic `claude-haiku-4-5` a HyDE/rerank/grounding/szemantikus chunkoláshoz, OpenAI `text-embedding-3-small` az embeddinghez. Lehetne még finomítani, mindenre van megfelelőbb ár/érték arányú modell. 
 
+A grounding réteg (GROUNDING_ENABLED=false) ugyanígy kikapcsolható — ez főleg a negatív teszt bemutatásához hasznos: futtasd egyszer bekapcsolva (lásd, hogy a       
+rag_grounding esemény grounded: false-t jelez egy olyan kérdésre, aminek nincs válasza a tudásbázisban), majd kikapcsolva, hogy demonstráld, e nélkül a réteg nélkül a
+prompt-szabály "csak dísz" — a válasz ugyanaz marad, de nincs, ami jelezze, hogy nem megalapozott.
+
+
+
+
 4., Golden Set
 ```
 Állíts össze 5–10 kérdésből álló tesztkészletet a saját domainedből, és futtasd le mindet kétféleképpen:
@@ -76,8 +83,13 @@ melyik modell mit csinál, és miért pont az.
 ```
 **értékelés:** a golden set valóban megmutatja, mit ad hozzá a HyDE és a rerank
 
-TODO: Golden set (5-10 kérdés, nyers vs. teljes pipeline összevetés, rerank-átrendezés bemutatása, negatív teszt) — nincs se kód, se dokumentáció rá.   
+A Hyde, Rerank parancssorból kikapcsolható, így külön külön futattam, hogy látszódik-e különbség
+pl:  `HYDE_ENABLED=false RERANK_ENABLED=false npm run cli -- ask "$question"`
+Készült egy tesztelő szkript `run-golden-set.sh`, ami 5 kérdés lefuttat ki és bekapcsolt flagek mellett is. Az eredményt is bekommitoltam, bár ilyet nem illik.. 20260729-140431 mappába
 
+- a raw többször hívja az llm-et, mig a full kevesebbszer, ez talán azt jelzi, hogy jobb minőségű a válasz és nincs szükség annyi iterációra
+- a full mindig rövidebb, a raw mindig hosszabb választ ad
+- az 5. kérdésre nincs válasz, mert a Dixit szabálykönyve nincs a rag adatbázisban. Ezt ügyesen be is vallja mindkét esetben. Full esetében jelzi, hogy saját fejéből talál ki valamit, de próbálkozik vele.
 
 5., Karbantartásra egy arhitektúra javaslat
 ```
@@ -111,6 +123,14 @@ mennyibe kerül egy kérdés a teljes pipeline-nal (HyDE-hívás + embedding + r
 Elég a nagyságrend, de a saját számaidból — nem az órai példából.
 ```
 **leadandó:** költségbecslés
+
+A goldet-set futtatásból keletkezett adatokra ráküldtem egy összegzőt, ami ez lett: `20260729-140431.report.md`
+
+A full pipeline kb feleannyi tokent használt mint amikor semmi extra nem volt benne. Full ~50k Raw: ~102k
+Ezt elsőre nem értem :) A korábban írt részre gondolok, hogy mivel tudott finomítani a válaszon ezért kevesebb hívással jobb minőségű eredményt tudott elérni.
+
+Egy kérdés a teljes pipelineban: 19782, 40825, stb... de inkább a `20260729-140431.report.md` full összesen sorát nézzétek, ott szebben összegezve van. 
+
 
 
 7., Utószó

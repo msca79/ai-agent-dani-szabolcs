@@ -1,0 +1,15 @@
+
+> boardgame@0.0.0 cli
+> tsx src/apps/cli/main.ts ask Mi történik, ha a Hanabiban hibásan dobok el egy lapot?
+
+◇ injected env (10) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+Fontos tisztázás: a Hanabiban maga az **eldobás** sosem lehet „hibás” – bármelyik lapot eldobhatod (kivéve, ha épp minden kék jelölő a dobozban van, ilyenkor nem az eldobást kell választanod). Ha eldobsz, visszakapsz egy kék jelölőt, a lap a dobott lapok közé kerül, és húzol helyette egy újat.
+
+Amire valószínűleg gondolsz, az a **hibás kijátszás**:
+- Ha egy lapot ki akarsz **játszani** (nem eldobni), és az nem illeszkedik szabályosan az adott tűzijátékhoz (rossz szín/érték), akkor:
+  - a lap a dobott lapok paklijára kerül,
+  - és egy **piros jelölőt** kell betenni a dobozba.
+- Ezután húzol egy új lapot, ahogy máskor is.
+- Ha a **3. piros jelölő** is bekerül a dobozba, a játéknak azonnal vége, és a csapat **0 pontot** kap (mindegy, mennyi lapot raktak már ki addig).
+
+Szóval: eldobásnál nincs büntetés, csak kijátszásnál számít hibának, ha rossz lapot teszel le, és az piros jelölőt (életveszítést) eredményez.

@@ -1,0 +1,11 @@
+
+> boardgame@0.0.0 cli
+> tsx src/apps/cli/main.ts ask Hány pontot ér egy félkész kolostor a Carcassonne végén?
+
+◇ injected env (10) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+**Félkész (nyitott) kolostor** pontozása a játék végén ugyanúgy működik, mint alapjáték közben, csak nem kell teljesen körbeépítve lennie:
+
+- A kolostor lapkája maga **1 pontot** ér.
+- Minden mellette lévő (körülötte elhelyezett) tájlapka további **1-1 pontot** ér.
+
+Tehát ha pl. csak 3 szomszédos lapka épült a kolostor köré, akkor a szerzetest birtokló játékos **4 pontot** kap (1 a kolostorért + 3 a szomszédos lapkákért). Teljesen (mind a 8 szomszéddal) körülépített kolostor a maximális **9 pontot** érné.

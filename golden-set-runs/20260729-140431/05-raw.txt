@@ -1,0 +1,6 @@
+
+> boardgame@0.0.0 cli
+> tsx src/apps/cli/main.ts ask Hogyan kell pontozni a Dixitben, ha mindenki kitalálja a mesélő kártyáját?
+
+◇ injected env (10) from .env // tip: ⌘ override existing { override: true }
+Sajnos a Dixit szabálykönyve nincs a jelenlegi tudásbázisomban (csak más játékok, pl. 7 Csoda, Bang! szabályai szerepelnek nála), így erre a kérdésre nem tudok megbízható választ adni a rendelkezésre álló forrásokból. Ha van hozzáférhető Dixit szabálykönyv-fájl, töltsd fel, és utána szívesen kikeresem a pontos pontozási szabályt!

@@ -1,0 +1,15 @@
+
+> boardgame@0.0.0 cli
+> tsx src/apps/cli/main.ts ask Hány pontot ér egy félkész kolostor a Carcassonne végén?
+
+◇ injected env (10) from .env // tip: ◈ secrets for agents [www.dotenvx.com]
+A Carcassonne szabálykönyve szerint a **félkész (nem teljesen körbeépített) kolostor** a játék végén, a **végső értékelésnél** a következőképpen pontozódik:
+
+- A kolostor önmagában **1 pontot** ér.
+- Ezen felül **1-1 pontot** ér minden olyan tájlapka, amely ténylegesen körülveszi (tehát nem kell mind a 8-nak megvolnia, csak ami ténylegesen ott van).
+
+Vagyis a képlet: **1 (a kolostor) + a ténylegesen körülötte lévő lapkák száma**.
+
+Példa a szabálykönyvből: ha a kolostort csak 3 lapka veszi körül (a teljes 8 helyett), akkor 4 pontot ér (3 a körülvevő lapkákért + 1 a kolostorért).
+
+Egy **teljesen befejezett** kolostor (8 lapkával körülvéve) ezzel szemben a maximális **9 pontot** érné.

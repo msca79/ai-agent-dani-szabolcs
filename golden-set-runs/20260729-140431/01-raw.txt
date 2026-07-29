@@ -1,0 +1,12 @@
+
+> boardgame@0.0.0 cli
+> tsx src/apps/cli/main.ts ask Hogyan kell pontozni a leghosszabb kereskedelmi utat a Catanban?
+
+◇ injected env (10) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+A Catan (Catan telepesei) szabálykönyve szerint a **"Leghosszabb kereskedelmi út"** jutalomkártya pontozása így működik:
+
+- Amint egy játékosnak **legalább 5 megszakítás nélküli útszakaszból** álló összefüggő útvonala van (elágazásokat nem számoljuk, és sem idegen település, sem idegen város nem szakítja meg), megkapja a jutalomkártyát.
+- Ez a kártya **2 pontot** ér.
+- Ha egy másik játékos ezt követően **hosszabb** utat épít ki, a jutalomkártya azonnal átkerül hozzá (a régi tulajdonos elveszíti a 2 pontot).
+
+Tehát a lényeg: minimum 5 hosszú megszakítatlan útvonal kell hozzá, és mindig az aktuálisan leghosszabb útvonallal rendelkező játékosnál van a 2 pontos kártya.

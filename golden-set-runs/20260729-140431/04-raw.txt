@@ -1,0 +1,28 @@
+
+> boardgame@0.0.0 cli
+> tsx src/apps/cli/main.ts ask Hogyan kell felállítani a szereplőket az első kör elején a Colt Expressben?
+
+◇ injected env (10) from .env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+A szabálykönyv alapján a Colt Express felállása az alábbi lépésekben történik:
+
+**1. A vonat összeállítása**
+- A mozdonyt az asztal közepére kell tenni.
+- Mögé annyi vasúti kocsit kell csatlakoztatni, ahányan játszotok (3–6 fő esetén 3–6 kocsi).
+- A kocsik sorrendje szabadon választható.
+
+**2. Zsákmány elhelyezése**
+- Minden kocsiba az ábra szerinti zsákmányt (pénzeszsákok, drágakövek) kell tenni, számos oldallal lefelé, hogy értékük rejtve maradjon.
+- A **marsallfigurát és az egyik pénzszállító táskát a mozdonyba** kell helyezni.
+- A második pénzszállító táska a mozdony mellé kerül (nem a vonatra).
+- A maradék zsákmányjelzőket vissza kell tenni a dobozba.
+
+**3. Fordulókártyák előkészítése**
+- Ki kell választani véletlenszerűen 4 fordulókártyát (a játékosszámnak megfelelő – 2–4 vagy 5–6 fős – csomagból) és 1 vasútállomás-kártyát a 3 közül.
+- Ezeket meg kell keverni, és képpel lefelé egy pakliba rendezni úgy, hogy a vasútállomás-kártya legyen legalul.
+
+**4. Semleges tölténykártyák**
+- Mind a 13 semleges tölténykártyát a mozdony mellé kell helyezni.
+
+Ezután minden játékos kiválasztja a banditáját (karakterét), megkapja a hozzá tartozó akciókártya-paklit és a saját tölténykártyáit, majd kisorsolják a kezdőjátékost — innen indulhat az első forduló.
+
+Ha szeretnéd, a bandita-figurák pontos kezdő elhelyezéséről (melyik kocsiba/tetőre kerülnek) is tudok még utánanézni, ha ez konkrétan szerepel a könyvben egy külön ábránál.

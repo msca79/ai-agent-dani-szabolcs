@@ -1,0 +1,19 @@
+
+> boardgame@0.0.0 cli
+> tsx src/apps/cli/main.ts ask Hogyan kell felállítani a szereplőket az első kör elején a Colt Expressben?
+
+◇ injected env (10) from .env // tip: ⌘ override existing { override: true }
+A Colt Express kezdő felállása a következőképpen zajlik:
+
+**Banditák (szereplők) elhelyezése a vonaton:**
+- A **páratlan sorszámú** játékosok banditái a **leghátsó kocsiban** kezdenek.
+- A **páros sorszámú** játékosok banditái **egy kocsival közelebb a mozdonyhoz** kerülnek.
+
+**Ehhez kapcsolódó előkészületek:**
+1. Minden játékos választ egy karaktert (Ghost, Belle, Cheyenne, Tuco, Django vagy Doc), és maga elé teszi a karakterkártyáját.
+2. A karakterkártya bal oldalára kerül a 6 tölténykártya (növekvő sorrendben, számmal felfelé).
+3. A karakterkártya jobb oldalára kerül a megkevert, lefelé fordított 10 akciókártyából álló húzópakli.
+4. Mindenki kap egy 250 $-os pénzeszsákot, amit lefelé fordítva a karakterkártyájára helyez.
+5. A banditafigurák véletlenszerű kisorsolásával eldől, ki lesz az első kör kezdőjátékosa – ő kapja meg az 5 fordulókártyát.
+
+Ezután kezdődhet az első forduló a fenti banditapozíciókkal.
