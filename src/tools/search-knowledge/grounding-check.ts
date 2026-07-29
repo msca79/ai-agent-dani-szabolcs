@@ -8,7 +8,9 @@ import type { KnowledgeSearchResult } from './knowledge-search-result';
 // Ha be van kapcsolva, a query-agent a végső válasz elkészülte után
 // ellenőrizteti, hogy a válasz tényleg a beszélgetés során lekért
 // chunk-okon alapul-e — csak logol, a választ nem módosítja.
-export const GROUNDING_ENABLED = true;
+// Env-változóval felülírható (GROUNDING_ENABLED=false) a golden set
+// negatív tesztjének kikapcsolt-állapotú összehasonlításához.
+export const GROUNDING_ENABLED = process.env['GROUNDING_ENABLED'] !== 'false';
 
 const MAX_TOKENS = 512;
 

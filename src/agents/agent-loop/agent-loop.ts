@@ -66,6 +66,8 @@ export async function runAgentLoop(
       iteration,
       stopReason: response.stop_reason,
       content: response.content,
+      inputTokens: response.usage.input_tokens,
+      outputTokens: response.usage.output_tokens,
     });
 
     if (response.stop_reason !== 'tool_use') {

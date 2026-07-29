@@ -7,7 +7,10 @@ import { RAG_LLM_MODEL } from '../../rag/rag-llm-model';
 // embeddingjéhez, mint egy "elképzelt" válasz-szövegé. Ezért ezt a plugint
 // bekapcsolva nem a nyers kérdést, hanem egy erre írt hipotetikus
 // szabálykönyv-részletet embedelünk a kereséshez.
-export const HYDE_ENABLED = true;
+// Env-változóval felülírható (HYDE_ENABLED=false), hogy a golden set-et
+// nyers keresés vs. teljes pipeline összehasonlításban lehessen futtatni
+// kódmódosítás nélkül.
+export const HYDE_ENABLED = process.env['HYDE_ENABLED'] !== 'false';
 
 const MAX_TOKENS = 512;
 

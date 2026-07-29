@@ -80,10 +80,14 @@ export async function executeSearchKnowledge(
   }
 
   const reranked = await rerankChunks(input.query, candidates, TOP_K, anthropicClient);
+  const chunkId = (chunk: KnowledgeSearchResult): string => `${chunk.fileName}:${chunk.startLine}-${chunk.endLine}`;
   logAgentEvent('rag_rerank', {
     tokensUsed: reranked.tokensUsed,
-    candidateCount: candidates.length,
-    resultCount: reranked.chunks.length,
+    // A vektor-keresés eredeti sorrendje vs. a rerank utáni sorrend — ugyanazon
+    // azonosítókkal, hogy az átrendeződés (vagy annak hiánya) közvetlenül
+    // összevethető legyen a logból, LLM-hívás nélkül.
+    candidateOrder: candidates.map(chunkId),
+    rerankedOrder: reranked.chunks.map(chunkId),
   });
 
   return reranked.chunks;

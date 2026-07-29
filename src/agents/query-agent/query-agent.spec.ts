@@ -20,7 +20,7 @@ function makeFakeClient(...responses: Partial<Anthropic.Message>[]): {
     call++;
     const fakeStream: FakeStream = {
       on: () => fakeStream,
-      finalMessage: async () => response,
+      finalMessage: async () => ({ usage: { input_tokens: 0, output_tokens: 0 } as Anthropic.Usage, ...response }),
     };
     return fakeStream;
   });

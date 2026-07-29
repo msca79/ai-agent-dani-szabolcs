@@ -33,7 +33,7 @@ function makeFakeClient(...responses: Partial<Anthropic.Message>[]): {
             }
           }
         }
-        return response;
+        return { usage: { input_tokens: 0, output_tokens: 0 } as Anthropic.Usage, ...response };
       },
     };
 

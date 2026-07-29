@@ -8,7 +8,10 @@ import type { KnowledgeSearchResult } from './knowledge-search-result';
 // Ha be van kapcsolva, a vektor-keresés CANDIDATE_POOL_SIZE jelöltet hoz
 // vissza (a végleges top-K helyett), és egy LLM válogatja/rendezi ki közülük
 // a legjobb top-K-t az EREDETI kérdéshez képest (nem a HyDE-dokumentumhoz).
-export const RERANK_ENABLED = true;
+// Env-változóval felülírható (RERANK_ENABLED=false), hogy a golden set-et
+// nyers keresés vs. teljes pipeline összehasonlításban lehessen futtatni
+// kódmódosítás nélkül.
+export const RERANK_ENABLED = process.env['RERANK_ENABLED'] !== 'false';
 export const CANDIDATE_POOL_SIZE = 15;
 
 const MAX_TOKENS = 1024;
