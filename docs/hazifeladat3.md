@@ -1,12 +1,12 @@
-//AI: 5%
-//---ezzel azt jelzem, hogy a szöveg ami jön mennyi AI generált tartalmat tartalmaz. (de a helyesírási hibákból is lehet következtetni :D) 
+AI: 5%   
+---ezzel azt jelzem, hogy a szöveg ami jön mennyi AI generált tartalmat tartalmaz. (de a helyesírási hibákból is lehet következtetni :D) 
 
-0., Átalakítás, előszó
+## 0., Átalakítás, előszó
 
 - A korábbi nx monorepo megoldással nem voltam megbékélve. Inkább talán személyes ellenszenvem van vele, hogy túlságosan "zajos" és mély struktúrákat eredményez. Mire odamegyek egy fájlhoz, át kell barangolnom a fél világon. Ezért megválltam a monorepó-tól, remélem ez nem okoz negatív pontokat :) Első körben az npm workspace jött elő, az már jobb volt, de nem éreztem még magaménak. Végül egy pure typescript projekt lett belőle, minden az `src` alatt, de mappákba szervezve. Ez nekem sokat segít a megértésben, csökkenti a "kontextusomat" :D és h csak a kódra tudjak fókusználni
 - Sajnos közben a commit history szétesett, kerültek bele olyan kommitok amik nem túl összeszedettek.  Még ha lesz időm squasholok egyet rajta. 
 
-1., Use case és tudásbázis
+## 1., Use case és tudásbázis
 **leadandó:** működő repo: ingest + keresési pipeline + agent, futtatási instrukciókkal
 
 A saját ötletemet folytattam, a társasjátékok szabálykönyveit terveztem betölteni RAG-ba. Első probléma az volt, hogy azok általában PDF-ek képekkel tarkítva, a rag meg szöveg alapú. Erre született megoldás az `app/rule-book-converter`. Ez felolvas egy megadott mappát (`rulebooks`) és az abban lévő PDF-eket odaadja egy vision képes llm modellnek, azzal a felszólítással, hogy képezzen belőlük csak szöveg alapú (txt) adatot. Ha képet talál magyarázza el a szövegben. (Markdown formátumot ad, de txt lett a neve, ezen még egyet iterálnom kellett volna, ezt nem hagynám így production-be menni)
@@ -18,7 +18,7 @@ Az eredeti pdf-eket kézzel halásztam össze, nem találtam rá forrást. Ezeke
 Behoztam a Makefile használatomat, ezt használom a projektjeimben. Így egy helyre van dokumentálva az indítási módok, sokat segít ha több projekt között ugrálni kell. 
 
 
-2., Chunking stratégia és indoklás
+## 2., Chunking stratégia és indoklás
 ```
 Az órán látott bekezdés-alapú chunkolás direkt túlegyszerűsített — arra volt jó, hogy a minta látszódjon. Fejleszd tovább tetszőlegesen, és írd le az indoklást: mi következik a tudásbázisod tagoltságából, mit nyersz a változtatással. A felesleges túlbonyolítás sem érdem — a jó stratégia a tudásbázishoz illik, nem a bevetett technikák számán múlik.
 A chunkolás determinisztikus → tesztelhető. Legalább pár unit teszt legyen rajta.
@@ -28,10 +28,10 @@ A chunkolás determinisztikus → tesztelhető. Legalább pár unit teszt legyen
 
 Stratégiák: 
 
-2.1., olcsó, karakter alapú chunk fixed-size-chunking.ts
+### 2.1., olcsó, karakter alapú chunk fixed-size-chunking.ts
 sorokat gyűjt egy célméretig (karakterben), a következő chunk pár sorral korábban kezdődik (átfedés), hogy a chunk-határon átnyúló mondatok/szabályok ne vesszenek el a kereséskor.
 
-2.2., drágább, LLM meghatározza a szemantikai szakszokat llm-semantic-chunking.ts
+### 2.2., drágább, LLM meghatározza a szemantikai szakszokat llm-semantic-chunking.ts
 egy kis Claude modell jelöli ki a szemantikus szakaszhatárokat (structured output), majd ezek alapján vágjuk ki a chunkokat az eredeti szövegből. Modell: claude-haiku-4-5
 
 Indoklás: 
@@ -42,7 +42,7 @@ Egyéb chunkolási megoldások:
  - Másik, amit nem is értek, de valami olyasmi, hogy egy gyerek chunkot nézünk, majd hozzávesszük a szülő chunkot, és amikor átadjuk a chunk tartalmát, nem csak a gyereket, hanem a szülőt is adjuk, így a kontextus már adottabb. (gyanítom itt nagyobb lesz a tárhely, mert a szülő chunkot is tárolni kell, de lehet relációs módon csökkenthető, míg a komplexitása növekszik)
 
 
-3., Keresés pipeline
+## 3., Keresés pipeline
 ```
 Kötelező elemek:
 Embedding + vektor-tárolás: pgvector ajánlott, de ha mást választasz, indokold
@@ -62,15 +62,15 @@ melyik modell mit csinál, és miért pont az.
 - rerank (`rerank.ts`)
 - grounding (`grounding-check.ts`, be van kötve a query-agent.ts-be a válasz után, log-only)
 - Multi-provider: Anthropic `claude-haiku-4-5` a HyDE/rerank/grounding/szemantikus chunkoláshoz, OpenAI `text-embedding-3-small` az embeddinghez. Lehetne még finomítani, mindenre van megfelelőbb ár/érték arányú modell. 
+ - példa futás a `hazifeladat3-run1.md` fájlban
+
 
 A grounding réteg (GROUNDING_ENABLED=false) ugyanígy kikapcsolható — ez főleg a negatív teszt bemutatásához hasznos: futtasd egyszer bekapcsolva (lásd, hogy a       
 rag_grounding esemény grounded: false-t jelez egy olyan kérdésre, aminek nincs válasza a tudásbázisban), majd kikapcsolva, hogy demonstráld, e nélkül a réteg nélkül a
 prompt-szabály "csak dísz" — a válasz ugyanaz marad, de nincs, ami jelezze, hogy nem megalapozott.
 
 
-
-
-4., Golden Set
+## 4., Golden Set
 ```
 Állíts össze 5–10 kérdésből álló tesztkészletet a saját domainedből, és futtasd le mindet kétféleképpen:
 1. nyers vektorkeresés (csak embedding + távolság)
@@ -89,7 +89,7 @@ A Hyde, Rerank parancssorból kikapcsolható, így külön külön futattam, hog
 pl:  `HYDE_ENABLED=false RERANK_ENABLED=false npm run cli -- ask "$question"`
 Készült egy tesztelő szkript `run-golden-set.sh`, ami 5 kérdés lefuttat ki és bekapcsolt flagek mellett is. Az eredményt is bekommitoltam, bár ilyet nem illik.. 20260729-140431 mappába
 
-Fogalmak
+*Fogalmak*
  - full: HyDE és rerank aktív
  - raw: nyers pipeline
 
@@ -97,7 +97,7 @@ Fogalmak
 - a full mindig rövidebb, a raw mindig hosszabb választ ad
 - az 5. kérdésre nincs válasz, mert a Dixit szabálykönyve nincs a rag adatbázisban. Ezt ügyesen be is vallja mindkét esetben. Full esetében jelzi, hogy saját fejéből talál ki valamit, de próbálkozik vele.
 
-5., Karbantartásra egy arhitektúra javaslat
+## 5., Karbantartásra egy arhitektúra javaslat
 ```
 A tudásbázis nem statikus — a forrás holnap változik, a vektoraid a tegnapi igazságot mondják. Ezt NEM
 kell leimplementálni. Amit kérünk: egy külön dokumentum ( docs/ARCHITEKTURA.md ), ami leírja,
@@ -121,7 +121,7 @@ A docs/ARCHITEKTURA.md. 3 oldalról közelítettem.
 sokat segíthet ha a doksinak vannak jellegzetességei, pl számozott fejezetek, akkor azokra lehet építeni a változás detektálást. Ez viszont az adott projekten dől el. Ha teljesen amorf random struktúrájú dokumentumokat kell rag-olni és azok méretben is jelentősek, akkor azért jobban neki kell ülni papír-ceruzával a feladatnak :D 
 
 
-6., Költségbecslés
+## 6., Költségbecslés
 ```
 Egy rövid bekezdés a README-ben:
 mennyibe került a teljes tudásbázis vektorizálása (ingest)?
@@ -130,7 +130,7 @@ Elég a nagyságrend, de a saját számaidból — nem az órai példából.
 ```
 **leadandó:** költségbecslés
 
-6.1., Mennyibe került a vektorizálás?
+### 6.1., Mennyibe került a vektorizálás?
 `make rag` kiírja a konzolra: 
 ```
 7-Csoda.txt: 34 chunk, ~0 token (chunking), ~23171 token (embedding)
@@ -149,7 +149,7 @@ Kész: 12 sikeres, 0 hibás, 204 chunk összesen, ~0 token (chunking), ~138352 t
 ```
 140k token, ez nem egy nagy tétel, de az szöveganyag se volt lehet elég nagy :( 
 
-6.2., mennyibe kerül egy kérés a pipelineból?
+### 6.2., mennyibe kerül egy kérés a pipelineból?
 
 A goldet-set futtatásból keletkezett adatokra ráküldtem egy összegzőt, ami ez lett: `20260729-140431.report.md`
 
@@ -159,7 +159,7 @@ Ezt elsőre nem értem :) A korábban írt részre gondolok, hogy mivel tudott f
 Egy kérdés a teljes pipelineban: 19782, 40825, stb... de inkább a `20260729-140431.report.md` full összesen sorát nézzétek, ott szebben összegezve van. 
 Az 5 kérdés 50k token-be került.
 
-6.3., token használat.
+### 6.3., token használat.
 
 A házi feladathoz használtam csak az api kulcsaimat, így a usage résznél ezek a számok voltak:
 - openai 0.01$ fogyott   
@@ -167,7 +167,7 @@ A házi feladathoz használtam csak az api kulcsaimat, így a usage résznél ez
 
 Ebből nehéz lenne bármit is jósolni. De megnyugtató, hogy sokkal olcsóbb mint gondoltam. Ez bátorít, hogy jobban belemásszak.
 
-7., Utószó
+## 7., Utószó
 
 - Az órán látott üzenet tárolás, debug adatokkal nagyon tetszett, azt még mindenképp beleteszem valamikor. Sajnos időm nem volt rá. Szeretem én is ha látszik, hogy egy alkalmazás miért úgy működik, ahogy működik. Ez, hogy az üzenetekbe betároljuk a tool-ok használatát, és az még látszik a felületen is, csodálatos. Ilyen mindenképp szeretnék.
 - A házifeladatra szánt idő épp arra volt elég, hogy megérintsen ez is mekkora terület. Már nagyjából értem mit jelent mikor valaki azt mondja hyde vagy grounding. Bár működésre is rábírtam, de még nem látok rá teljesen a fogaskerekek találkozására. A rag-ot már ismertem, így féltem, hogy újat nem mond, de megint tévedtem és csak kapaszkodok, hogy követni tudjam az eseményeket :) 
