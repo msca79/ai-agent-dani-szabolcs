@@ -1,0 +1,119 @@
+//AI: 5%
+//---ezzel azt jelzem, hogy a szöveg ami jön mennyi AI generált tartalmat tartalmaz. (de a helyesírási hibákból is lehet következtetni :D) 
+
+0., Átalakítás, előszó
+
+- A korábbi nx monorepo megoldással nem voltam megbékélve. Inkább talán személyes ellenszenvem van vele, hogy túlságosan "zajos" és mély struktúrákat eredményez. Mire odamegyek egy fájlhoz, át kell barangolnom a fél világon. Ezért megválltam a monorepó-tól, remélem ez nem okoz negatív pontokat :) Első körben az npm workspace jött elő, az már jobb volt, de nem éreztem még magaménak. Végül egy pure typescript projekt lett belőle, minden az `src` alatt, de mappákba szervezve. Ez nekem sokat segít a megértésben, csökkenti a "kontextusomat" :D és h csak a kódra tudjak fókusználni
+- Sajnos közben a commit history szétesett, kerültek bele olyan kommitok amik nem túl összeszedettek.  Még ha lesz időm squasholok egyet rajta. 
+
+1., Use case és tudásbázis
+**leadandó:** működő repo: ingest + keresési pipeline + agent, futtatási instrukciókkal
+
+A saját ötletemet folytattam, a társasjátékok szabálykönyveit terveztem betölteni RAG-ba. Első probléma az volt, hogy azok általában PDF-ek képekkel tarkítva, a rag meg szöveg alapú. Erre született megoldás az `app/rule-book-converter`. Ez felolvas egy megadott mappát (`rulebooks`) és az abban lévő PDF-eket odaadja egy vision képes llm modellnek, azzal a felszólítással, hogy képezzen belőlük csak szöveg alapú (txt) adatot. Ha képet talál magyarázza el a szövegben. (Markdown formátumot ad, de txt lett a neve, ezen még egyet iterálnom kellett volna, ezt nem hagynám így production-be menni)
+
+Először a Sonet 5-re mentem rá, azzal 20 cent volt egy pdf konvertálása, utána a Haiku 4.5, azzal már csak 5 cent. Így vertem el kb 1.2 $ -t konvertálásra :D
+
+Az eredeti pdf-eket kézzel halásztam össze, nem találtam rá forrást. Ezeket nem kommitáltam fel mivel ~50 megabájtosak, de tudom prezentálni őket.
+
+Behoztam a Makefile használatomat, ezt használom a projektjeimben. Így egy helyre van dokumentálva az indítási módok, sokat segít ha több projekt között ugrálni kell. 
+
+
+2., Chunking stratégia és indoklás
+```
+Az órán látott bekezdés-alapú chunkolás direkt túlegyszerűsített — arra volt jó, hogy a minta látszódjon. Fejleszd tovább tetszőlegesen, és írd le az indoklást: mi következik a tudásbázisod tagoltságából, mit nyersz a változtatással. A felesleges túlbonyolítás sem érdem — a jó stratégia a tudásbázishoz illik, nem a bevetett technikák számán múlik.
+A chunkolás determinisztikus → tesztelhető. Legalább pár unit teszt legyen rajta.
+```
+**leadandó:** chunking-stratégia leírása indoklással   
+**értékelés:** _a chunking-döntéseid a tudásbázisodból következnek, nem másolatok_
+
+Stratégiák: 
+
+2.1., olcsó, karakter alapú chunk fixed-size-chunking.ts
+sorokat gyűjt egy célméretig (karakterben), a következő chunk pár sorral korábban kezdődik (átfedés), hogy a chunk-határon átnyúló mondatok/szabályok ne vesszenek el a kereséskor.
+
+2.2., drágább, LLM meghatározza a szemantikai szakszokat llm-semantic-chunking.ts
+egy kis Claude modell jelöli ki a szemantikus szakaszhatárokat (structured output), majd ezek alapján vágjuk ki a chunkokat az eredeti szövegből. Modell: claude-haiku-4-5
+
+Indoklás: 
+- load-knowledge.ts-ben most a fixed-size a bekapcsolt alapértelmezett stratégia. Egyértelműen az olcsósága miatt. 
+
+Egyéb chunkolási megoldások:
+TODO: ezek kombinálása vagy valami teljesen más? esetleg lokális embedding modellek használata, hogy ne fizessünk érte. Figyelembe venni, hogy később nagyobb méretű dokumentumokkal dolgozik és akkor is tudnia kell a határokat, ha újra kell "ragolni" egy doksit
+
+3., Keresés pipeline
+```
+Kötelező elemek:
+Embedding + vektor-tárolás: pgvector ajánlott, de ha mást választasz, indokold
+HyDE
+Rerank
+Grounding: a válaszok forráshivatkozással (dokumentum címe / URL / fájlnév), és ha nincs találat, az agent kimondja
+Multi-provider routing: A pipeline-ban legalább két különböző provider modelljét használd. Írd le a szereposztást és az indoklást:
+melyik modell mit csinál, és miért pont az.
+```
+**leadandó:** golden set + nyers vs. teljes pipeline összevetés + a negatív teszt eredménye   
+**leadandó:** multi-provider szereposztás leírása
+**értékelés:** a grounding működik — a negatív teszt átmegy   
+**értékelés:** a routing-döntéseid indokoltak   
+
+- pgvector: `docker-compose.yml`-ben van, `pgvector/pgvector:pg16`
+- HyDE (`hyde.ts`)
+- rerank (`rerank.ts`)
+- grounding (`grounding-check.ts`, be van kötve a query-agent.ts-be a válasz után, log-only)
+- Multi-provider: Anthropic `claude-haiku-4-5` a HyDE/rerank/grounding/szemantikus chunkoláshoz, OpenAI `text-embedding-3-small` az embeddinghez. Lehetne még finomítani, mindenre van megfelelőbb ár/érték arányú modell. 
+
+4., Golden Set
+```
+Állíts össze 5–10 kérdésből álló tesztkészletet a saját domainedből, és futtasd le mindet kétféleképpen:
+1. nyers vektorkeresés (csak embedding + távolság)
+2. teljes pipeline (HyDE + rerank)
+   A kettő összevetését dokumentáld (táblázat vagy a debug-kimenetek). Legalább egy kérdésnél mutasd
+   be konkrétan, hogy a rerank átrendezte a sorrendet — és írd le, miért jobb az új sorrend. Ha egyetlen
+   kérdésnél sem rendez át semmit, az is eredmény: akkor azt magyarázd meg, miért nem.
+   Negatív teszt
+   A golden setben legyen legalább egy kérdés, amire a tudásbázisodban nincs válasz — és mutasd be,
+   hogy az agent ezt ki is mondja, forráskitalálás helyett. Ez a grounding próbája: enélkül a prompt-szabály
+   csak dísz.
+```
+**értékelés:** a golden set valóban megmutatja, mit ad hozzá a HyDE és a rerank
+
+TODO: Golden set (5-10 kérdés, nyers vs. teljes pipeline összevetés, rerank-átrendezés bemutatása, negatív teszt) — nincs se kód, se dokumentáció rá.   
+
+
+5., Karbantartásra egy arhitektúra javaslat
+```
+A tudásbázis nem statikus — a forrás holnap változik, a vektoraid a tegnapi igazságot mondják. Ezt NEM
+kell leimplementálni. Amit kérünk: egy külön dokumentum ( docs/ARCHITEKTURA.md ), ami leírja,
+hogyan oldanád meg az inkrementális frissítést a saját rendszeredben:
+honnan tudod, hogy egy dokumentum változott (és hogyan éred el, hogy ami nem változott, ne
+vektorizálódjon újra)?
+mi történik az új dokumentummal?
+mi történik a törölt dokumentum chunkjaival?
+mikor / mi triggereli az újraindexelést?
+Kötelező melléklet: egy architektúra-ábra (Miro, draw.io vagy hasonló — screenshot / export a repóba).
+Az ábrán látszódjon a teljes adatfolyam: forrás → változásérzékelés → chunk → embed → tárolás, és a
+törlés/módosítás útja
+```
+**leadandó:** docs/ARCHITEKTURA.md a tudásbázis-karbantartás tervével + ábra-screenshot   
+**értékelés:** az architektúra-spec végiggondolt — az eseteket lefedi, az ábra követhető   
+
+A docs/ARCHITEKTURA.md. 3 oldalról közelítettem. 
+1., full reindex, ha kevés adat van, vagy olcsó a reindex (pl lokális embedding modellünk van)
+2., fájl változás detektálás. Ha egy fájl változott, akkor csak azt frissíti
+3., fájl részlet változás. Bevallom itt még én is csak sejtem, hogy jó a megoldás, de ez már humán arhitekt gondolkodást és masszív fejlesztői munkát igényel (még AI segítséggel is)
+sokat segíthet ha a doksinak vannak jellegzetességei, pl számozott fejezetek, akkor azokra lehet építeni a változás detektálást. Ez viszont az adott projekten dől el. Ha teljesen amorf random struktúrájú dokumentumokat kell rag-olni és azok méretben is jelentősek, akkor azért jobban neki kell ülni papír-ceruzával a feladatnak :D 
+
+
+6., Költségbecslés
+```
+Egy rövid bekezdés a README-ben:
+mennyibe került a teljes tudásbázis vektorizálása (ingest)?
+mennyibe kerül egy kérdés a teljes pipeline-nal (HyDE-hívás + embedding + rerank + válasz)?
+Elég a nagyságrend, de a saját számaidból — nem az órai példából.
+```
+**leadandó:** költségbecslés
+
+
+7., Utószó
+
+- Az órán látott üzenet tárolás, debug adatokkal nagyon tetszett, azt még mindenképp beleteszem valamikor. Sajnos időm nem volt rá. Szeretem én is ha látszik, hogy egy alkalmazás miért úgy működik, ahogy működik. Ez, hogy az üzenetekbe betároljuk a tool-ok használatát, és az még látszik a felületen is, csodálatos. Ilyen mindenképp szeretnék.
+
