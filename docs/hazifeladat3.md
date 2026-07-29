@@ -6,6 +6,16 @@ AI: 5%
 - A korábbi nx monorepo megoldással nem voltam megbékélve. Inkább talán személyes ellenszenvem van vele, hogy túlságosan "zajos" és mély struktúrákat eredményez. Mire odamegyek egy fájlhoz, át kell barangolnom a fél világon. Ezért megválltam a monorepó-tól, remélem ez nem okoz negatív pontokat :) Első körben az npm workspace jött elő, az már jobb volt, de nem éreztem még magaménak. Végül egy pure typescript projekt lett belőle, minden az `src` alatt, de mappákba szervezve. Ez nekem sokat segít a megértésben, csökkenti a "kontextusomat" :D és h csak a kódra tudjak fókusználni
 - Sajnos közben a commit history szétesett, kerültek bele olyan kommitok amik nem túl összeszedettek.  Még ha lesz időm squasholok egyet rajta. 
 
+## Linkek, ha sietsz :)
+https://github.com/msca79/ai-agent-dani-szabolcs/blob/main/docs/hazifeladat3-run1.md
+https://github.com/msca79/ai-agent-dani-szabolcs/tree/main/golden-set-runs/20260729-140431
+https://github.com/msca79/ai-agent-dani-szabolcs/tree/main/rulebooks
+https://github.com/msca79/ai-agent-dani-szabolcs/blob/main/docs/architektura.md
+https://github.com/msca79/ai-agent-dani-szabolcs/tree/main/src/rag
+https://github.com/msca79/ai-agent-dani-szabolcs/tree/main/src/apps/rule-book-converter
+https://github.com/msca79/ai-agent-dani-szabolcs/tree/main/src/tools/search-knowledge
+
+
 ## 1., Use case és tudásbázis
 **leadandó:** működő repo: ingest + keresési pipeline + agent, futtatási instrukciókkal
 
