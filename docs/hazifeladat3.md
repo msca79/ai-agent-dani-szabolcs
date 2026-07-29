@@ -37,8 +37,10 @@ egy kis Claude modell jelöli ki a szemantikus szakaszhatárokat (structured out
 Indoklás: 
 - load-knowledge.ts-ben most a fixed-size a bekapcsolt alapértelmezett stratégia. Egyértelműen az olcsósága miatt. 
 
-Egyéb chunkolási megoldások:
-TODO: ezek kombinálása vagy valami teljesen más? esetleg lokális embedding modellek használata, hogy ne fizessünk érte. Figyelembe venni, hogy később nagyobb méretű dokumentumokkal dolgozik és akkor is tudnia kell a határokat, ha újra kell "ragolni" egy doksit
+Egyéb chunkolási megoldások: 
+ - Egyik érdekes javaslat, hogy mondatonként embeddig-elünk és akkor vágunk amikor a következő mondat hasonlósága megváltozik. Ez azt sugallja hogy új rész kezdődik.
+ - Másik, amit nem is értek, de valami olyasmi, hogy egy gyerek chunkot nézünk, majd hozzávesszük a szülő chunkot, és amikor átadjuk a chunk tartalmát, nem csak a gyereket, hanem a szülőt is adjuk, így a kontextus már adottabb. (gyanítom itt nagyobb lesz a tárhely, mert a szülő chunkot is tárolni kell, de lehet relációs módon csökkenthető, míg a komplexitása növekszik)
+
 
 3., Keresés pipeline
 ```
@@ -87,6 +89,10 @@ A Hyde, Rerank parancssorból kikapcsolható, így külön külön futattam, hog
 pl:  `HYDE_ENABLED=false RERANK_ENABLED=false npm run cli -- ask "$question"`
 Készült egy tesztelő szkript `run-golden-set.sh`, ami 5 kérdés lefuttat ki és bekapcsolt flagek mellett is. Az eredményt is bekommitoltam, bár ilyet nem illik.. 20260729-140431 mappába
 
+Fogalmak
+ - full: HyDE és rerank aktív
+ - raw: nyers pipeline
+
 - a raw többször hívja az llm-et, mig a full kevesebbszer, ez talán azt jelzi, hogy jobb minőségű a válasz és nincs szükség annyi iterációra
 - a full mindig rövidebb, a raw mindig hosszabb választ ad
 - az 5. kérdésre nincs válasz, mert a Dixit szabálykönyve nincs a rag adatbázisban. Ezt ügyesen be is vallja mindkét esetben. Full esetében jelzi, hogy saját fejéből talál ki valamit, de próbálkozik vele.
@@ -124,16 +130,44 @@ Elég a nagyságrend, de a saját számaidból — nem az órai példából.
 ```
 **leadandó:** költségbecslés
 
+6.1., Mennyibe került a vektorizálás?
+`make rag` kiírja a konzolra: 
+```
+7-Csoda.txt: 34 chunk, ~0 token (chunking), ~23171 token (embedding)
+Azul.txt: 10 chunk, ~0 token (chunking), ~6954 token (embedding)
+Bang.txt: 22 chunk, ~0 token (chunking), ~14487 token (embedding)
+Camel.txt: 18 chunk, ~0 token (chunking), ~12069 token (embedding)
+Carcassonne.txt: 13 chunk, ~0 token (chunking), ~8528 token (embedding)
+Catan.txt: 14 chunk, ~0 token (chunking), ~9746 token (embedding)
+Colt-express.txt: 15 chunk, ~0 token (chunking), ~9847 token (embedding)
+Dobble.txt: 10 chunk, ~0 token (chunking), ~6688 token (embedding)
+Fedonevek.txt: 18 chunk, ~0 token (chunking), ~12889 token (embedding)
+Fesztav.txt: 20 chunk, ~0 token (chunking), ~13881 token (embedding)
+Hanabi.txt: 8 chunk, ~0 token (chunking), ~5032 token (embedding)
+Ticket To Ride Europe.txt: 22 chunk, ~0 token (chunking), ~15060 token (embedding)
+Kész: 12 sikeres, 0 hibás, 204 chunk összesen, ~0 token (chunking), ~138352 token (embedding).
+```
+140k token, ez nem egy nagy tétel, de az szöveganyag se volt lehet elég nagy :( 
+
+6.2., mennyibe kerül egy kérés a pipelineból?
+
 A goldet-set futtatásból keletkezett adatokra ráküldtem egy összegzőt, ami ez lett: `20260729-140431.report.md`
 
 A full pipeline kb feleannyi tokent használt mint amikor semmi extra nem volt benne. Full ~50k Raw: ~102k
 Ezt elsőre nem értem :) A korábban írt részre gondolok, hogy mivel tudott finomítani a válaszon ezért kevesebb hívással jobb minőségű eredményt tudott elérni.
 
 Egy kérdés a teljes pipelineban: 19782, 40825, stb... de inkább a `20260729-140431.report.md` full összesen sorát nézzétek, ott szebben összegezve van. 
+Az 5 kérdés 50k token-be került.
 
+6.3., token használat.
 
+A házi feladathoz használtam csak az api kulcsaimat, így a usage résznél ezek a számok voltak:
+- openai 0.01$ fogyott   
+- claude-on 2.1$ (ennek legnagyobb része a szabályok átkonvertálása volt)
+
+Ebből nehéz lenne bármit is jósolni. De megnyugtató, hogy sokkal olcsóbb mint gondoltam. Ez bátorít, hogy jobban belemásszak.
 
 7., Utószó
 
 - Az órán látott üzenet tárolás, debug adatokkal nagyon tetszett, azt még mindenképp beleteszem valamikor. Sajnos időm nem volt rá. Szeretem én is ha látszik, hogy egy alkalmazás miért úgy működik, ahogy működik. Ez, hogy az üzenetekbe betároljuk a tool-ok használatát, és az még látszik a felületen is, csodálatos. Ilyen mindenképp szeretnék.
-
+- A házifeladatra szánt idő épp arra volt elég, hogy megérintsen ez is mekkora terület. Már nagyjából értem mit jelent mikor valaki azt mondja hyde vagy grounding. Bár működésre is rábírtam, de még nem látok rá teljesen a fogaskerekek találkozására. A rag-ot már ismertem, így féltem, hogy újat nem mond, de megint tévedtem és csak kapaszkodok, hogy követni tudjam az eseményeket :) 
