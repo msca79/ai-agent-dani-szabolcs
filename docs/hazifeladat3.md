@@ -84,9 +84,11 @@ A Hyde, Rerank parancssorból kikapcsolható, így külön külön futattam, hog
 pl:  `HYDE_ENABLED=false RERANK_ENABLED=false npm run cli -- ask "$question"`
 Készült egy tesztelő szkript `run-golden-set.sh`, ami 5 kérdés lefuttat ki és bekapcsolt flagek mellett is. Az eredményt is bekommitoltam, bár ilyet nem illik.. 20260729-140431 mappába
 
-*Fogalmak*
+### Fogalmak
  - full: HyDE és rerank aktív
  - raw: nyers pipeline
+
+### tapasztalatok, észrevételek
 
 - a raw többször hívja az llm-et, mig a full kevesebbszer, ez talán azt jelzi, hogy jobb minőségű a válasz és nincs szükség annyi iterációra
 - a full mindig rövidebb, a raw mindig hosszabb választ ad
@@ -149,7 +151,7 @@ Kész: 12 sikeres, 0 hibás, 204 chunk összesen, ~0 token (chunking), ~138352 t
 A goldet-set futtatásból keletkezett adatokra ráküldtem egy összegzőt, ami ez lett: `20260729-140431.report.md`
 
 A full pipeline kb feleannyi tokent használt mint amikor semmi extra nem volt benne. Full ~50k Raw: ~102k
-Ezt elsőre nem értem :) A korábban írt részre gondolok, hogy mivel tudott finomítani a válaszon ezért kevesebb hívással jobb minőségű eredményt tudott elérni.
+Ezt elsőre nem értem mért is kevesebb :) Talán mert finomítani tudott a kérdésen, ezért kevesebb hívással jobb minőségű eredményt tudott elérni.
 
 Egy kérdés a teljes pipelineban: 19782, 40825, stb... de inkább a `20260729-140431.report.md` full összesen sorát nézzétek, ott szebben összegezve van. 
 Az 5 kérdés 50k token-be került.
